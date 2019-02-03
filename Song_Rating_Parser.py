@@ -210,8 +210,6 @@ for artist in artist_list:
 # [group name, average, controversy, total, [[score, name],...][[average, name, comment]...], 'BIGGEST FAN INFO STRING',
 # 'BIGGEST ANTI INFO STRING']
 
-print(artist_list[0])
-
 for rating in rating_list:
     if isinstance(rating[0], int):
         results.write('__**' + str(rating[0]) + ') ' + rating[3] + ' - ' + rating[4] + '**__\n')
