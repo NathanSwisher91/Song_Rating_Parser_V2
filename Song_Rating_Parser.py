@@ -78,6 +78,7 @@ with open('Comments.csv', newline='', encoding='utf-8') as csvfile:
 
 rating_list = []
 artist_list = []
+artist_scores = []
 
 first_line = True
 for overall_fields, comments_fields in zip(overall, comments):
@@ -88,8 +89,14 @@ for overall_fields, comments_fields in zip(overall, comments):
     elif overall_fields[0] != '' and overall_fields[1] == '':
         current_group = overall_fields[0][:-5]
         number_of_songs = overall_fields[0][-3:-1]
+        i = 4
+        for score in overall_fields[4:]:
+            if score != '':
+                artist_scores.append([int(score), overall_header[i]])
+            i = i + 1
+        artist_scores.sort(key=lambda l: [-l[0], l[1].lower()])
     elif overall_fields[0] == 'Total':
-        artist = [round(float(overall_fields[1]), 3), round(float(overall_fields[3]), 2), current_group, overall_fields[2]]
+        artist = [round(float(overall_fields[1]), 3), round(float(overall_fields[3]), 2), current_group, overall_fields[2], artist_scores]
         ratings = []
         for rating, name in zip(overall_fields[4:], overall_header[4:]):
             if name != '':
@@ -97,6 +104,7 @@ for overall_fields, comments_fields in zip(overall, comments):
         ratings.sort(key=lambda l: [-float(l[0]), l[1].lower()])
         artist.append(ratings)
         artist_list.append(artist)
+        artist_scores = []
     else:
         song = [round(float(overall_fields[1]), 2), round(float(overall_fields[3]), 2), overall_fields[0], current_group, overall_fields[2]]
         ratings = []
@@ -199,8 +207,10 @@ for artist in artist_list:
 # [rating, average, controversy, song name, group name, total, [[score1, name1, comment1, ....]]
 
 # EACH ARTIST OBJECT
-# [group name, average, controversy, total, [[average, name, comment]...], 'BIGGEST FAN INFO STRING',
+# [group name, average, controversy, total, [[score, name],...][[average, name, comment]...], 'BIGGEST FAN INFO STRING',
 # 'BIGGEST ANTI INFO STRING']
+
+print(artist_list[0])
 
 for rating in rating_list:
     if isinstance(rating[0], int):
@@ -232,18 +242,33 @@ for rating in rating_list:
         results.write('\n\n')
         results.write('__**' + rating[0] + '**__\n')
         results.write('**Overall Average:** ' + str(rating[1]) + '\n')
-        results.write('**Total Points:** ' + str(rating[4]) + '\n')
+        results.write('**Total Points:** ' + str(rating[3]) + '\n')
         results.write('**Controversy:** ' + str(rating[2]) + '\n\n')
-        results.write(rating[5] + '\n')
         results.write(rating[6] + '\n')
+        results.write(rating[7] + '\n')
         results.write('\n__Rankings__\n')
 
         for song in reversed_song_list:
             if song[4] == rating[0]:
                 results.write(str(song[0]) + ') ' + song[3] + '\n')
 
-        results.write('\n\nComments\n')
+        results.write('\n__Scores__')
+
+        last_used_score = -1
+        score_string = ''
         for score in rating[4]:
+            if score[0] == last_used_score:
+                score_string = score_string + score[1] + ', '
+                pass
+            else:
+                score_string = score_string[:-2]
+                results.write(score_string)
+                last_used_score = score[0]
+                score_string = '\n' + str(last_used_score) + ' - ' + score[1] + ', '
+
+
+        results.write('\n\n__Comments__\n')
+        for score in rating[5]:
             results.write('**' + score[1] + ' (' + str(score[0]) + '):** "' + score[2] + '"\n')
         results.write('\n\n\n---------------------\n\n')
         pass
