@@ -1,6 +1,4 @@
-#averages = open('Averages.csv', 'r')
 import csv
-from operator import itemgetter
 
 results = open('Results.txt', 'w', encoding='utf-8')
 
@@ -216,7 +214,7 @@ for rating in rating_list:
         results.write('**Average:** ' + str(rating[1]) + '\n')
         results.write('**Total Points:** ' + str(rating[5]) + '\n')
         results.write('**Controversy:** ' + str(rating[2]) + '\n\n')
-        results.write('__Scores__\n')
+        results.write('__Scores__')
 
         last_used_score = -1
         score_string = ''
@@ -230,6 +228,9 @@ for rating in rating_list:
                 last_used_score = score[0]
                 score_string = '\n' + str(last_used_score) + ' - ' + score[1] + ', '
 
+        score_string = score_string[:-2]
+        results.write(score_string)
+
         results.write('\n\n__Comments__\n')
         for score in rating[6]:
             if score[2] != '':
@@ -240,8 +241,7 @@ for rating in rating_list:
         results.write('\n\n')
         results.write('__**' + rating[0] + '**__\n')
         results.write('**Overall Average:** ' + str(rating[1]) + '\n')
-        results.write('**Total Points:** ' + str(rating[3]) + '\n')
-        results.write('**Controversy:** ' + str(rating[2]) + '\n\n')
+        results.write('**Total Points:** ' + str(rating[3]) + '\n\n')
         results.write(rating[6] + '\n')
         results.write(rating[7] + '\n')
         results.write('\n__Rankings__\n')
@@ -264,10 +264,13 @@ for rating in rating_list:
                 last_used_score = score[0]
                 score_string = '\n' + str(last_used_score) + ' - ' + score[1] + ', '
 
+        score_string = score_string[:-2]
+        results.write(score_string)
 
         results.write('\n\n__Comments__\n')
         for score in rating[5]:
-            results.write('**' + score[1] + ' (' + str(score[0]) + '):** "' + score[2] + '"\n')
+            if score[2] != '':
+                results.write('**' + score[1] + ' (' + str(score[0]) + '):** "' + score[2] + '"\n')
         results.write('\n\n\n---------------------\n\n')
         pass
 

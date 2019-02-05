@@ -9,6 +9,8 @@ Make sure each file is named accordingly (Overall.csv, Comments.csv, Averages.cs
 
 Then put these 4 files in the same folder as the python script (and this README)
 
-Now you need to go to this folder in a terminal and type 'python Song_Rating_Parser.py'
+Commands to run program:
+- cd /Users/samanthathomas/Documents/Ratings
+- python3 Song_Rating_Parser.py
 
 After hitting enter, there should be a "Results.txt" file that contains everything you need!
