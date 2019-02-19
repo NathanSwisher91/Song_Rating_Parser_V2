@@ -210,7 +210,15 @@ for artist in artist_list:
 
 for rating in rating_list:
     if isinstance(rating[0], int):
-        results.write('__**' + str(rating[0]) + ') ' + rating[3] + ' - ' + rating[4] + '**__\n')
+        song_link = None
+        if '{' in rating[3]:
+            song_link = rating[3].split('{', 1)[1].split('}')[0]
+            song_name = rating[3].split('{')[0]
+        else:
+            song_name = rating[3]
+        results.write('__**' + str(rating[0]) + ') ' + song_name + ' - ' + rating[4] + '**__\n')
+        if song_link is not None:
+            results.write('<' + song_link + '>\n')
         results.write('**Average:** ' + str(rating[1]) + '\n')
         results.write('**Total Points:** ' + str(rating[5]) + '\n')
         results.write('**Controversy:** ' + str(rating[2]) + '\n\n')
