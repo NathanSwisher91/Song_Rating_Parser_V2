@@ -16,10 +16,10 @@ for average_fields in averages:
         pass
     elif average_fields[1] == '':
         results.write('__**' + average_fields[0] + '**__\n')
-    elif average_fields[0] == 'Average':
+    elif average_fields[0].strip() == 'Average':
         results.write('\n')
         results.write('**Overall Average:** ' + average_fields[1] + '\n')
-    elif average_fields[0] == 'Mode':
+    elif average_fields[0].strip() == 'Mode':
         results.write('**Most Used Score:** ' + average_fields[1] + '\n')
         results.write('----------------------\n')
     else:
@@ -45,9 +45,9 @@ for compatibility_fields in compatibility:
         comp.append(['__**' + compatibility_fields[0] + '**__\n'])
     elif len(comp[index]) == 1:
         comp[index].insert(0, float(compatibility_fields[1][:-1]))
-        comp[index].append('**' + compatibility_fields[0] + ':** ' + compatibility_fields[1] + ' (' + compatibility_fields[2][:4] + ') :heart:\n')
+        comp[index].append('**' + compatibility_fields[0] + ':** ' + compatibility_fields[1] + ' :heart:\n')
     else:
-        comp[index].append('**' + compatibility_fields[0] + ':** ' + compatibility_fields[1] + ' (' + compatibility_fields[2][:4] + ')\n')
+        comp[index].append('**' + compatibility_fields[0] + ':** ' + compatibility_fields[1] + '\n')
 
 comp.sort()
 
@@ -85,15 +85,15 @@ for overall_fields, comments_fields in zip(overall, comments):
         comments_header = comments_fields
         first_line = False
     elif overall_fields[0] != '' and overall_fields[1] == '':
-        current_group = overall_fields[0][:-5]
-        number_of_songs = overall_fields[0][-3:-1]
+        current_group = overall_fields[0].split('{')[0]
+        number_of_songs = overall_fields[0].split('{', 1)[1].split('}')[0]
         i = 4
         for score in overall_fields[4:]:
             if score != '':
                 artist_scores.append([int(score), overall_header[i]])
             i = i + 1
         artist_scores.sort(key=lambda l: [-l[0], l[1].lower()])
-    elif overall_fields[0] == 'Total':
+    elif overall_fields[0].strip() == 'Total':
         artist = [round(float(overall_fields[1]), 3), round(float(overall_fields[3]), 2), current_group, overall_fields[2], artist_scores]
         ratings = []
         for rating, name in zip(overall_fields[4:], overall_header[4:]):
@@ -132,7 +132,7 @@ for overall_fields in overall:
         elif overall_fields[0] == '':
             first_line = True
             for artist in artist_list:
-                if artist[2] == artist_name:
+                if artist[2].strip() == artist_name:
                     biggest_fans = '**Biggest ' + fandom_name + 's:** '
                     biggest_antis = '**Biggest Antis:** '
                     scores = []
@@ -160,11 +160,11 @@ for overall_fields in overall:
                     artist.append(biggest_antis)
         else:
             ratings.append([overall_fields[0], round(float(overall_fields[1]), 2)])
-    if overall_fields[0] == 'Biggest Fans/Antis':
+    if overall_fields[0].strip() == 'Biggest Fans/Antis':
         pre_fan_anti_section = False
 
 for artist in artist_list:
-    if artist[2] == artist_name:
+    if artist[2].strip() == artist_name:
         biggest_fans = '**Biggest ' + fandom_name + 's:** '
         biggest_antis = '**Biggest Antis:** '
         scores = []
@@ -256,7 +256,7 @@ for rating in rating_list:
 
         for song in reversed_song_list:
             if song[4] == rating[0]:
-                results.write(str(song[0]) + ') ' + song[3] + '\n')
+                results.write(str(song[0]) + ') ' + song[3].split('{')[0] + '\n')
 
         results.write('\n__Scores__')
 
