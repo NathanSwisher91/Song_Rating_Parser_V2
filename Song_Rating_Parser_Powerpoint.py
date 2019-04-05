@@ -16,7 +16,7 @@ for average_fields in averages:
     if average_fields[0] == '':
         pass
     elif average_fields[1] == '':
-        results.write('__' + average_fields[0] + '__\n')
+        results.write('' + average_fields[0] + '\n')
         average_list = []
     elif average_fields[0].strip() == 'Average':
         average_list.sort(reverse=True)
@@ -55,7 +55,7 @@ for compatibility_fields in compatibility:
                 comp[index].append('' + ind_comp[2] + ': ' + str(ind_comp[0]) + '% ('+str(ind_comp[1])+')\n')
         individual_comp_list = []
         index = index + 1
-        comp.append(['__' + compatibility_fields[0] + '__\n'])
+        comp.append(['' + compatibility_fields[0] + '\n'])
     else:
         individual_comp_list.append([float(compatibility_fields[1][:-1]), round(float(compatibility_fields[2]), 3), compatibility_fields[0]])
 
@@ -237,13 +237,13 @@ for rating in rating_list:
             song_name = rating[3].split('{')[0]
         else:
             song_name = rating[3]
-        results.write('__' + str(rating[0]) + ') ' + song_name + ' - ' + rating[4] + '__\n')
+        results.write('' + str(rating[0]) + ') ' + song_name + ' - ' + rating[4] + '\n')
         if song_link is not None:
-            results.write('<' + song_link + '>\n')
+            results.write('' + song_link + '\n')
         results.write('Average: ' + str(rating[1]) + '\n')
         results.write('Total Points: ' + str(rating[5]) + '\n')
         results.write('Controversy: ' + str(rating[2]) + '\n\n')
-        results.write('__Scores__')
+        results.write('Scores')
 
         last_used_score = -1
         score_string = ''
@@ -260,7 +260,7 @@ for rating in rating_list:
         score_string = score_string[:-2]
         results.write(score_string)
 
-        results.write('\n\n__Comments__\n')
+        results.write('\n\nComments\n')
         for score in rating[6]:
             if score[2] != '':
                 results.write('"' + score[2] + '" - ' + score[1] + ' (' + str(score[0]) + ')\n')
@@ -268,18 +268,18 @@ for rating in rating_list:
         results.write('\n---------------------\n\n')
     else:
         results.write('\n\n')
-        results.write('__' + rating[0] + '__\n')
+        results.write('' + rating[0] + '\n')
         results.write('Overall Average: ' + str(rating[1]) + '\n')
         results.write('Total Points: ' + str(rating[3]) + '\n\n')
         results.write(rating[6] + '\n')
         results.write(rating[7] + '\n')
-        results.write('\n__Rankings__\n')
+        results.write('\nRankings\n')
 
         for song in reversed_song_list:
             if song[4] == rating[0]:
                 results.write(str(song[0]) + ') ' + song[3].split('{')[0] + '\n')
 
-        results.write('\n__Scores__')
+        results.write('\nScores')
 
         last_used_score = -1
         score_string = ''
@@ -296,7 +296,7 @@ for rating in rating_list:
         score_string = score_string[:-2]
         results.write(score_string)
 
-        results.write('\n\n__Comments__\n')
+        results.write('\n\nComments\n')
         for score in rating[5]:
             if score[2] != '':
                 results.write('' + score[1] + ' (' + str(score[0]) + '): "' + score[2] + '"\n')
