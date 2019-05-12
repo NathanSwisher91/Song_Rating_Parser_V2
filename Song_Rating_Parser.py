@@ -102,14 +102,18 @@ for overall_fields, comments_fields in zip(overall, comments):
         comments_header = comments_fields
         first_line = False
     elif overall_fields[0] != '' and overall_fields[1] == '':
-        current_group = overall_fields[0].split('{')[0]
-        number_of_songs = overall_fields[0].split('{', 1)[1].split('}')[0]
-        i = 4
-        for score in overall_fields[4:]:
-            if score != '':
-                artist_scores.append([int(score), overall_header[i]])
-            i = i + 1
-        artist_scores.sort(key=lambda l: [-l[0], l[1].lower()])
+        if '{' in overall_fields[0]:
+            current_group = overall_fields[0].split('{')[0]
+            number_of_songs = overall_fields[0].split('{', 1)[1].split('}')[0]
+            i = 4
+            for score in overall_fields[4:]:
+                if score != '':
+                    artist_scores.append([int(score), overall_header[i]])
+                i = i + 1
+            artist_scores.sort(key=lambda l: [-l[0], l[1].lower()])
+        else:
+            current_group = ''
+            number_of_songs = 1
     elif overall_fields[0].strip() == 'Total':
         artist = [round(float(overall_fields[1]), 3), round(float(overall_fields[3]), 2), current_group, overall_fields[2], artist_scores]
         ratings = []
@@ -120,6 +124,10 @@ for overall_fields, comments_fields in zip(overall, comments):
         artist.append(ratings)
         artist_list.append(artist)
         artist_scores = []
+    elif overall_fields[0].strip() == 'N/A':
+        pass
+    elif overall_fields[0].strip() == 'Final Thoughts':
+        pass
     else:
         song = [round(float(overall_fields[1]), 2), round(float(overall_fields[3]), 2), overall_fields[0], current_group, overall_fields[2]]
         ratings = []
@@ -149,7 +157,7 @@ for overall_fields in overall:
         elif overall_fields[0] == '':
             first_line = True
             for artist in artist_list:
-                if artist[2].strip() == artist_name:
+                if artist[2].strip().lower() == artist_name.lower():
                     biggest_fans = '**Biggest ' + fandom_name + 's:** '
                     biggest_antis = '**Biggest Antis:** '
 
@@ -183,34 +191,37 @@ for overall_fields in overall:
     if overall_fields[0].strip() == 'Biggest Fans/Antis':
         pre_fan_anti_section = False
 
-for artist in artist_list:
-    if artist[2].strip() == artist_name:
-        biggest_fans = '**Biggest ' + fandom_name + 's:** '
-        biggest_antis = '**Biggest Antis:** '
+try:
+    for artist in artist_list:
+        if artist[2].strip().lower() == artist_name.lower():
+            biggest_fans = '**Biggest ' + fandom_name + 's:** '
+            biggest_antis = '**Biggest Antis:** '
 
-        ratings.sort(key=lambda l: [-l[1], l[0].lower()])
+            ratings.sort(key=lambda l: [-l[1], l[0].lower()])
 
-        biggest_fans = biggest_fans + ratings[0][0] + ' (' + str(ratings[0][1]) + '), '
-        biggest_fans = biggest_fans + ratings[1][0] + ' (' + str(ratings[1][1]) + '), '
-        biggest_antis = biggest_antis + ratings[len(ratings)-1][0] + ' (' + str(ratings[len(ratings)-1][1]) + '), '
-        biggest_antis = biggest_antis + ratings[len(ratings)-2][0] + ' (' + str(ratings[len(ratings)-2][1]) + '), '
+            biggest_fans = biggest_fans + ratings[0][0] + ' (' + str(ratings[0][1]) + '), '
+            biggest_fans = biggest_fans + ratings[1][0] + ' (' + str(ratings[1][1]) + '), '
+            biggest_antis = biggest_antis + ratings[len(ratings)-1][0] + ' (' + str(ratings[len(ratings)-1][1]) + '), '
+            biggest_antis = biggest_antis + ratings[len(ratings)-2][0] + ' (' + str(ratings[len(ratings)-2][1]) + '), '
 
-        fan_score = ratings[2][1]
-        anti_score = ratings[len(ratings) - 3][1]
+            fan_score = ratings[2][1]
+            anti_score = ratings[len(ratings) - 3][1]
 
-        for rating in ratings[2:]:
-            if rating[1] == fan_score:
-                biggest_fans = biggest_fans + rating[0] + ' (' + str(rating[1]) + '), '
+            for rating in ratings[2:]:
+                if rating[1] == fan_score:
+                    biggest_fans = biggest_fans + rating[0] + ' (' + str(rating[1]) + '), '
 
-        ratings.sort(key=lambda l: [l[1], l[0].lower()])
-        for rating in ratings[2:]:
-            if rating[1] == anti_score:
-                biggest_antis = biggest_antis + rating[0] + ' (' + str(rating[1]) + '), '
+            ratings.sort(key=lambda l: [l[1], l[0].lower()])
+            for rating in ratings[2:]:
+                if rating[1] == anti_score:
+                    biggest_antis = biggest_antis + rating[0] + ' (' + str(rating[1]) + '), '
 
-        biggest_fans = biggest_fans[:-2]
-        biggest_antis = biggest_antis[:-2]
-        artist.append(biggest_fans)
-        artist.append(biggest_antis)
+            biggest_fans = biggest_fans[:-2]
+            biggest_antis = biggest_antis[:-2]
+            artist.append(biggest_fans)
+            artist.append(biggest_antis)
+except NameError:
+    pass
 
 reversed_song_list = sorted(rating_list)
 
