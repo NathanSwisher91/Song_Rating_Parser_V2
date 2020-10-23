@@ -1,5 +1,5 @@
 Before you can run this script at all, you'll need to download python from here https://www.python.org/downloads/
-I have version 3.7.2, so get that version just in case, should be the latest.
+I have version 3.9.0, so get that version just in case, should be the latest.
 
 
 To use the script. You will need to download Overall, Comments, Averages, and Compatibility sheets as CSV files.
@@ -10,7 +10,7 @@ Make sure each file is named accordingly (Overall.csv, Comments.csv, Averages.cs
 Then put these 4 files in the same folder as the python script (and this README)
 
 Commands to run program:
-- cd /Users/samanthathomas/Documents/Ratings
+- cd "LOCATION_OF_SCRIPT" (this will take you to the script location in command line)
 - python3 Song_Rating_Parser.py
 
 After hitting enter, there should be a "Results.txt" file that contains everything you need!
