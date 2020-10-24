@@ -3,7 +3,7 @@ I have version 3.9.0, so get that version just in case, should be the latest.
 
 Rules:
 - Spreadsheet csv files must be the name you want shown in the results and can only be one word.
-- Overall or N/A must be the last song for each artist (to handle the overall scores and comments, or N/A if not needed)
+- Overall or N/A must be the last song for each artist (to handle the overall artist scores and comments, or N/A if not needed)
 
 To use the script. You will need to download Overall, Comments, Averages, and Compatibility sheets as CSV files.
 In google sheets, just go to File -> Download As -> Comma-seperated values (.csv)

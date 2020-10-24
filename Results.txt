@@ -35,3 +35,176 @@ __**Test3**__
 **Test2:** 44.44% :heart:
 **Test1:** 17.78%
 ----------------------
+
+
+RANKINGS
+__**9) I Don't Care - 2NE1**__
+**Average:** 4.67
+**Total Points:** 14
+**Controversy:** 1.53
+
+__Scores__
+6 - Test2
+5 - Test3
+3 - Test1
+
+__Comments__
+**Test1 (3):** "IDC Comment"
+
+----------------------
+
+__**8) Clap Your Hands - 2NE1**__
+**Average:** 5.33
+**Total Points:** 16
+**Controversy:** 4.51
+
+__Scores__
+10 - Test2
+5 - Test1
+1 - Test3
+
+__Comments__
+**Test1 (5):** "CYH Comment"
+
+----------------------
+
+__**7) Fire - 2NE1**__
+**Average:** 5.33
+**Total Points:** 16
+**Controversy:** 4.51
+
+__Scores__
+10 - Test3
+5 - Test2
+1 - Test1
+
+__Comments__
+**Test1 (1):** "FireComment"
+
+----------------------
+
+__**2NE1**__
+**Overall Average:** 0
+**Total Points:** 0
+**Controversy:** 0
+
+**Biggest Fans:** 
+**Biggest Antis:** 
+
+__Rankings__
+7) Fire
+8) Clap Your Hands
+9) I Don't Care
+
+__Scores__
+
+__Comments__
+
+
+__**6) Hush - APink**__
+**Average:** 5.33
+**Total Points:** 16
+**Controversy:** 4.16
+
+__Scores__
+10 - Test1
+4 - Test2
+2 - Test3
+
+__Comments__
+**Test1 (10):** "Hush Comment"
+
+----------------------
+
+__**5) Muzik - 4Minute**__
+**Average:** 5.33
+**Total Points:** 16
+**Controversy:** 4.16
+
+__Scores__
+10 - Test3
+4 - Test1
+2 - Test2
+
+__Comments__
+**Test1 (4):** "Muzik Comment"
+
+----------------------
+
+__**4) Hot Issue - 4Minute**__
+**Average:** 5.67
+**Total Points:** 17
+**Controversy:** 3.51
+
+__Scores__
+9 - Test2
+6 - Test1
+2 - Test3
+
+__Comments__
+**Test1 (6):** "IHI Comment"
+
+----------------------
+
+__**3) I Don't Know - APink**__
+**Average:** 5.67
+**Total Points:** 17
+**Controversy:** 2.89
+
+__Scores__
+9 - Test1
+4 - Test2, Test3
+
+__Comments__
+**Test1 (9):** "IDK Comment"
+
+----------------------
+
+__**2) NoNoNo - APink**__
+**Average:** 6.0
+**Total Points:** 18
+**Controversy:** 3.61
+
+__Scores__
+9 - Test3
+7 - Test2
+2 - Test1
+
+__Comments__
+**Test1 (2):** "NNN Comment"
+
+----------------------
+
+__**1) My My - APink**__
+**Average:** 7.33
+**Total Points:** 22
+**Controversy:** 1.15
+
+__Scores__
+8 - Test2, Test3
+6 - Test1
+
+__Comments__
+**Test1 (6):** "MM Comment"
+
+----------------------
+
+__**APink**__
+**Overall Average:** 0
+**Total Points:** 0
+**Controversy:** 0
+
+**Biggest Fans:** 
+**Biggest Antis:** 
+
+__Rankings__
+1) My My
+2) NoNoNo
+3) I Don't Know
+6) Hush
+
+__Scores__
+
+__Comments__
+
+
