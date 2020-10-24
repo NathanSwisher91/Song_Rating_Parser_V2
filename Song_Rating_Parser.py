@@ -1,10 +1,195 @@
 import csv
+import os
+from collections import Counter
+from itertools import groupby
+
+def averageStringFromList(list):
+    sumTotal = 0
+    for value in list:
+        sumTotal = sumTotal + value
+
+    return str(round(sumTotal / len(list), 2))
+
+
+def averageTotalMostUsedStringsFromList(list):
+    sumTotal = 0
+    data = Counter(list)
+    for value in list:
+        sumTotal = sumTotal + value
+
+    average = sumTotal / len(list)
+    freqs = groupby(Counter(list).most_common(), lambda x: x[1])
+    modes = [val for val,count in next(freqs)[1]]
+    return [str(average), str(sumTotal), ', '.join(str(i) for i in modes)]
+
+
+def averagePointsControversyStringsFromList(list):
+    sumTotal = 0
+    for value in list:
+        sumTotal = sumTotal + value
+
+    average = round(sumTotal / len(list), 2)
+
+    return [str(average), str(sumTotal), '']
+
+
+def getCompatFromLists(list1, list2):
+    compatSum = 0
+    i = 0
+    for x,y in zip(list1, list2):
+        difference = abs(x-y)
+        if difference < 5:
+            compatSum = compatSum + 1 - (difference * .2)
+    return str(round((compatSum / len(list1)) * 100, 2))
+
+
+def fillOutScoreData(userList):
+    scoreDict = {}
+    for userInfo in userList:
+        score = userInfo[0]
+        userName = userInfo[1]
+        if score not in scoreDict:
+            scoreDict[score] = [userName]
+        else:
+            scoreDict[score].append(userName)
+
+        scoreDict[score].sort()
+
+    return scoreDict
+
+
+def fillOutSongData(songDict):
+    for songKey, songData in songDict.items():
+        scoreList = []
+        userInfo = songData["UserInfo"]
+        userInfo.sort(reverse=True)
+        songData["UserInfo"] = userInfo
+        #print(userInfo)
+        for score in userInfo:
+            scoreList.append(score[0])
+
+        parsedData = averagePointsControversyStringsFromList(scoreList)
+        songData["Average"] = parsedData[0]
+        songData["Points"] = parsedData[1]
+        songData["Controversy"] = parsedData[2]
+        songData["ScoreInfo"] = fillOutScoreData(userInfo)
+
+
+def createSortedSongListFromDict(songDict):
+    songList = []
+    for songKey, songData in songDict.items():
+        songList.append([songData["Average"], songKey])
+    songList.sort()
+    return songList
+
+
+def fillOutArtistData(artistDict):
+    pass
+
+
+
+userInfo = {}
+artistInfo = {}
+songInfo = {}
+firstFile = True
+with os.scandir('Rating/') as ratings:
+    for rating in ratings:
+        userName = rating.name[:-4]
+        userInfo[userName] = {"AllScores": []}
+
+        with open(rating, newline='', encoding='utf-8') as file:
+            fileReader = csv.reader(file)
+            next(fileReader)
+            for row in fileReader:
+                artist = row[0]
+                song = row[1]
+                score = row[2]
+                comment = row[3]
+
+                if firstFile and song != 'Overall' and song != 'N/A' and (song + ' - ' + artist) not in songInfo:
+                    songInfo[song + ' - ' + artist] = {"Average": 0, "Points": 0, "Controversy": 0, "UserInfo": []}
+                elif firstFile and artist not in artistInfo:
+                    artistInfo[artist] = {"Average": 0, "Points": 0, "Controversy": 0, "Biggest Fans": [],
+                                          "Biggest Antis": [], "Songs": [], "UserInfo": []}
+
+
+                if score != "":
+                    score = int(score)
+
+                if song == "Overall":
+                    artistInfo[artist]["UserInfo"].append([score, userName, comment])
+                elif song != "N/A":
+                    userInfo[userName]["AllScores"].append(score)
+                    songInfo[song + ' - ' + artist]["UserInfo"].append([score, userName, comment])
+                    if artist not in userInfo[userName]:
+                        userInfo[userName][artist] = []
+                        userInfo[userName][artist].append(score)
+                    else:
+                        userInfo[userName][artist].append(score)
+                else:
+                    if artist in artistInfo:
+                        del artistInfo[artist]
+                    if artist in userInfo[userName]:
+                        del userInfo[userName][artist]
+
+        if firstFile:
+            firstFile = False
+
+fillOutSongData(songInfo)
+fillOutArtistData(artistInfo)
+print(createSortedSongListFromDict(songInfo))
+print(userInfo)
+print(songInfo)
+print(artistInfo)
 
 results = open('Results.txt', 'w', encoding='utf-8')
-
 results.write('AVERAGES\n')
 
-averages = []
+for userKey, userValue in userInfo.items():
+    results.write('__**' + userKey + '**__\n')
+    overallAverageInfo = averageTotalMostUsedStringsFromList(userValue["AllScores"])
+    averages = []
+    for artistKey, artistValue in userValue.items():
+        if artistKey != "AllScores":
+            averages.append([averageStringFromList(artistValue), artistKey])
+    averages.sort(reverse=True)
+    for group in averages:
+        results.write('**' + group[1] + ':** ' + group[0] + '\n')
+    results.write('**Overall Average:** ' + overallAverageInfo[0] + '\n')
+    results.write('**Total Points:** ' + overallAverageInfo[1] + '\n')
+    results.write('**Most Used Score:** ' + overallAverageInfo[2] + '\n')
+    results.write('----------------------\n')
+
+results.write('\n\nCOMPATIBILITY\n')
+overallCompatList = []
+for userKey, userValue in userInfo.items():
+    user1Scores = userValue["AllScores"]
+    compatList = []
+    for userKey2, userValue2 in userInfo.items():
+        if userKey != userKey2:
+            user2Scores = userValue2["AllScores"]
+            compatList.append([getCompatFromLists(user1Scores, user2Scores), userKey2])
+    compatList.sort(reverse=True)
+    overallCompatList.append([compatList[0][0], userKey, compatList])
+
+overallCompatList.sort()
+
+for userCompat in overallCompatList:
+    results.write('__**' + userCompat[1] + '**__\n')
+    firstCompat = True
+    for compat in userCompat[2]:
+        if firstCompat:
+            results.write('**' + compat[1] + ':** ' + compat[0] + '% :heart:\n')
+            firstCompat = False
+        else:
+            results.write('**' + compat[1] + ':** ' + compat[0] + '%\n')
+    results.write('----------------------\n')
+
+print(overallCompatList)
+
+            
+            
+#######################################################################################
 
 with open('Averages.csv', newline='', encoding='utf-8') as csvfile:
     spamreader = csv.reader(csvfile)
