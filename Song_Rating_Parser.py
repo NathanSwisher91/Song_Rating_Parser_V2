@@ -75,11 +75,19 @@ def fillOutSongData(songDict):
         songData["ScoreInfo"] = fillOutScoreData(userInfo)
 
 
-def createSortedSongListFromDict(songDict):
+def createSortedSongAndArtistListFromDict(songDict, artistDict):
     songList = []
     for songKey, songData in songDict.items():
         songList.append([songData["Average"], songKey])
     songList.sort()
+    for artist in artistDict.keys():
+        lastArtistIndex = -1
+        for index, song in enumerate(songList):
+            if artist in song[1]:
+                lastArtistIndex = index
+
+        songList.insert(lastArtistIndex + 1, [None, artist])
+
     return songList
 
 
@@ -137,10 +145,11 @@ with os.scandir('Rating/') as ratings:
 
 fillOutSongData(songInfo)
 fillOutArtistData(artistInfo)
-print(createSortedSongListFromDict(songInfo))
+sortedSongAndArtistList = createSortedSongAndArtistListFromDict(songInfo, artistInfo)
 print(userInfo)
 print(songInfo)
 print(artistInfo)
+print(sortedSongAndArtistList)
 
 results = open('Results.txt', 'w', encoding='utf-8')
 results.write('AVERAGES\n')
