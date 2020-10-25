@@ -1,43 +1,57 @@
 AVERAGES
+
 __**Test1**__
 **APink:** 6.75
 **2NE1:** 3.0
 **Overall Average:** 5.111111111111111
 **Total Points:** 46
 **Most Used Score:** 6
+
 ----------------------
+
 __**Test2**__
 **2NE1:** 7.0
 **APink:** 5.75
 **Overall Average:** 6.111111111111111
 **Total Points:** 55
 **Most Used Score:** 4
+
 ----------------------
+
 __**Test3**__
 **APink:** 5.75
 **2NE1:** 5.33
 **Overall Average:** 5.666666666666667
 **Total Points:** 51
 **Most Used Score:** 10, 2
+
 ----------------------
 
 
 COMPATIBILITY
+
 __**Test1**__
 **Test2:** 24.44% :heart:
 **Test3:** 17.78%
+
 ----------------------
+
 __**Test2**__
 **Test3:** 44.44% :heart:
 **Test1:** 24.44%
+
 ----------------------
+
 __**Test3**__
 **Test2:** 44.44% :heart:
 **Test1:** 17.78%
+
 ----------------------
 
 
+
 RANKINGS
+
 __**9) I Don't Care - 2NE1**__
 <https://www.youtube.com/watch?v=4MgAxMO1KD0>
 **Average:** 4.67
@@ -105,6 +119,7 @@ __Scores__
 __Comments__
 **Test1 (3.0):** "2NE1 Comment"
 
+----------------------
 
 __**6) Hush - APink**__
 <https://www.youtube.com/watch?v=YXZ19CvCmto>
@@ -219,4 +234,5 @@ __Scores__
 __Comments__
 **Test1 (6.75):** "APink Comment"
 
+----------------------
 

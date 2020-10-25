@@ -142,10 +142,6 @@ def fillOutArtistData(artistName, artistRatingInfo, userInfo):
             lastAverage = userAverage[0]
     artistRatingInfo['Biggest Antis'] = biggestAntiString[:-2]
 
-    print(artistName)
-    print(artistRatingInfo)
-
-
 
 userInfo = {}
 artistInfo = {}
@@ -161,13 +157,13 @@ with os.scandir('Rating/') as ratings:
             next(fileReader)
             for row in fileReader:
                 artist = row[0]
-                songOrArtist = row[1]
+                song = row[1]
                 score = row[2]
                 comment = row[3]
                 link = row[4]
 
-                if firstFile and songOrArtist != 'Overall' and songOrArtist != 'N/A' and (songOrArtist + ' - ' + artist) not in songInfo:
-                    songInfo[songOrArtist + ' - ' + artist] = {'Average': 0, 'Points': 0, 'Controversy': 0, 'Link': link,
+                if firstFile and song != 'Overall' and song != 'N/A' and (song + ' - ' + artist) not in songInfo:
+                    songInfo[song + ' - ' + artist] = {'Average': 0, 'Points': 0, 'Controversy': 0, 'Link': link,
                                                                'UserInfo': []}
                 elif firstFile and artist not in artistInfo:
                     artistInfo[artist] = {'Average': '0', 'Points': '0', 'Biggest Fans': '',
@@ -178,11 +174,11 @@ with os.scandir('Rating/') as ratings:
                 if score != '':
                     score = int(score)
 
-                if songOrArtist == 'Overall':
+                if song == 'Overall':
                     artistInfo[artist]['UserInfo'].append([score, userName, comment])
-                elif songOrArtist != 'N/A':
+                elif song != 'N/A':
                     userInfo[userName]['AllScores'].append(score)
-                    songInfo[songOrArtist + ' - ' + artist]['UserInfo'].append([score, userName, comment])
+                    songInfo[song + ' - ' + artist]['UserInfo'].append([score, userName, comment])
                     if artist not in userInfo[userName]:
                         userInfo[userName][artist] = []
                         userInfo[userName][artist].append(score)
@@ -197,12 +193,11 @@ with os.scandir('Rating/') as ratings:
         if firstFile:
             firstFile = False
 
-print(userInfo)
 fillOutSongData(songInfo)
 sortedSongAndArtistList = createSortedSongAndArtistListFromDict(songInfo, artistInfo)
 
 results = open('Results.txt', 'w', encoding='utf-8')
-results.write('AVERAGES\n')
+results.write('AVERAGES\n\n')
 
 for userKey, userValue in userInfo.items():
     results.write('__**' + userKey + '**__\n')
@@ -217,9 +212,9 @@ for userKey, userValue in userInfo.items():
     results.write('**Overall Average:** ' + overallAverageInfo[0] + '\n')
     results.write('**Total Points:** ' + overallAverageInfo[1] + '\n')
     results.write('**Most Used Score:** ' + overallAverageInfo[2] + '\n')
-    results.write('----------------------\n')
+    results.write('\n----------------------\n\n')
 
-results.write('\n\nCOMPATIBILITY\n')
+results.write('\nCOMPATIBILITY\n\n')
 overallCompatList = []
 for userKey, userValue in userInfo.items():
     user1Scores = userValue['AllScores']
@@ -242,9 +237,9 @@ for userCompat in overallCompatList:
             firstCompat = False
         else:
             results.write('**' + compat[1] + ':** ' + compat[0] + '%\n')
-    results.write('----------------------\n')
+    results.write('\n----------------------\n\n')
 
-results.write('\n\nRANKINGS\n')
+results.write('\n\nRANKINGS\n\n')
 for songOrArtist in sortedSongAndArtistList:
     if songOrArtist[0] is None:
         artistName = songOrArtist[1]
@@ -273,7 +268,7 @@ for songOrArtist in sortedSongAndArtistList:
         for commentRanking in artistRatingInfo['UserInfo']:
             if commentRanking[3] != '':
                 results.write('**' + commentRanking[1] + ' (' + str(commentRanking[0] + '):** "' + commentRanking[3] + '"\n'))
-        results.write('\n\n')
+        results.write('\n----------------------\n\n')
     else:
         songPlacement = str(songOrArtist[0])
         songAndArtistTitle = songOrArtist[1]
