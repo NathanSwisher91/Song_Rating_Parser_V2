@@ -96,9 +96,7 @@ def createSortedSongAndArtistListFromDict(songDict, artistDict):
     return songList
 
 
-def fillOutArtistData(artistName, artistRatingInfo):
-    print(artistName)
-    print(artistRatingInfo)
+def fillOutArtistData(artistName, artistRatingInfo, userInfo):
     scoreList = artistRatingInfo['ScoreList']
     scoreTotal = 0
     for num in scoreList:
@@ -106,6 +104,46 @@ def fillOutArtistData(artistName, artistRatingInfo):
     average = round(scoreTotal / len(scoreList), 3)
     artistRatingInfo['Average'] = str(average)
     artistRatingInfo['Points'] = str(scoreTotal)
+    scoreArtistUserInfo = artistRatingInfo['UserInfo']
+    scoreArtistUserInfo.sort(reverse=True)
+    artistRatingInfo['ScoreInfo'] = fillOutScoreData(artistRatingInfo['UserInfo'])
+
+    userArtistList = []
+    for user in userInfo.keys():
+        userAverage = averageStringFromList(userInfo[user][artistName])
+        userArtistList.append([userAverage, user])
+        i = 0
+        for artistUser in artistRatingInfo['UserInfo']:
+            if artistUser[1] == user:
+                artistRatingInfo['UserInfo'][i] = [userAverage, artistUser[1], artistUser[0], artistUser[2]]
+            i = i + 1
+
+    artistRatingInfo['UserInfo'].sort(reverse=True)
+
+    userArtistList.sort(reverse=True)
+    index = 0
+    lastAverage = ''
+    biggestFanString = ''
+    for userAverage in userArtistList:
+        if index < 3 or userAverage[0] == lastAverage:
+            biggestFanString = biggestFanString + userAverage[1] + ' (' + userAverage[0] + '), '
+            index = index + 1
+            lastAverage = userAverage[0]
+    artistRatingInfo['Biggest Fans'] = biggestFanString[:-2]
+
+    userArtistList.sort()
+    index = 0
+    lastAverage = ''
+    biggestAntiString = ''
+    for userAverage in userArtistList:
+        if index < 3 or userAverage[0] == lastAverage:
+            biggestAntiString = biggestAntiString + userAverage[1] + ' (' + userAverage[0] + '), '
+            index = index + 1
+            lastAverage = userAverage[0]
+    artistRatingInfo['Biggest Antis'] = biggestAntiString[:-2]
+
+    print(artistName)
+    print(artistRatingInfo)
 
 
 
@@ -126,13 +164,15 @@ with os.scandir('Rating/') as ratings:
                 songOrArtist = row[1]
                 score = row[2]
                 comment = row[3]
+                link = row[4]
 
                 if firstFile and songOrArtist != 'Overall' and songOrArtist != 'N/A' and (songOrArtist + ' - ' + artist) not in songInfo:
-                    songInfo[songOrArtist + ' - ' + artist] = {'Average': 0, 'Points': 0, 'Controversy': 0, 'UserInfo': []}
+                    songInfo[songOrArtist + ' - ' + artist] = {'Average': 0, 'Points': 0, 'Controversy': 0, 'Link': link,
+                                                               'UserInfo': []}
                 elif firstFile and artist not in artistInfo:
                     artistInfo[artist] = {'Average': '0', 'Points': '0', 'Biggest Fans': '',
-                                          'Biggest Antis': '', 'Songs': [], 'UserInfo': [], 'ScoreInfo': [],
-                                          'CommentInfo': [], 'ScoreList': []}
+                                          'Biggest Antis': '', 'Songs': [], 'UserInfo': [], 'ScoreInfo': {},
+                                          'ScoreList': []}
 
 
                 if score != '':
@@ -157,6 +197,7 @@ with os.scandir('Rating/') as ratings:
         if firstFile:
             firstFile = False
 
+print(userInfo)
 fillOutSongData(songInfo)
 sortedSongAndArtistList = createSortedSongAndArtistListFromDict(songInfo, artistInfo)
 
@@ -210,13 +251,12 @@ for songOrArtist in sortedSongAndArtistList:
         artistRatingInfo = artistInfo[artistName]
         artistSongList = artistRatingInfo['Songs']
         artistSongList.sort()
-        fillOutArtistData(artistName, artistRatingInfo)
+        fillOutArtistData(artistName, artistRatingInfo, userInfo)
 
 
         results.write('__**' + artistName + '**__\n')
         results.write('**Overall Average:** ' + artistRatingInfo['Average'] + '\n')
         results.write('**Total Points:** ' + artistRatingInfo['Points'] + '\n')
-        results.write('**Controversy:** ' + artistRatingInfo['Controversy'] + '\n\n')
 
         results.write('**Biggest Fans:** ' + artistRatingInfo['Biggest Fans'] + '\n')
         results.write('**Biggest Antis:** ' + artistRatingInfo['Biggest Antis'] + '\n\n')
@@ -226,13 +266,13 @@ for songOrArtist in sortedSongAndArtistList:
             results.write(songRanking[0] + ') ' + songRanking[1] + '\n')
 
         results.write('\n__Scores__\n')
-        for scoreRanking in artistRatingInfo['ScoreInfo']:
-            results.write(scoreRanking[0] + ' - ' + scoreRanking[1] + '\n')
+        for scoreValue, scoreUsers in artistRatingInfo['ScoreInfo'].items():
+            results.write(str(scoreValue) + ' - ' + ', '.join(str(i) for i in scoreUsers) + '\n')
 
         results.write('\n__Comments__\n')
-        for commentRanking in artistRatingInfo['CommentInfo']:
-            if commentRanking[2] != '':
-                results.write('**' + commentRanking[1] + ' (' + str(commentRanking[0] + '):** "' + commentRanking[2] + '"\n'))
+        for commentRanking in artistRatingInfo['UserInfo']:
+            if commentRanking[3] != '':
+                results.write('**' + commentRanking[1] + ' (' + str(commentRanking[0] + '):** "' + commentRanking[3] + '"\n'))
         results.write('\n\n')
     else:
         songPlacement = str(songOrArtist[0])
@@ -246,6 +286,7 @@ for songOrArtist in sortedSongAndArtistList:
         songRatingInfo = songInfo[songAndArtistTitle]
 
         results.write('__**' + songPlacement + ') ' + songAndArtistTitle + '**__\n')
+        results.write('<' + songRatingInfo['Link'] + '>\n')
         results.write('**Average:** ' + songRatingInfo['Average'] + '\n')
         results.write('**Total Points:** ' + songRatingInfo['Points'] + '\n')
         results.write('**Controversy:** ' + songRatingInfo['Controversy'] + '\n\n')
@@ -262,315 +303,5 @@ for songOrArtist in sortedSongAndArtistList:
                 results.write('**' + commentInfo[1] + ' (' + str(commentInfo[0]) + '):** "' + commentInfo[2] + '"\n')
 
         results.write('\n----------------------\n\n')
-
-#######################################################################################
-
-with open('Averages.csv', newline='', encoding='utf-8') as csvfile:
-    spamreader = csv.reader(csvfile)
-    for row in spamreader:
-        averages.append(row)
-
-average_list = []
-for average_fields in averages:
-    if average_fields[0] == '':
-        pass
-    elif average_fields[1] == '':
-        results.write('__**' + average_fields[0] + '**__\n')
-        average_list = []
-    elif average_fields[0].strip() == 'Average':
-        average_list.sort(reverse=True)
-        for group in average_list:
-            results.write('**' + group[1] + ':** ' + str(round(float(group[0]), 2)) + '\n')
-        results.write('\n')
-        results.write('**Overall Average:** ' + average_fields[1] + '\n')
-    elif average_fields[0].strip() == 'Mode':
-        results.write('**Most Used Score:** ' + average_fields[1] + '\n')
-        results.write('----------------------\n')
-    else:
-        average_list.append([average_fields[1], average_fields[0]])
-
-
-results.write('\n\nCOMPATIBILITY\n')
-
-compatibility = []
-
-with open('Compatibility.csv', newline='', encoding='utf-8') as csvfile:
-    spamreader = csv.reader(csvfile)
-    for row in spamreader:
-        compatibility.append(row)
-
-comp = []
-individual_comp_list = []
-index = -1
-for compatibility_fields in compatibility:
-    if compatibility_fields[0] == '':
-        pass
-    elif compatibility_fields[1] == '':
-        if individual_comp_list:
-            individual_comp_list.sort(reverse=True)
-            comp[index].insert(0, float(individual_comp_list[0][0]))
-            comp[index].append('**' + individual_comp_list[0][2] + ':** ' + str(individual_comp_list[0][0]) + '% :heart:\n')
-            for ind_comp in individual_comp_list[1:]:
-                comp[index].append('**' + ind_comp[2] + ':** ' + str(ind_comp[0]) + '% \n')
-        individual_comp_list = []
-        index = index + 1
-        comp.append(['__**' + compatibility_fields[0] + '**__\n'])
-    else:
-        individual_comp_list.append([float(compatibility_fields[1][:-1]), compatibility_fields[2], compatibility_fields[0]])
-
-if individual_comp_list:
-    individual_comp_list.sort(reverse=True)
-    comp[index].insert(0, float(individual_comp_list[0][0]))
-    comp[index].append('**' + individual_comp_list[0][2] + ':** ' + str(individual_comp_list[0][0]) + '% :heart:\n')
-    for ind_comp in individual_comp_list[1:]:
-        comp[index].append('**' + ind_comp[2] + ':** ' + str(ind_comp[0]) + '% \n')
-
-comp.sort()
-
-for element in comp:
-    iterated_elements = iter(element)
-    next(iterated_elements)
-    for line in iterated_elements:
-        results.write(line)
-    results.write('\n')
-
-results.write('\nRANKINGS\n\n')
-
-overall = []
-
-with open('Overall.csv', newline='', encoding='utf-8') as csvfile:
-    spamreader = csv.reader(csvfile)
-    for row in spamreader:
-        overall.append(row)
-
-comments = []
-
-with open('Comments.csv', newline='', encoding='utf-8') as csvfile:
-    spamreader = csv.reader(csvfile)
-    for row in spamreader:
-        comments.append(row)
-
-rating_list = []
-artist_list = []
-artist_scores = []
-
-first_line = True
-for overall_fields, comments_fields in zip(overall, comments):
-    if first_line:
-        overall_header = overall_fields
-        comments_header = comments_fields
-        first_line = False
-    elif overall_fields[0] != '' and overall_fields[1] == '':
-        if '{' in overall_fields[0]:
-            current_group = overall_fields[0].split('{')[0]
-            number_of_songs = overall_fields[0].split('{', 1)[1].split('}')[0]
-            i = 4
-            for score in overall_fields[4:]:
-                if score != '':
-                    artist_scores.append([int(score), overall_header[i]])
-                i = i + 1
-            artist_scores.sort(key=lambda l: [-l[0], l[1].lower()])
-        else:
-            current_group = ''
-            number_of_songs = 1
-    elif overall_fields[0].strip() == 'Total':
-        artist = [round(float(overall_fields[1]), 3), round(float(overall_fields[3]), 2), current_group, overall_fields[2], artist_scores]
-        ratings = []
-        for rating, name in zip(overall_fields[4:], overall_header[4:]):
-            if name != '':
-                ratings.append([round(float(rating)/float(number_of_songs), 2), name, comments_fields[comments_header.index(name)]])
-        ratings.sort(key=lambda l: [-float(l[0]), l[1].lower()])
-        artist.append(ratings)
-        artist_list.append(artist)
-        artist_scores = []
-    elif overall_fields[0].strip() == 'N/A':
-        pass
-    elif overall_fields[0].strip() == 'Final Thoughts':
-        pass
-    else:
-        songOrArtist = [round(float(overall_fields[1]), 2), round(float(overall_fields[3]), 2), overall_fields[0], current_group, overall_fields[2]]
-        ratings = []
-        for rating, name in zip(overall_fields[4:], overall_header[4:]):
-            if name != '':
-                ratings.append([rating, name, comments_fields[comments_header.index(name)]])
-        ratings.sort(key=lambda l: [-float(l[0]), l[1].lower()])
-        songOrArtist.append(ratings)
-        rating_list.append(songOrArtist)
-
-rating_list.sort(key=lambda l: [l[0], -l[1]])
-rank = len(rating_list)
-for rating in rating_list:
-    rating.insert(0, rank)
-    rank = rank - 1
-
-pre_fan_anti_section = True
-first_line = True
-ratings = []
-for overall_fields in overall:
-    if not pre_fan_anti_section:
-        if first_line:
-            artist_name = overall_fields[0].strip()
-            fandom_name = overall_fields[1]
-            ratings = []
-            first_line = False
-        elif overall_fields[0] == '':
-            first_line = True
-            for artist in artist_list:
-                if artist[2].strip().lower() == artist_name.lower():
-                    biggest_fans = '**Biggest ' + fandom_name + 's:** '
-                    biggest_antis = '**Biggest Antis:** '
-
-                    ratings.sort(key=lambda l: [-l[1], l[0].lower()])
-
-                    biggest_fans = biggest_fans + ratings[0][0] + ' (' + str(ratings[0][1]) + '), '
-                    biggest_fans = biggest_fans + ratings[1][0] + ' (' + str(ratings[1][1]) + '), '
-                    biggest_antis = biggest_antis + ratings[len(ratings) - 1][0] + ' (' + str(
-                        ratings[len(ratings) - 1][1]) + '), '
-                    biggest_antis = biggest_antis + ratings[len(ratings) - 2][0] + ' (' + str(
-                        ratings[len(ratings) - 2][1]) + '), '
-
-                    fan_score = ratings[2][1]
-                    anti_score = ratings[len(ratings) - 3][1]
-
-                    for rating in ratings[2:]:
-                        if rating[1] == fan_score:
-                            biggest_fans = biggest_fans + rating[0] + ' (' + str(rating[1]) + '), '
-
-                    ratings.sort(key=lambda l: [l[1], l[0].lower()])
-                    for rating in ratings[2:]:
-                        if rating[1] == anti_score:
-                            biggest_antis = biggest_antis + rating[0] + ' (' + str(rating[1]) + '), '
-
-                    biggest_fans = biggest_fans[:-2]
-                    biggest_antis = biggest_antis[:-2]
-                    artist.append(biggest_fans)
-                    artist.append(biggest_antis)
-        else:
-            ratings.append([overall_fields[0], round(float(overall_fields[1]), 2)])
-    if overall_fields[0].strip() == 'Biggest Fans/Antis':
-        pre_fan_anti_section = False
-
-try:
-    for artist in artist_list:
-        if artist[2].strip().lower() == artist_name.lower():
-            biggest_fans = '**Biggest ' + fandom_name + 's:** '
-            biggest_antis = '**Biggest Antis:** '
-
-            ratings.sort(key=lambda l: [-l[1], l[0].lower()])
-
-            biggest_fans = biggest_fans + ratings[0][0] + ' (' + str(ratings[0][1]) + '), '
-            biggest_fans = biggest_fans + ratings[1][0] + ' (' + str(ratings[1][1]) + '), '
-            biggest_antis = biggest_antis + ratings[len(ratings)-1][0] + ' (' + str(ratings[len(ratings)-1][1]) + '), '
-            biggest_antis = biggest_antis + ratings[len(ratings)-2][0] + ' (' + str(ratings[len(ratings)-2][1]) + '), '
-
-            fan_score = ratings[2][1]
-            anti_score = ratings[len(ratings) - 3][1]
-
-            for rating in ratings[2:]:
-                if rating[1] == fan_score:
-                    biggest_fans = biggest_fans + rating[0] + ' (' + str(rating[1]) + '), '
-
-            ratings.sort(key=lambda l: [l[1], l[0].lower()])
-            for rating in ratings[2:]:
-                if rating[1] == anti_score:
-                    biggest_antis = biggest_antis + rating[0] + ' (' + str(rating[1]) + '), '
-
-            biggest_fans = biggest_fans[:-2]
-            biggest_antis = biggest_antis[:-2]
-            artist.append(biggest_fans)
-            artist.append(biggest_antis)
-except NameError:
-    pass
-
-reversed_song_list = sorted(rating_list)
-
-for artist in artist_list:
-    artist.insert(0, artist.pop(2))
-    last_index = -1
-    for songOrArtist in rating_list:
-        if songOrArtist[4] == artist[0]:
-            last_index = rating_list.index(songOrArtist)
-    rating_list.insert(last_index+1, artist)
-
-# EACH SONG OBJECT
-# [rating, average, controversy, song name, group name, total, [[score1, name1, comment1, ....]]
-
-# EACH ARTIST OBJECT
-# [group name, average, controversy, total, [[score, name],...][[average, name, comment]...], 'BIGGEST FAN INFO STRING',
-# 'BIGGEST ANTI INFO STRING']
-
-for rating in rating_list:
-    if isinstance(rating[0], int):
-        song_link = None
-        if '{' in rating[3]:
-            song_link = rating[3].split('{', 1)[1].split('}')[0]
-            song_name = rating[3].split('{')[0]
-        else:
-            song_name = rating[3]
-        results.write('__**' + str(rating[0]) + ') ' + song_name + ' - ' + rating[4] + '**__\n')
-        if song_link is not None:
-            results.write('<' + song_link + '>\n')
-        results.write('**Average:** ' + str(rating[1]) + '\n')
-        results.write('**Total Points:** ' + str(rating[5]) + '\n')
-        results.write('**Controversy:** ' + str(rating[2]) + '\n\n')
-        results.write('__Scores__')
-
-        last_used_score = -1
-        score_string = ''
-        for score in rating[6]:
-            if score[0] == last_used_score:
-                score_string = score_string + score[1] + ', '
-                pass
-            else:
-                score_string = score_string[:-2]
-                results.write(score_string)
-                last_used_score = score[0]
-                score_string = '\n' + str(last_used_score) + ' - ' + score[1] + ', '
-
-        score_string = score_string[:-2]
-        results.write(score_string)
-
-        results.write('\n\n__Comments__\n')
-        for score in rating[6]:
-            if score[2] != '':
-                results.write('**' + score[1] + ' (' + str(score[0]) + '):** "' + score[2] + '"\n')
-
-        results.write('\n---------------------\n\n')
-    else:
-        results.write('\n\n')
-        results.write('__**' + rating[0] + '**__\n')
-        results.write('**Overall Average:** ' + str(rating[1]) + '\n')
-        results.write('**Total Points:** ' + str(rating[3]) + '\n\n')
-        results.write(rating[6] + '\n')
-        results.write(rating[7] + '\n')
-        results.write('\n__Rankings__\n')
-
-        for songOrArtist in reversed_song_list:
-            if songOrArtist[4] == rating[0]:
-                results.write(str(songOrArtist[0]) + ') ' + songOrArtist[3].split('{')[0] + '\n')
-
-        results.write('\n__Scores__')
-
-        last_used_score = -1
-        score_string = ''
-        for score in rating[4]:
-            if score[0] == last_used_score:
-                score_string = score_string + score[1] + ', '
-                pass
-            else:
-                score_string = score_string[:-2]
-                results.write(score_string)
-                last_used_score = score[0]
-                score_string = '\n' + str(last_used_score) + ' - ' + score[1] + ', '
-
-        score_string = score_string[:-2]
-        results.write(score_string)
-
-        results.write('\n\n__Comments__\n')
-        for score in rating[5]:
-            if score[2] != '':
-                results.write('**' + score[1] + ' (' + str(score[0]) + '):** "' + score[2] + '"\n')
-        results.write('\n\n\n---------------------\n\n')
-        pass
 
 results.close()
