@@ -79,8 +79,8 @@ def fillOutSongData(songDict):
 def createSortedSongListFromDict(songDict):
     songList = []
     for songKey, songData in songDict.items():
-        songList.append([songData['Average'], songKey])
-    songList.sort()
+        songList.append([float(songData['Average']), float(songData["Controversy"]), songKey])
+    songList.sort(key=lambda l: [l[0], -l[1]])
     songPlacement = len(songList)
     for song in songList:
         song[0] = songPlacement
@@ -95,7 +95,7 @@ firstFile = True
 with os.scandir('Quarterly_Rating/') as ratings:
     for rating in ratings:
         userName = rating.name[:-4]
-        userInfo[userName] = {'AllScores': []}
+        userInfo[userName] = {'AllScores': [], '11': '', '0': ''}
 
         with open(rating, newline='', encoding='utf-8') as file:
             fileReader = csv.reader(file)
@@ -115,6 +115,11 @@ with os.scandir('Quarterly_Rating/') as ratings:
                 if score != '':
                     score = int(score)
 
+                if score == 11:
+                    userInfo[userName]['11'] = song + ' - ' + artist
+                if score == 0:
+                    userInfo[userName]['0'] = song + ' - ' + artist
+
                 if artist != 'N/A' and artist != 'Overall':
                     userInfo[userName]['AllScores'].append(score)
                     songInfo[song + ' - ' + artist]['UserInfo'].append([score, userName, comment])
@@ -131,6 +136,17 @@ fillOutSongData(songInfo)
 sortedSongAndArtistList = createSortedSongListFromDict(songInfo)
 
 results = open('Quarterly_Results.txt', 'w', encoding='utf-8')
+results.write('11s\n\n')
+for userKey, userValue in userInfo.items():
+    if userValue['11'] != '':
+        results.write(userKey + ': ' + userValue['11'] + '\n')
+results.write('\n----------------------\n\n')
+results.write('0s\n\n')
+for userKey, userValue in userInfo.items():
+    if userValue['0'] != '':
+        results.write(userKey + ': ' + userValue['0'] + '\n')
+results.write('\n----------------------\n\n')
+
 results.write('AVERAGES\n\n')
 
 for userKey, userValue in userInfo.items():
@@ -138,12 +154,12 @@ for userKey, userValue in userInfo.items():
     overallAverageInfo = averageTotalMostUsedStringsFromList(userValue['AllScores'])
     averages = []
     for artistKey, artistValue in userValue.items():
-        if artistKey != 'AllScores':
+        if artistKey != 'AllScores' and artistKey != '11' and artistKey != '0':
             averages.append([averageStringFromList(artistValue), artistKey])
     averages.sort(reverse=True)
     for group in averages:
         results.write('**' + group[1] + ':** ' + group[0] + '\n')
-    results.write('**Overall Average:** ' + overallAverageInfo[0] + '\n')
+    results.write('\n**Overall Average:** ' + overallAverageInfo[0] + '\n')
     results.write('**Total Points:** ' + overallAverageInfo[1] + '\n')
     results.write('**Most Used Score:** ' + overallAverageInfo[2] + '\n')
     results.write('\n----------------------\n\n')
@@ -176,7 +192,7 @@ for userCompat in overallCompatList:
 results.write('\n\nRANKINGS\n\n')
 for songOrArtist in sortedSongAndArtistList:
     songPlacement = str(songOrArtist[0])
-    songAndArtistTitle = songOrArtist[1]
+    songAndArtistTitle = songOrArtist[2]
     artistTitle = songAndArtistTitle.split(' - ')[1]
     songTitle = songAndArtistTitle.split(' - ')[0]
 

@@ -1,9 +1,20 @@
+11s
+
+
+----------------------
+
+0s
+
+
+----------------------
+
 AVERAGES
 
 __**Test4**__
 **June:** 6.75
 **May:** 5.0
 **April:** 3.0
+
 **Overall Average:** 5.111111111111111
 **Total Points:** 46
 **Most Used Score:** 6
@@ -14,6 +25,7 @@ __**Test5**__
 **April:** 7.0
 **June:** 5.75
 **May:** 5.5
+
 **Overall Average:** 6.111111111111111
 **Total Points:** 55
 **Most Used Score:** 4
@@ -24,6 +36,7 @@ __**Test6**__
 **May:** 6.0
 **June:** 5.75
 **April:** 5.33
+
 **Overall Average:** 5.666666666666667
 **Total Points:** 51
 **Most Used Score:** 10, 2
@@ -71,23 +84,7 @@ __Comments__
 
 ----------------------
 
-__**8) Clap Your Hands - 2NE1**__
-<https://www.youtube.com/watch?v=ZTw-UM5Jy4E>
-**Average:** 5.33
-**Total Points:** 16
-**Controversy:** 4.51
-
-__Scores__
-10 - Test5
-5 - Test4
-1 - Test6
-
-__Comments__
-**Test4 (5):** "CYH Comment"
-
-----------------------
-
-__**7) Fire - 2NE1**__
+__**8) Fire - 2NE1**__
 <https://www.youtube.com/watch?v=ISEoXdHb4W4>
 **Average:** 5.33
 **Total Points:** 16
@@ -103,23 +100,23 @@ __Comments__
 
 ----------------------
 
-__**6) Hush - APink**__
-<https://www.youtube.com/watch?v=YXZ19CvCmto>
+__**7) Clap Your Hands - 2NE1**__
+<https://www.youtube.com/watch?v=ZTw-UM5Jy4E>
 **Average:** 5.33
 **Total Points:** 16
-**Controversy:** 4.16
+**Controversy:** 4.51
 
 __Scores__
-10 - Test4
-4 - Test5
-2 - Test6
+10 - Test5
+5 - Test4
+1 - Test6
 
 __Comments__
-**Test4 (10):** "Hush Comment"
+**Test4 (5):** "CYH Comment"
 
 ----------------------
 
-__**5) Muzik - 4Minute**__
+__**6) Muzik - 4Minute**__
 <https://www.youtube.com/watch?v=aNYImwBU4f4>
 **Average:** 5.33
 **Total Points:** 16
@@ -132,6 +129,22 @@ __Scores__
 
 __Comments__
 **Test4 (4):** "Muzik Comment"
+
+----------------------
+
+__**5) Hush - APink**__
+<https://www.youtube.com/watch?v=YXZ19CvCmto>
+**Average:** 5.33
+**Total Points:** 16
+**Controversy:** 4.16
+
+__Scores__
+10 - Test4
+4 - Test5
+2 - Test6
+
+__Comments__
+**Test4 (10):** "Hush Comment"
 
 ----------------------
 
