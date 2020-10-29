@@ -274,7 +274,7 @@ for songOrArtist in sortedSongAndArtistList:
 
         results.write('__Rankings__\n')
         for songRanking in artistSongList:
-            results.write(songRanking[0] + ') ' + songRanking[1] + '\n')
+            results.write(str(songRanking[0]) + ') ' + songRanking[1] + '\n')
 
         results.write('\n__Scores__\n')
         for scoreValue, scoreUsers in artistRatingInfo['ScoreInfo'].items():
@@ -292,7 +292,7 @@ for songOrArtist in sortedSongAndArtistList:
         songTitle = songAndArtistTitle.split(' - ')[0]
 
         if artistTitle in artistInfo:
-            artistInfo[artistTitle]['Songs'].append([songPlacement, songTitle])
+            artistInfo[artistTitle]['Songs'].append([int(songPlacement), songTitle])
 
         songRatingInfo = songInfo[songAndArtistTitle]
 

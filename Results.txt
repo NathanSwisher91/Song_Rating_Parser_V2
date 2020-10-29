@@ -2356,7 +2356,6 @@ __**f(x)**__
 **Biggest Antis:** Kaymarie (2.9), Sat (6.4), Annie (8.2)
 
 __Rankings__
-122) Chu~
 37) 4Walls
 38) Electric Shock
 40) Rum Pum Pum Pum
@@ -2366,6 +2365,7 @@ __Rankings__
 79) All Mine
 85) Pinocchio (Danger)
 99) La Cha Ta
+122) Chu~
 
 __Scores__
 10 - Annie, Cooper
@@ -2606,10 +2606,6 @@ __**T-ara**__
 **Biggest Antis:** Kaymarie (2.0), Sat (6.33), Claudia (8.24)
 
 __Rankings__
-102) What's My Name?
-106) Tiamo
-109) Bo Peep Bo Peep
-149) Yayaya
 25) Sexy Love
 30) Sugar Free
 44) Cry Cry
@@ -2627,6 +2623,10 @@ __Rankings__
 74) Roly-Poly in Copacabana
 77) Do You Know Me
 95) Hide & Seek
+102) What's My Name?
+106) Tiamo
+109) Bo Peep Bo Peep
+149) Yayaya
 
 __Scores__
 10 - Annie, Cooper
@@ -2704,14 +2704,14 @@ __**Miss A**__
 **Biggest Antis:** Kaymarie (3.88), Sat (6.38), Annie (7.12)
 
 __Rankings__
-112) Love Alone
-148) Breathe
 22) I Don't Need A Man
 34) Only You
 54) Bad Girl Good Girl
 64) Hush
 72) Goodbye Baby
 84) Touch
+112) Love Alone
+148) Breathe
 
 __Scores__
 10 - Annie
@@ -2908,15 +2908,7 @@ __**2NE1**__
 **Biggest Antis:** Kaymarie (5.29), Cooper (6.35), Claudia (6.65)
 
 __Rankings__
-101) Falling In Love
-105) It Hurts
-114) Missing You
-118) Gotta Be You
 12) Ugly
-128) Can't Nobody
-130) Go Away
-140) Clap Your Hands
-143) Do You Love Me
 18) Lonely
 28) I Love You
 39) I Am The Best
@@ -2925,6 +2917,14 @@ __Rankings__
 88) Goodbye
 96) I Don't Care
 97) Hate You
+101) Falling In Love
+105) It Hurts
+114) Missing You
+118) Gotta Be You
+128) Can't Nobody
+130) Go Away
+140) Clap Your Hands
+143) Do You Love Me
 
 __Scores__
 9 - Annie, Loewe
@@ -2999,11 +2999,7 @@ __**SNSD**__
 **Biggest Antis:** Sat (5.77), Kaymarie (6.55), Annie (7.18)
 
 __Rankings__
-116) Holiday
-124) Dancing Queen
-127) Baby Baby
-137) Sailing (0805)
-138) Party
+9) Genie
 20) Run Devil Run
 26) Into The New World
 27) Mr. Taxi
@@ -3019,8 +3015,12 @@ __Rankings__
 78) Lion Heart
 81) Catch Me If You Can
 82) Kissing You
-9) Genie
 90) I Got A Boy
+116) Holiday
+124) Dancing Queen
+127) Baby Baby
+137) Sailing (0805)
+138) Party
 
 __Scores__
 10 - Annie, Cooper, Kaymarie
@@ -3095,9 +3095,14 @@ __**4Minute**__
 **Biggest Antis:** Annie (5.41), Sat (5.59), Kaymarie (5.71)
 
 __Rankings__
+6) Crazy
+11) Volume Up
+29) Hate You
+89) Over and Over
+93) Hot Issue
+94) Mirror MIrror
 107) HuH
 108) Heart to Heart
-11) Volume Up
 111) I My Me Mine
 117) Watcha Doin' Today
 125) Cold Rain
@@ -3107,11 +3112,6 @@ __Rankings__
 145) What A Girl Wants
 146) Is It Poppin'?
 150) Jingle Jingle
-29) Hate You
-6) Crazy
-89) Over and Over
-93) Hot Issue
-94) Mirror MIrror
 
 __Scores__
 8 - Annie
@@ -3150,24 +3150,24 @@ __**APink**__
 **Biggest Antis:** Kaymarie (4.61), Sat (6.78), Annie (7.17)
 
 __Rankings__
-100) Good Morning Baby
-115) My My
-119) I Don't Know
+5) I'm So Sick
 13) %% (Eung Eung)
-131) Always
-133) Promise U
-136) Miracle
 15) NoNoNo
 23) Dumhdurum
 31) Luv
 32) Mr. Chu
 45) Remember
-5) I'm So Sick
 69) Five
 83) The Wave
 86) Only One
 92) Cause You're My Star
 98) Hush
+100) Good Morning Baby
+115) My My
+119) I Don't Know
+131) Always
+133) Promise U
+136) Miracle
 
 __Scores__
 10 - Cooper
@@ -3223,17 +3223,17 @@ __**Wonder Girls**__
 **Biggest Antis:** Cooper (5.55), Sat (5.91), Annie (7.09)
 
 __Rankings__
+3) Why So Lonely
+14) I Feel You
+24) Nobody
+33) So Hot
+49) Tell Me
+70) Like This
 104) Be My Baby
 120) Irony
 126) 2 Different Tears
 134) The DJ Is Mine
-14) I Feel You
 147) Like Money
-24) Nobody
-3) Why So Lonely
-33) So Hot
-49) Tell Me
-70) Like This
 
 __Scores__
 10 - Annie
@@ -3273,20 +3273,20 @@ __**Kara**__
 **Biggest Antis:** Kaymarie (6.64), Sat (6.64), Cooper (7.43)
 
 __Rankings__
+2) Step
+4) Pandora
+7) Mamma Mia!
+8) Damaged Lady
+16) Lupin
+17) Mister
+41) Cupid
+48) Jumping
+87) Break it
+91) Wanna
 121) Honey
 123) Pretty Girl
 141) If U Wanna
 144) Rock U
-16) Lupin
-17) Mister
-2) Step
-4) Pandora
-41) Cupid
-48) Jumping
-7) Mamma Mia!
-8) Damaged Lady
-87) Break it
-91) Wanna
 
 __Scores__
 10 - Annie
@@ -3328,16 +3328,16 @@ __**Sistar**__
 __Rankings__
 1) I Like That
 10) Alone
-103) Lonely
-110) So Cool
-113) How Dare You
-129) Shady Girl
-135) Push Push
 19) Touch My Body
 21) Loving U
 42) Give It To Me
 60) Shake It
 67) I Swear
+103) Lonely
+110) So Cool
+113) How Dare You
+129) Shady Girl
+135) Push Push
 
 __Scores__
 10 - Kaymarie
