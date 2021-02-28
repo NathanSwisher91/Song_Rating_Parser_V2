@@ -101,12 +101,12 @@ with os.scandir('Quarterly_Rating/') as ratings:
             fileReader = csv.reader(file)
             next(fileReader)
             for row in fileReader:
-                month = row[0]
-                artist = row[1]
-                song = row[2]
-                score = row[3]
-                comment = row[4]
-                link = row[5]
+                month = row[0].strip()
+                artist = row[1].strip()
+                song = row[2].strip()
+                score = row[3].strip()
+                comment = row[4].strip()
+                link = row[5].strip()
 
                 if firstFile and artist != 'Overall' and artist != 'N/A' and (song + ' - ' + artist) not in songInfo:
                     songInfo[song + ' - ' + artist] = {'Average': 0, 'Points': 0, 'Controversy': 0, 'Link': link,

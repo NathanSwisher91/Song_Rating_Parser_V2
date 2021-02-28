@@ -10,57 +10,50 @@
 
 AVERAGES
 
-__**Test4**__
-**June:** 6.75
-**May:** 5.0
-**April:** 3.0
+__**Nate**__
+**Four:** 7.67
+**Six:** 6.48
+**Five:** 6.37
+**Seven:** 6.34
+**One:** 6.0
+**Eight:** 5.79
+**Three:** 5.47
+**Nine:** 5.09
+**Two:** 4.75
 
-**Overall Average:** 5.111111111111111
-**Total Points:** 46
-**Most Used Score:** 6
-
-----------------------
-
-__**Test5**__
-**April:** 7.0
-**June:** 5.75
-**May:** 5.5
-
-**Overall Average:** 6.111111111111111
-**Total Points:** 55
-**Most Used Score:** 4
+**Overall Average:** 6.0625
+**Total Points:** 1164
+**Most Used Score:** 5
 
 ----------------------
 
-__**Test6**__
-**May:** 6.0
-**June:** 5.75
-**April:** 5.33
+__**Nate2**__
+**Four:** 7.67
+**Six:** 6.48
+**Five:** 6.37
+**Seven:** 6.34
+**One:** 6.0
+**Eight:** 5.79
+**Three:** 5.47
+**Nine:** 5.09
+**Two:** 4.75
 
-**Overall Average:** 5.666666666666667
-**Total Points:** 51
-**Most Used Score:** 10, 2
+**Overall Average:** 6.0625
+**Total Points:** 1164
+**Most Used Score:** 5
 
 ----------------------
 
 
 COMPATIBILITY
 
-__**Test4**__
-**Test5:** 24.44% :heart:
-**Test6:** 17.78%
+__**Nate**__
+**Nate2:** 100.0% :heart:
 
 ----------------------
 
-__**Test5**__
-**Test6:** 44.44% :heart:
-**Test4:** 24.44%
-
-----------------------
-
-__**Test6**__
-**Test5:** 44.44% :heart:
-**Test4:** 17.78%
+__**Nate2**__
+**Nate:** 100.0% :heart:
 
 ----------------------
 
@@ -68,145 +61,2551 @@ __**Test6**__
 
 RANKINGS
 
-__**9) I Don't Care - 2NE1**__
-<https://www.youtube.com/watch?v=4MgAxMO1KD0>
-**Average:** 4.67
-**Total Points:** 14
-**Controversy:** 1.53
+__**192) Killin it ft Koonta, Babylon - Maniac**__
+<https://www.youtube.com/watch?v=phZzSiHQZwQ>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
 
 __Scores__
-6 - Test5
-5 - Test6
-3 - Test4
+1 - Nate, Nate2
 
 __Comments__
-**Test4 (3):** "IDC Comment"
+**Nate2 (1):** "The beginning was good and then it just got completely ruined by the screaming dude"
+**Nate (1):** "The beginning was good and then it just got completely ruined by the screaming dude"
 
 ----------------------
 
-__**8) Fire - 2NE1**__
-<https://www.youtube.com/watch?v=ISEoXdHb4W4>
-**Average:** 5.33
-**Total Points:** 16
-**Controversy:** 4.51
+__**191) Robot Love (prod. Code Kunst) - Loopy**__
+<https://www.youtube.com/watch?v=15ut9SgsNA4>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
 
 __Scores__
-10 - Test6
-5 - Test5
-1 - Test4
+1 - Nate, Nate2
 
 __Comments__
-**Test4 (1):** "FireComment"
 
 ----------------------
 
-__**7) Clap Your Hands - 2NE1**__
-<https://www.youtube.com/watch?v=ZTw-UM5Jy4E>
-**Average:** 5.33
-**Total Points:** 16
-**Controversy:** 4.51
+__**190) Alone - JJangyou**__
+<https://www.youtube.com/watch?v=OJMrhwxcs14>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
 
 __Scores__
-10 - Test5
-5 - Test4
-1 - Test6
+1 - Nate, Nate2
 
 __Comments__
-**Test4 (5):** "CYH Comment"
 
 ----------------------
 
-__**6) Muzik - 4Minute**__
-<https://www.youtube.com/watch?v=aNYImwBU4f4>
-**Average:** 5.33
-**Total Points:** 16
-**Controversy:** 4.16
+__**189) Please Wait ft lee Seong-su - Soul Drive, Wutan**__
+<https://www.youtube.com/watch?v=C0CXDV7O_hA>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
 
 __Scores__
-10 - Test6
-4 - Test4
-2 - Test5
+2 - Nate, Nate2
 
 __Comments__
-**Test4 (4):** "Muzik Comment"
 
 ----------------------
 
-__**5) Hush - APink**__
-<https://www.youtube.com/watch?v=YXZ19CvCmto>
-**Average:** 5.33
-**Total Points:** 16
-**Controversy:** 4.16
+__**188) L4L (lookin' for luv) ft Dok2, The Quiett - Bobby**__
+<https://www.youtube.com/watch?v=RLTzb7RIf78>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
 
 __Scores__
-10 - Test4
-4 - Test5
-2 - Test6
+2 - Nate, Nate2
 
 __Comments__
-**Test4 (10):** "Hush Comment"
+**Nate2 (2):** "I have determined I really don't like Bobby and his need to scream"
+**Nate (2):** "I have determined I really don't like Bobby and his need to scream"
 
 ----------------------
 
-__**4) Hot Issue - 4Minute**__
-<https://www.youtube.com/watch?v=nPPKwg5eQ4o>
-**Average:** 5.67
-**Total Points:** 17
-**Controversy:** 3.51
+__**187) Shit - C Jamm**__
+<https://www.youtube.com/watch?v=wjvvjWO0sME>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
 
 __Scores__
-9 - Test5
-6 - Test4
-2 - Test6
+2 - Nate, Nate2
 
 __Comments__
-**Test4 (6):** "IHI Comment"
+**Nate2 (2):** "My song is full of swear words, im so hardcore"
+**Nate (2):** "My song is full of swear words, im so hardcore"
 
 ----------------------
 
-__**3) I Don't Know - APink**__
-<https://www.youtube.com/watch?v=zI6MvzIZ3CA>
-**Average:** 5.67
-**Total Points:** 17
-**Controversy:** 2.89
+__**186) Beverly 1 lls - Superbee, myundo**__
+<https://www.youtube.com/watch?v=Mln_EMaHnqI>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
 
 __Scores__
-9 - Test4
-4 - Test5, Test6
+2 - Nate, Nate2
 
 __Comments__
-**Test4 (9):** "IDK Comment"
+**Nate2 (2):** "Fuck Superbee"
+**Nate (2):** "Fuck Superbee"
 
 ----------------------
 
-__**2) NoNoNo - APink**__
-<https://www.youtube.com/watch?v=hspqQuuuGIw>
+__**185) People These Days / Yozm gang ft Zico, Dean - Young B, Hash Swan, Killagramz, Hangzoo**__
+<https://www.youtube.com/watch?v=l7PJY8FKD84>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
+
+__Scores__
+2 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**184) Astronaut (prod. Oviz) - Big Naughty**__
+<https://www.youtube.com/watch?v=YJxjqJjFLtY>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
+
+__Scores__
+2 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**183) Go - Bobby**__
+<https://www.youtube.com/watch?v=0LmpqhVG6QM>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+**Nate2 (3):** "What is this screaming, its hilarious"
+**Nate (3):** "What is this screaming, its hilarious"
+
+----------------------
+
+__**182) Okey Dokey - Song Mino, Zico**__
+<https://www.youtube.com/watch?v=1IDknHU6cUI>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**181) Machine Gun ft Mino - Zion T, Kush**__
+<https://www.youtube.com/watch?v=ZsiGpkO7sDQ>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**180) Like This ft Bobby - Reddy**__
+<https://www.youtube.com/watch?v=EzmoE5YlMdE>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+**Nate2 (3):** "This song got two bonus points for the live band"
+**Nate (3):** "This song got two bonus points for the live band"
+
+----------------------
+
+__**179) Bad Blood - Mad Clown**__
+<https://www.youtube.com/watch?v=IcnmUdmY3wo>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**178) S.M.T.M (Show Me the Money) - Sleepy, Hash Swan, Olltii, Black Nine, Punchnello, penomeco, Ignito**__
+<https://www.youtube.com/watch?v=v4l4uNagDOo>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**177) BAMN (prod. millic) - Punchnello, Jjangyou, Zene The Zilla, Mckdaddy**__
+<https://www.youtube.com/watch?v=RhfSECbdVAc>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**176) 00 (prod. BOYCOLD) - Lil Tachi, Takuwa, Bryn, EK**__
+<https://www.youtube.com/watch?v=pWIFKAIFNvQ>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+**Nate2 (3):** "Bryn gets most of my points"
+**Nate (3):** "Bryn gets most of my points"
+
+----------------------
+
+__**175) Thank You ft Paloalto - Takuwa**__
+<https://www.youtube.com/watch?v=g7LUYsPzMOo>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**174) Like that - Zizo**__
+<https://www.youtube.com/watch?v=2vYA5Cms53I>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**173) I'm Not That Person You Used to Know / Who You? - Simon D, one, G2, Bewhy**__
+<https://www.youtube.com/watch?v=ro50_Gme8Nk>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**172) Rose of Sharon / Mugunghwa - Mad Clown, Donutman, Boi B, #Gun**__
+<https://www.youtube.com/watch?v=vNZxoOS6VUg>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**171) XamBaqJa - Bewhy, Simon D**__
+<https://www.youtube.com/watch?v=2cFTTD_BY7c>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**170) Where / where u at ft Zico, Dean - Killagramz**__
+<https://www.youtube.com/watch?v=1iaEml1jNH8>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**169) Red Sun ft Zico, Swings - Hangzoo**__
+<https://www.youtube.com/watch?v=A7Y3FcH3-YU>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+**Nate2 (4):** "Cover of the DreamCatcher song"
+**Nate (4):** "Cover of the DreamCatcher song"
+
+----------------------
+
+__**168) SaimSaim ft Changmo - Coogie, Superbee, D.Ark**__
+<https://www.youtube.com/watch?v=MFSoKbN_kB4>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+**Nate2 (4):** "Fuck Superbee"
+**Nate (4):** "Fuck Superbee"
+
+----------------------
+
+__**167) Science Fiction Technology/ SF Skills ft Giriboy, Swings - Nafla, OLNL, ODEE**__
+<https://www.youtube.com/watch?v=i5tpnJqoaIo>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**166) I (prod. Giriboy) ft Samuel Seo - OLNL**__
+<https://www.youtube.com/watch?v=L7H9AWsyUZc>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**165) Boss Thang (prod. Code Kunst) ft Young B - Kid Milli**__
+<https://www.youtube.com/watch?v=pqXLEJEzw9A>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**164) V (prod. Giriboy) ft Loco - Loopy**__
+<https://www.youtube.com/watch?v=UZHhqkhRPZU>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**163) PUNG - Woodie Gochild, Takuwa**__
+<https://www.youtube.com/watch?v=TKK-0nL4YvI>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**162) Bibbidi Bobbidi Boo/higher (prod. sAewoo) ft Han Yohan - Takuwa**__
+<https://www.youtube.com/watch?v=J5P7X80FB0E>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**161) I'm Going/ Far Away (prod. sAewoo) ft Swings, Kid Milli - Takuwa**__
+<https://www.youtube.com/watch?v=ptMT0ZKeOnI>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**160) In the Air ft Giyu - Hoony Hoon**__
+<https://www.youtube.com/watch?v=7hl-1xyFyyY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**159) Storm ft Swings, Kanto - Verbal Jint**__
+<https://www.youtube.com/watch?v=iqktBS7lELI>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**158) 14 Round ft. Egobomb, Quartz - MC Sniper**__
+<https://www.youtube.com/watch?v=wD7qzNrQBvY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**157) Sunset Glow/ Red Sunset ft Kim Ji-soo, Egobomb - MC Sniper**__
+<https://www.youtube.com/watch?v=kX50YWKnwPs>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**156) Ulleri - Yuk Ji-dam**__
+<https://www.youtube.com/watch?v=Z0ZQFXBTI4Y>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**155) I AM - Iron**__
+<https://www.youtube.com/watch?v=1P4otUq474k>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**154) Guerrilla's Way - Vasco aka Bill Stax**__
+<https://www.youtube.com/watch?v=SWrHa0vpjOM>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**153) YGGR#Hip Hop - Bobby**__
+<https://www.youtube.com/watch?v=qsUA0w6uYEE>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**152) Good Day ft Swings - C Jamm**__
+<https://www.youtube.com/watch?v=_J4f0pBHjTY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**151) Unfinished Story ft Kim Nayoung - Vasco aka Bill Stax**__
+<https://www.youtube.com/watch?v=w9bL5mmR2Wg>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**150) OG (Be Original) - Innovator, Incredivle, Superbee**__
+<https://www.youtube.com/watch?v=mwyicOqp61k>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+**Nate2 (5):** "Fuck Superbee"
+**Nate (5):** "Fuck Superbee"
+
+----------------------
+
+__**149) I'm the Man - Basick, Verbal Jint, San E**__
+<https://www.youtube.com/watch?v=Z4LHE7mNY2o>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+**Nate2 (5):** "Fuck San E"
+**Nate (5):** "Fuck San E"
+
+----------------------
+
+__**148) $insa - Zion T, C Jamm, Reddy, Xitsuh**__
+<https://www.youtube.com/watch?v=qnBNyqOJmLA>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**147) Beautiful ft Zico - C Jamm**__
+<https://www.youtube.com/watch?v=YxAvbXXdugM>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**146) Sun Block ft Microdot - Superbee**__
+<https://www.youtube.com/watch?v=36YBXjkQiJU>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+**Nate2 (5):** "Fuck Superbee"
+**Nate (5):** "Fuck Superbee"
+
+----------------------
+
+__**145) One Sun ft Shin YongJae, Gaeko - Hanhae**__
+<https://www.youtube.com/watch?v=S7OyXfzShfM>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**144) Turn Around ft DJ Doc - Hangzoo**__
+<https://www.youtube.com/watch?v=NrnRNlT63bg>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**143) Last Man Standing - Dynamic Duo**__
+<https://www.youtube.com/watch?v=qR-BVk_wFCg>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**142) PAE ft Nucksal, Deepflow - Keem Hyoeun, Chaboom, EK**__
+<https://www.youtube.com/watch?v=VAqE6sSzfSE>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**141) Not Enough (prod. BOYCOLD) ft Yumdda, pH-1 - Swings, kid Milli, Mad Clown**__
+<https://www.youtube.com/watch?v=uITuGZKljgQ>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**140) 24 / 7 - Zene The Zilla, EK**__
+<https://www.youtube.com/watch?v=3HyzAw4WSyk>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**139) Sangsu - CHOLB, Kim Seungmin**__
+<https://www.youtube.com/watch?v=A3d8Iy24RFM>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**138) Comfortable / Chill Out - Punchnello, Donutman**__
+<https://www.youtube.com/watch?v=enoYRVPAOtY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**137) Sorry / Sorry For Being Sorry ft Kwon Jeongyeol - Punchnello**__
+<https://www.youtube.com/watch?v=hZS9Yk108qI>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**136) G+Jus Freestyle (prd. Groovyroom) - Justhis**__
+<https://www.youtube.com/watch?v=yRKrep_Imu8>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**135) Want It (prod. Code Kunst) ft Paloalto - Swings, Mckdaddy, Khakii, Layone**__
+<https://www.youtube.com/watch?v=r6cfL2JtzCs>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**134) Win Win (prod. Bewhy) ft Gaeko, Bewhy - Heo Sunghyun, dsel, Kaogaii, Untell**__
+<https://www.youtube.com/watch?v=VoADhji6_jM>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**133) Freak (prod. SLOM) - Lil Boi, Wonstein, Chillin Homie, Shyminhyuk**__
+<https://www.youtube.com/watch?v=1j-1O_H4nUU>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**132) Peter Pan (prod. Bewhy) - Untell**__
+<https://www.youtube.com/watch?v=FuI9ztAOUVU>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**131) Upgrade 2020 (prod. Code Kunst) ft paloalto - Swings**__
+<https://www.youtube.com/watch?v=iqBrc1X-R5s>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**130) Bakchigi (prod. Nutty) ft Dynamic Duo - Kaogaii**__
+<https://www.youtube.com/watch?v=RU4NSEJate0>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**129) Mask On (prod. Code Kunst) ft Paloalto, Coogie - Layone**__
+<https://www.youtube.com/watch?v=j-oE523gP-8>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**128) Achoo (prod. Groovyroom) ft Haon, pH-1 - Miranni**__
+<https://www.youtube.com/watch?v=WAWrnxpMHCw>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**127) Flashing ft Han Yohan, OLNL - Skyminhyuk**__
+<https://www.youtube.com/watch?v=qqMlTUr6PzU>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**126) Roots (prod. Groovyroom) ft justhis - Khundi Panda**__
+<https://www.youtube.com/watch?v=WouANYtmDnA>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**125) When Tomorrow Comes/ Tomorrow ft Giriboy, Big Naughty - Lil Boi**__
+<https://www.youtube.com/watch?v=Ww147bBSIfo>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**124) Tricker (prod. Groovyroom) - Mushvenom**__
+<https://www.youtube.com/watch?v=z1hLXFkx6fg>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**123) Infrared Camera - Wonstein**__
+<https://www.youtube.com/watch?v=XnBDMpEREis>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**122) Grain ft dynamic duo, bewhy - Untell**__
+<https://www.youtube.com/watch?v=DUT_G5onzsY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**121) Godok (prod. Groovyroom) ft Superbee - Mushvenom**__
+<https://www.youtube.com/watch?v=nFDGlTs5374>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+**Nate2 (5):** "Fuck Superbee"
+**Nate (5):** "Fuck Superbee"
+
+----------------------
+
+__**120) iii (prod. Code Kunst) ft Basick, Kid Milli, Paloalto - Layone**__
+<https://www.youtube.com/watch?v=tmUhQuvL47w>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**119) No Bad Dogs (prod. SLOM) ft Yang Donggeun, Zion T - Wonstein**__
+<https://www.youtube.com/watch?v=wwhNUpB6lO4>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**118) Villain (prod. Code Kunst) ft Lee Hi, Simon D - Swings**__
+<https://www.youtube.com/watch?v=y7GVCqziwrg>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**117) Part Time (prod. Groovyroom) ft Queen Wa$abii - Mirani**__
+<https://www.youtube.com/watch?v=tPHrA3hqMlE>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**116) Bad News Cypher vol. 2 (prod. SLOM) ft. TakeOne - Lil Boi**__
+<https://www.youtube.com/watch?v=MmbSoHAp2pE>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**115) Hero (prod. Groovyroom) ft justhis, Golden - Khundi Panda**__
+<https://www.youtube.com/watch?v=7fyD4aZELd0>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**114) Go (prod. SLO) ft Simon D, The Quiett - Mushvenom**__
+<https://www.youtube.com/watch?v=tECEIpzAlPk>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**113) B Mine (prod. Code Kunst) ft Sumin - Swings**__
+<https://www.youtube.com/watch?v=--LjBCUFdwI>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**112) DayDreamin (prod. Yosi, Code Kunst) ft Sogumm, Woo Wonjae - Layone**__
+<https://www.youtube.com/watch?v=TVxmjaK7rd0>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**111) On Air (prod. Gray) ft loco, Jay Park, Gray - Lil Boi**__
+<https://www.youtube.com/watch?v=7b3N6Jga48U>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**110) New New (prod. Groovyroom, MISU) - Ahn Byungwoong, Khakii, Mckdaddy, Munchman**__
+<https://www.youtube.com/watch?v=EDOmGMIWy1Y>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**109) The Beauty of Space (prod. Groovyroom) ft Jessi, Justhis - Mushvenom**__
+<https://www.youtube.com/watch?v=lK_lapLh518>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**108) Yay (prod. Code Kunst) ft Lee Youngji, Jamie, Paolalto - Layone**__
+<https://www.youtube.com/watch?v=AyiVLgKKZVY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**107) Still Hungry (prod. Code Kunst) ft Mommy Son, Paloalto - Swings**__
+<https://www.youtube.com/watch?v=dLuZdC0Mbig>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**106) Credit ft Yumdda, Giriboy, Zion T - Lil Boi**__
+<https://www.youtube.com/watch?v=KoWgusQpS9Q>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**105) End of the Year (prod. Primary, plusNONE) ft Gaeko, SOLE - Rohann, Heo Sunghyun, Lee Giwook, Khundi Panda, Dsel**__
+<https://www.youtube.com/watch?v=tFiAM1KNB3M>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**104) The Last Supper - Joosuc, Kim Jeong- hoon**__
+<https://www.youtube.com/watch?v=04p0GYdldr0>
 **Average:** 6.0
-**Total Points:** 18
-**Controversy:** 3.61
+**Total Points:** 12
+**Controversy:** 0.0
 
 __Scores__
-9 - Test6
-7 - Test5
-2 - Test4
+6 - Nate, Nate2
 
 __Comments__
-**Test4 (2):** "NNN Comment"
 
 ----------------------
 
-__**1) My My - APink**__
-<https://www.youtube.com/watch?v=dA9niwM2r9Q>
-**Average:** 7.33
-**Total Points:** 22
-**Controversy:** 1.15
+__**103) Missing - Soul Drive**__
+<https://www.youtube.com/watch?v=_BCgsJiLnf0>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
 
 __Scores__
-8 - Test5, Test6
-6 - Test4
+6 - Nate, Nate2
 
 __Comments__
-**Test4 (6):** "MM Comment"
+
+----------------------
+
+__**102) Be I - BI**__
+<https://www.youtube.com/watch?v=pBSKYG0yYIg>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**101) Raise Your Guard and Bounce / Bounce - Bobby**__
+<https://www.youtube.com/watch?v=xYeCrKm8Oqk>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**100) On it + Bo$$ - Lil Boi, Loco, Jay Park**__
+<https://www.youtube.com/watch?v=SgOy36RFlP0>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+**Nate2 (6):** "The ending lost it a whole point"
+**Nate (6):** "The ending lost it a whole point"
+
+----------------------
+
+__**99) Victim + Poppin Bottles ft B-Free, Paloalto - Song Mino**__
+<https://www.youtube.com/watch?v=6fHwT17P9P8>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+**Nate2 (6):** "Apparently you weren't the Winner after all."
+**Nate (6):** "Apparently you weren't the Winner after all."
+
+----------------------
+
+__**98) Wanted - C Jamm, Reddy**__
+<https://www.youtube.com/watch?v=BXVT2kbaq2k>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**97) Goblin / Dokkaebi - Flowsik, Hash Swan, Boi B, Wun, G2**__
+<https://www.youtube.com/watch?v=QpYvnh0-ApU>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**96) 1/N ft Dynamic Duo - Hanhae, Ryno, Nucksal, Jo Woochan**__
+<https://www.youtube.com/watch?v=tO_Yb4nIKuI>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**95) Chopsticks ft Tiger JK, Bizzy, Ann One - Maniac, Black Nine, Asol, Woo Wonjae**__
+<https://www.youtube.com/watch?v=-fT9xcuNjm0>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+**Nate2 (6):** "Started out strong but got worse"
+**Nate (6):** "Started out strong but got worse"
+
+----------------------
+
+__**94) Birthday ft Jay Park, Dok2 - Ja Mezz**__
+<https://www.youtube.com/watch?v=ENgHb5sTt9Y>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**93) Search ft Car the garden, Zico - Hangzoo, Young B**__
+<https://www.youtube.com/watch?v=bTchEG-T7cA>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+**Nate2 (6):** "That lost a lot of points at the end"
+**Nate (6):** "That lost a lot of points at the end"
+
+----------------------
+
+__**92) Damn Fate/ Watch me Ballin  ft Sik-K - Coogie**__
+<https://www.youtube.com/watch?v=ziWGjHE6zFs>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**91) Save (prod. Code Kunst) ft Paloalto - Loopy**__
+<https://www.youtube.com/watch?v=eP2VKfmmkcM>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**90) MOMM (prod. Code Kunst) ft Justhis - Kid Milli**__
+<https://www.youtube.com/watch?v=3Ox3O84ArQ8>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**89) SUPERBEEwhY (prod. Bewhy) ft Bewhy - Superbee**__
+<https://www.youtube.com/watch?v=7zhc1f5zXEs>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+**Nate2 (6):** "Fuck Superbee"
+**Nate (6):** "Fuck Superbee"
+
+----------------------
+
+__**88) Orange (prod. Code Kunst) ft Jay Park - pH-1**__
+<https://www.youtube.com/watch?v=dx7dVgUO1gM>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**87) Goals (prod. Code Kunst) ft Paloalto, Hoody - Kid Milli**__
+<https://www.youtube.com/watch?v=hvC6Ki4t_Vc>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**86) Pickup man ft Swings, Giriboy - Nafla**__
+<https://www.youtube.com/watch?v=L8-b05cY_ec>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**85) Yoran (Prod. Millic) - Verbal Jint, Giriboy, Bewhy**__
+<https://www.youtube.com/watch?v=-PzEwFQcJBc>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**84) Truman Show - YunB, Young B**__
+<https://www.youtube.com/watch?v=ga2WH8pghQU>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**83) CCTV ft Leellamarz - Lil Tachi, Big Naughty**__
+<https://www.youtube.com/watch?v=rzUpCioUL88>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**82) Bonnie & Clyde - Bryn, Mckdaddy**__
+<https://www.youtube.com/watch?v=7lxnl2h9wPo>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**81) Cupid (prod. sAewoo) ft Park Jimin - Bryn**__
+<https://www.youtube.com/watch?v=8L5zzA-3ycs>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**80) When it Rains (prod. illusionsound1, Verbal Jint) ft Suran - CHOILB**__
+<https://www.youtube.com/watch?v=Q-CacS5X6fQ>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**79) Jungle (prod. millic) ft Penomeco, Sam Kim - Punchnello**__
+<https://www.youtube.com/watch?v=BOBpzzlu5tk>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**78) No Cap ft Osshun Gum - Young B**__
+<https://www.youtube.com/watch?v=-UkbDgDNFcU>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**77) Headbutt - 45RPM, IItong**__
+<https://www.youtube.com/watch?v=k4kbzSlpbo0>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**76) I Love You ft Loco, Seung-yeon - MC Sniper**__
+<https://www.youtube.com/watch?v=ZzhWWYrHscg>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**75) Heavan ft Oh Sumin - J'kyun**__
+<https://www.youtube.com/watch?v=1M4v-gKZ7LI>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**74) Malice / Venom - Iron**__
+<https://www.youtube.com/watch?v=ctYkpf1Kntw>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**73) My Zone ft San E, Verbal Jint - Basick, Blacknut, Microdot**__
+<https://www.youtube.com/watch?v=11IjhTdGDk0>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+**Nate2 (7):** "Fuck San E"
+**Nate (7):** "Fuck San E"
+
+----------------------
+
+__**72) Gxnzi ft Vasco - Basick**__
+<https://www.youtube.com/watch?v=De3XT2yf7rg>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**71) M.I.L.E. (Make it Look Easy) - Blacknut, Verbal Jint, San E**__
+<https://www.youtube.com/watch?v=H0GW8bbpVEQ>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+**Nate2 (7):** "Fuck San E"
+**Nate (7):** "Fuck San E"
+
+----------------------
+
+__**70) Air DoTheQ - The Quiett, Superbee, myundo, Flowsik, Dok2**__
+<https://www.youtube.com/watch?v=XP5Dh9iAEv4>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+**Nate2 (7):** "Fuck Superbee"
+**Nate (7):** "Fuck Superbee"
+
+----------------------
+
+__**69) Drummer ft Olltii - Zion T, Xitsuh**__
+<https://www.youtube.com/watch?v=QOF6QC85FGY>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**68) Air DoTheQ part 2 - The Quiett, Dok2, Superbee**__
+<https://www.youtube.com/watch?v=MMGAmcMmttk>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+**Nate2 (7):** "Fuck Superbee"
+**Nate (7):** "Fuck Superbee"
+
+----------------------
+
+__**67) MM - C Jamm**__
+<https://www.youtube.com/watch?v=zMZZTTsW9dw>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**66) Life is A Gamble ft Jay Park, Dok2 - Ja Mezz, Ness, Woodie Gochild, Junoflo**__
+<https://www.youtube.com/watch?v=3a3R75nYl4w>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**65) Born Expert/ Three Kings ft Dynamic Duo, DJ Friz - Nucksal**__
+<https://www.youtube.com/watch?v=8VG5hkwMXDo>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**64) Hate You (prod. Code Kunst) ft Woo Wonjae - pH-1**__
+<https://www.youtube.com/watch?v=LybgPLBic4k>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**63) XXL ft Deepflow, Dok2 - Keem Hyoeun**__
+<https://www.youtube.com/watch?v=EWq0afYc6XY>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**62) Hundred Million/ uck (prod. Changmo) ft Changmo - Superbee**__
+<https://www.youtube.com/watch?v=5kghcQ7OCRo>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+**Nate2 (7):** "Fuck Superbee"
+**Nate (7):** "Fuck Superbee"
+
+----------------------
+
+__**61) GOD GOD GOD - EK**__
+<https://www.youtube.com/watch?v=yIrEBuF556g>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**60) 119 remix (prod. Gray) - Top 6**__
+<https://www.youtube.com/watch?v=qE51wrAg_VU>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**59) NoNo (prod. Code Kunst) ft Simon D - Loopy**__
+<https://www.youtube.com/watch?v=fU5ohmehcfk>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**58) Buckle (prod. Giriboy) ft Zico - Nafla**__
+<https://www.youtube.com/watch?v=55Fxy9-ZOZA>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**57) BADA (prod. Giriboy) ft Giriboy - Woodie Gochild, CHOILB, Big Naughty, Young B, Chillin Homie**__
+<https://www.youtube.com/watch?v=ruPYt0jMHw0>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**56) Scoop (prod. BOYCOLD) ft Kid Milli, Swings - YunB, Kim Seungmin, Yunhway, Donutman**__
+<https://www.youtube.com/watch?v=koSY8y-0Sbw>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**55) Gwangalli 101/ Route 101 - Jjangyou, Yunhway**__
+<https://www.youtube.com/watch?v=0uDUSACQ3W8>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**54) Problems ft Coogie - Big Naughty**__
+<https://www.youtube.com/watch?v=zbBoTPlu1ls>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**53) Icebreaker - Zizo, Layone, Livur**__
+<https://www.youtube.com/watch?v=gWlMcBoTMB8>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**52) Home ft Jinsil - Double K, Loco**__
+<https://www.youtube.com/watch?v=Qv-zWm9MzM0>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**51) Oll' Ready - Olltii**__
+<https://www.youtube.com/watch?v=C1-bt11c5TY>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**50) The XX ft Zico - Olltii**__
+<https://www.youtube.com/watch?v=aluqwAM4_tM>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**49) What Can I Do / Something i can do  ft Jessi - Blacknut**__
+<https://www.youtube.com/watch?v=j32Pi05hRdo>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**48) Next Level - One, Hanhae, Geegooin, P- Type**__
+<https://www.youtube.com/watch?v=MoAev9AW5yY>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**47) Comfortable - Simon D, Gray, One**__
+<https://www.youtube.com/watch?v=-OffEv5JZSM>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**46) Knock - Zion T**__
+<https://www.youtube.com/watch?v=P8TUm-K-zds>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**45) Forever - Bewhy**__
+<https://www.youtube.com/watch?v=feEOJKAVKEw>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**44) Crazy Guy/ MiChinNom ft jessi - #Gun**__
+<https://www.youtube.com/watch?v=yKtYOe3brkI>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**43) And ft Suran - Xitsuh**__
+<https://www.youtube.com/watch?v=K4j0BqPGAnk>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**42) Let It Be ft Crush - C Jamm**__
+<https://www.youtube.com/watch?v=x56Jqp5avEs>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**41) Fake pt 2 - Bewhy**__
+<https://www.youtube.com/watch?v=Q0MlUiMB2N4>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**40) Eyes On Me ft G.Soul, Dok2 - Junoflo**__
+<https://www.youtube.com/watch?v=CoV83WSaXCY>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**39) What You Call Is The Price/ Brr Get$  ft Gaeko, Don Mills - Nucksal, Jo Woochan**__
+<https://www.youtube.com/watch?v=foIUUBaqlsg>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**38) Pendulum/ Zinza ft YDG, Suran - Woo Wonjae**__
+<https://www.youtube.com/watch?v=ZtrEur-OLiA>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+**Nate2 (8):** "YDG ruined the entire song, shoulda been a 10"
+**Nate (8):** "YDG ruined the entire song, shoulda been a 10"
+
+----------------------
+
+__**37) Twisted ft Kim Hyoeun, Changmo - Junoflo**__
+<https://www.youtube.com/watch?v=SwP9E_GvBKQ>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**36) Filament ft Kim Bumsoo - Nucksal**__
+<https://www.youtube.com/watch?v=2mLVwuFCFZM>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**35) Good Day (prod. Code Kunst) ft Paloalto - pH-1, Kid Milli, Loopy**__
+<https://www.youtube.com/watch?v=K3eCEvWKT2Q>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**34) Breaking Bad ft Giriboy - OLNL**__
+<https://www.youtube.com/watch?v=hLJxuaYLPbI>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**33) Airplane Mode ft Swings - ODEE**__
+<https://www.youtube.com/watch?v=6SCG06QJZ2Y>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**32) Changes (prod. Code Kunst) ft Gray - Kid Milli**__
+<https://www.youtube.com/watch?v=pkxkazf6_eM>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**31) SUNBBANG (Prod. Giriboy) ft Gaeko, Giriboy - Nafla**__
+<https://www.youtube.com/watch?v=blCzhOIuQFc>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**30) Guys/ Jasiks (prod. The Quiett) - EK, ODEE, Zene The Zilla, Coogie**__
+<https://www.youtube.com/watch?v=HgvHmYdPVBM>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**29) Sold Out (prod. Doplamingo, Verbal Jint) ft VINXEN - Young B**__
+<https://www.youtube.com/watch?v=QF5jbQkuD5c>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**28) Diablo ft Justhis - EK**__
+<https://www.youtube.com/watch?v=N5PbOI1IGh8>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**27) Phone Number/ 010 ft Giriboy - Big Naughty**__
+<https://www.youtube.com/watch?v=LvmZ2ByaFhI>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**26) Sick Teen (prod. Grene Man) - M1nu, Layone, Veinifyl, Big Naughty**__
+<https://www.youtube.com/watch?v=JcKuHXeZ0ls>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**25) Let It Burn (prod. The Quiett) - Ahn Byungwoong, Chillin Homie, The Quiett**__
+<https://www.youtube.com/watch?v=iS_0FKa0qzQ>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**24) VVS (prod. Groovyroom) ft justhis - Miranni, Muchman, khundi Panda, Mushvenom**__
+<https://www.youtube.com/watch?v=mZInUHwmzN8>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**23) Turtle Ship ft Paloalto - Ja Mezz, AndUp, Song Mino**__
+<https://www.youtube.com/watch?v=g7j2NjAMLos>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**22) Moneyflow - Song Mino, Zico, Paloalto**__
+<https://www.youtube.com/watch?v=5PCbdenTD1I>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**21) Oppa's Car - Incredivle , Tablo, Jinusean**__
+<https://www.youtube.com/watch?v=he6f6JjhHm8>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**20) Fear ft. Taeyang - Song Mino**__
+<https://www.youtube.com/watch?v=38rUBLSEhw8>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**19) Going Home ft Gummy - Mad Clown, #Gun**__
+<https://www.youtube.com/watch?v=gViBKKsdOk0>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**18) Rapstar (remix) - Flowsik, The Quiett, Dok2**__
+<https://www.youtube.com/watch?v=aVwJKIfwtu0>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**17) Gather At The lobby/ lobby ft dynamic duo, Chungha, Muzie - Hanhae**__
+<https://www.youtube.com/watch?v=-JmE-omJKcw>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+**Nate2 (9):** "Bonus point for Chungha, even though her feature needed to be longer"
+**Nate (9):** "Bonus point for Chungha, even though her feature needed to be longer"
+
+----------------------
+
+__**16) Again/ T.O ft Tiger JK, Bizzy, MRSHLL - Woo Wonjae**__
+<https://www.youtube.com/watch?v=TuxAPgjXDTk>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**15) VVIP ft Sik-k, Gaeko - Jo Woochan**__
+<https://www.youtube.com/watch?v=gf_IAIM_21o>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**14) Move ft Bizzy - Woo Wonjae**__
+<https://www.youtube.com/watch?v=OgCBpmjxEuo>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**13) Even When the Curtains Fall/ feelin good  ft Gaeko - Nucksal**__
+<https://www.youtube.com/watch?v=JYQbm10Wq2k>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**12) Bite - Nafla**__
+<https://www.youtube.com/watch?v=nOyk1_wV6e4>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**11) Boy (prod. Bewhy) ft Bewhy - Young B**__
+<https://www.youtube.com/watch?v=7HYrWUJP_7U>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**10) 187 ft Im Sung-hyun - Vasco**__
+<https://www.youtube.com/watch?v=GvoF4Fc8pF0>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**9) Respect ft Loco, Gray, DJ Punpkin - Sik-k, Lil Boy Geegooin**__
+<https://www.youtube.com/watch?v=qSPHD6zAS8I>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**8) Move Than a TV Star ft Lee Hi - Innovator**__
+<https://www.youtube.com/watch?v=Gh3cQzXR3HM>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**7) Stand Up ft Mamamoo - Basick**__
+<https://www.youtube.com/watch?v=iepayV4vq_0>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**6) Better Days ft Gummy - Basick**__
+<https://www.youtube.com/watch?v=zZDsBRy3mro>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**5) Swallowtail/ Horangnabi ft Gill, Rhythm Power, kim Heung-gook - Boi B**__
+<https://www.youtube.com/watch?v=ukItRrBzlqg>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+**Nate2 (10):** "Something not serious, it was fun. Also got 2 bonus points for WJSN"
+**Nate (10):** "Something not serious, it was fun. Also got 2 bonus points for WJSN"
+
+----------------------
+
+__**4) Day Day ft Jay Park - Bewhy**__
+<https://www.youtube.com/watch?v=KQVWDEFFQr8>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**3) Bestdriverz ft Dean, Zion T - Hangzoo**__
+<https://www.youtube.com/watch?v=93HdxDoZcVk>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**2) When The Time Comes ft Sunwoo Junga, Nucksal - Chaboom**__
+<https://www.youtube.com/watch?v=U7jGA5GDM1I>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
+
+----------------------
+
+__**1) MAGMA (prod. Bewhy) ft Hangzoo, Bewhy - Punchnello**__
+<https://www.youtube.com/watch?v=xCFhi1ek1ww>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Nate, Nate2
+
+__Comments__
 
 ----------------------
 

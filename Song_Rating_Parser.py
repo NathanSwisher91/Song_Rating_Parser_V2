@@ -156,11 +156,11 @@ with os.scandir('Rating/') as ratings:
             fileReader = csv.reader(file)
             next(fileReader)
             for row in fileReader:
-                artist = row[0]
-                song = row[1]
-                score = row[2]
-                comment = row[3]
-                link = row[4]
+                artist = row[0].strip()
+                song = row[1].strip()
+                score = row[2].strip()
+                comment = row[3].strip()
+                link = row[4].strip()
 
                 if firstFile and song != 'Overall' and song != 'N/A' and (song + ' - ' + artist) not in songInfo:
                     songInfo[song + ' - ' + artist] = {'Average': 0, 'Points': 0, 'Controversy': 0, 'Link': link,
