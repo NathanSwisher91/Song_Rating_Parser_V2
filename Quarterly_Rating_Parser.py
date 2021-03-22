@@ -10,7 +10,7 @@ def averageStringFromList(list):
     for value in list:
         sumTotal = sumTotal + value
 
-    return str(round(sumTotal / len(list), 2))
+    return round(sumTotal / len(list), 2)
 
 
 def averageTotalMostUsedStringsFromList(list):
@@ -158,7 +158,7 @@ for userKey, userValue in userInfo.items():
             averages.append([averageStringFromList(artistValue), artistKey])
     averages.sort(reverse=True)
     for group in averages:
-        results.write('**' + group[1] + ':** ' + group[0] + '\n')
+        results.write('**' + group[1] + ':** ' + str(group[0]) + '\n')
     results.write('\n**Overall Average:** ' + overallAverageInfo[0] + '\n')
     results.write('**Total Points:** ' + overallAverageInfo[1] + '\n')
     results.write('**Most Used Score:** ' + overallAverageInfo[2] + '\n')

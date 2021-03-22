@@ -10,7 +10,7 @@ def averageStringFromList(list):
     for value in list:
         sumTotal = sumTotal + value
 
-    return str(round(sumTotal / len(list), 2))
+    return round(sumTotal / len(list), 2)
 
 
 def averageTotalMostUsedStringsFromList(list):
@@ -126,7 +126,7 @@ def fillOutArtistData(artistName, artistRatingInfo, userInfo):
     biggestFanString = ''
     for userAverage in userArtistList:
         if index < 3 or userAverage[0] == lastAverage:
-            biggestFanString = biggestFanString + userAverage[1] + ' (' + userAverage[0] + '), '
+            biggestFanString = biggestFanString + userAverage[1] + ' (' + str(userAverage[0]) + '), '
             index = index + 1
             lastAverage = userAverage[0]
     artistRatingInfo['Biggest Fans'] = biggestFanString[:-2]
@@ -137,7 +137,7 @@ def fillOutArtistData(artistName, artistRatingInfo, userInfo):
     biggestAntiString = ''
     for userAverage in userArtistList:
         if index < 3 or userAverage[0] == lastAverage:
-            biggestAntiString = biggestAntiString + userAverage[1] + ' (' + userAverage[0] + '), '
+            biggestAntiString = biggestAntiString + userAverage[1] + ' (' + str(userAverage[0]) + '), '
             index = index + 1
             lastAverage = userAverage[0]
     artistRatingInfo['Biggest Antis'] = biggestAntiString[:-2]
@@ -224,7 +224,7 @@ for userKey, userValue in userInfo.items():
             averages.append([averageStringFromList(artistValue), artistKey])
     averages.sort(reverse=True)
     for group in averages:
-        results.write('**' + group[1] + ':** ' + group[0] + '\n')
+        results.write('**' + group[1] + ':** ' + str(group[0]) + '\n')
     results.write('\n**Overall Average:** ' + overallAverageInfo[0] + '\n')
     results.write('**Total Points:** ' + overallAverageInfo[1] + '\n')
     results.write('**Most Used Score:** ' + overallAverageInfo[2] + '\n')
@@ -283,7 +283,7 @@ for songOrArtist in sortedSongAndArtistList:
         results.write('\n__Comments__\n')
         for commentRanking in artistRatingInfo['UserInfo']:
             if commentRanking[3] != '':
-                results.write('**' + commentRanking[1] + ' (' + str(commentRanking[0] + '):** "' + commentRanking[3] + '"\n'))
+                results.write('**' + commentRanking[1] + ' (' + str(commentRanking[0]) + '):** "' + commentRanking[3] + '"\n')
         results.write('\n----------------------\n\n')
     else:
         songPlacement = str(songOrArtist[0])

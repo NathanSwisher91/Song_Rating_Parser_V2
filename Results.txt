@@ -1,130 +1,61 @@
 11s
 
-Annie: Roly-Poly - T-ara
-Claudia: Mamma Mia! - Kara
-Cooper: Lovey-Dovey - T-ara
-Kaymarie: I Like That - Sistar
-Sat: Sugar Free - T-ara
+Jong: I Smile - Day6
+Jong2: I Smile - Day6
 
 ----------------------
 
 0s
 
-Annie: Yayaya - T-ara
-Claudia: Jingle Jingle - 4Minute
-Cooper: Like Money - Wonder Girls
-Kaymarie: Bo Peep Bo Peep - T-ara
-Loewe: Breathe - Miss A
-Sat: Yayaya - T-ara
+Jong: My Sea - Rockit Girl
+Jong2: My Sea - Rockit Girl
 
 ----------------------
 
 AVERAGES
 
-__**Annie**__
-**T-ara:** 9.57
-**f(x):** 8.2
-**Kara:** 7.64
-**SNSD:** 7.18
-**APink:** 7.17
-**Miss A:** 7.12
-**Wonder Girls:** 7.09
-**2NE1:** 6.88
-**Sistar:** 5.75
-**4Minute:** 5.41
+__**Jong**__
+**Day6:** 10.0
+**Royal Pirates:** 9.0
+**The Rose:** 8.8
+**Marmello:** 8.4
+**N.Flying:** 8.18
+**CNBLUE:** 7.83
+**ONEWE:** 7.55
+**FT. Island:** 7.36
+**IZ:** 7.17
+**LED Apple:** 6.6
+**Honeyst:** 6.33
+**Trax:** 5.33
+**Lunafly:** 4.11
+**The East Light:** 3.25
+**Rockit Girl:** 0.75
 
-**Overall Average:** 7.266666666666667
-**Total Points:** 1090
+**Overall Average:** 7.170212765957447
+**Total Points:** 1011
 **Most Used Score:** 10
 
 ----------------------
 
-__**Claudia**__
-**f(x):** 8.9
-**Kara:** 8.5
-**Wonder Girls:** 8.45
-**T-ara:** 8.24
-**SNSD:** 8.18
-**Miss A:** 8.12
-**APink:** 7.61
-**Sistar:** 7.42
-**2NE1:** 6.65
-**4Minute:** 5.82
+__**Jong2**__
+**Day6:** 10.0
+**Royal Pirates:** 9.0
+**The Rose:** 8.8
+**Marmello:** 8.4
+**N.Flying:** 8.18
+**CNBLUE:** 7.83
+**ONEWE:** 7.55
+**FT. Island:** 7.36
+**IZ:** 7.17
+**LED Apple:** 6.6
+**Honeyst:** 6.33
+**Trax:** 5.33
+**Lunafly:** 4.11
+**The East Light:** 3.25
+**Rockit Girl:** 0.75
 
-**Overall Average:** 7.713333333333333
-**Total Points:** 1157
-**Most Used Score:** 8
-
-----------------------
-
-__**Cooper**__
-**f(x):** 9.3
-**T-ara:** 8.9
-**APink:** 8.33
-**Miss A:** 8.25
-**Sistar:** 8.0
-**Kara:** 7.43
-**SNSD:** 7.41
-**2NE1:** 6.35
-**4Minute:** 6.06
-**Wonder Girls:** 5.55
-
-**Overall Average:** 7.54
-**Total Points:** 1131
-**Most Used Score:** 10
-
-----------------------
-
-__**Kaymarie**__
-**Sistar:** 7.83
-**Wonder Girls:** 7.27
-**Kara:** 6.64
-**SNSD:** 6.55
-**4Minute:** 5.71
-**2NE1:** 5.29
-**APink:** 4.61
-**Miss A:** 3.88
-**f(x):** 2.9
-**T-ara:** 2.0
-
-**Overall Average:** 5.22
-**Total Points:** 783
-**Most Used Score:** 1
-
-----------------------
-
-__**Loewe**__
-**f(x):** 9.2
-**SNSD:** 9.0
-**Kara:** 9.0
-**APink:** 8.89
-**T-ara:** 8.81
-**Miss A:** 8.75
-**2NE1:** 8.71
-**Wonder Girls:** 8.09
-**Sistar:** 8.0
-**4Minute:** 6.94
-
-**Overall Average:** 8.546666666666667
-**Total Points:** 1282
-**Most Used Score:** 10
-
-----------------------
-
-__**Sat**__
-**Sistar:** 8.08
-**2NE1:** 6.82
-**APink:** 6.78
-**Kara:** 6.64
-**f(x):** 6.4
-**Miss A:** 6.38
-**T-ara:** 6.33
-**Wonder Girls:** 5.91
-**SNSD:** 5.77
-**4Minute:** 5.59
-
-**Overall Average:** 6.42
-**Total Points:** 963
+**Overall Average:** 7.170212765957447
+**Total Points:** 1011
 **Most Used Score:** 10
 
 ----------------------
@@ -132,57 +63,13 @@ __**Sat**__
 
 COMPATIBILITY
 
-__**Kaymarie**__
-**Sat:** 49.73% :heart:
-**Claudia:** 43.2%
-**Cooper:** 40.13%
-**Loewe:** 38.0%
-**Annie:** 36.67%
+__**Jong**__
+**Jong2:** 100.0% :heart:
 
 ----------------------
 
-__**Sat**__
-**Claudia:** 59.87% :heart:
-**Cooper:** 59.47%
-**Loewe:** 52.13%
-**Kaymarie:** 49.73%
-**Annie:** 48.53%
-
-----------------------
-
-__**Annie**__
-**Loewe:** 67.47% :heart:
-**Claudia:** 58.8%
-**Cooper:** 56.4%
-**Sat:** 48.53%
-**Kaymarie:** 36.67%
-
-----------------------
-
-__**Loewe**__
-**Annie:** 67.47% :heart:
-**Claudia:** 64.4%
-**Cooper:** 61.87%
-**Sat:** 52.13%
-**Kaymarie:** 38.0%
-
-----------------------
-
-__**Claudia**__
-**Cooper:** 68.67% :heart:
-**Loewe:** 64.4%
-**Sat:** 59.87%
-**Annie:** 58.8%
-**Kaymarie:** 43.2%
-
-----------------------
-
-__**Cooper**__
-**Claudia:** 68.67% :heart:
-**Loewe:** 61.87%
-**Sat:** 59.47%
-**Annie:** 56.4%
-**Kaymarie:** 40.13%
+__**Jong2**__
+**Jong:** 100.0% :heart:
 
 ----------------------
 
@@ -190,3165 +77,2514 @@ __**Cooper**__
 
 RANKINGS
 
-__**150) Jingle Jingle - 4Minute**__
-<https://www.youtube.com/watch?v=DI3P0ATq97U>
-**Average:** 1.17
-**Total Points:** 7
-**Controversy:** 0.98
-
-__Scores__
-3 - Annie
-1 - Cooper, Kaymarie, Loewe, Sat
-0 - Claudia
-
-__Comments__
-**Annie (3):** "Childish."
-**Sat (1):** "I mean do I even need to explain "
-**Loewe (1):** "I've a few Filipino-language jokes I can make here but it wouldn't be appreciated so I won't."
-**Claudia (0):** "Awful feature and awful autotune"
-
-----------------------
-
-__**149) Yayaya - T-ara**__
-<https://www.youtube.com/watch?v=sLfRdyqxXJk>
-**Average:** 1.33
-**Total Points:** 8
-**Controversy:** 1.51
-
-__Scores__
-4 - Claudia
-2 - Cooper
-1 - Kaymarie, Loewe
-0 - Annie, Sat
-
-__Comments__
-**Cooper (2):** "what we arent gonna do is let this be above any other t-ara song"
-**Loewe (1):** "Noisy as fuck bullshit."
-**Sat (0):** "oof. Lets not talk about the mv. What producer thought this was good enough to be relases lol "
-**Annie (0):** "Not even the ult-est of ults can escape a 0. And just as well, as "Yayaya" is a glaring mistake in T-ara's discography. Producers E-Tribe pretty much had one trick, which is that wall-of-noise style reminiscent of your favorite electro and industrial groups like Front Line Assembly and Kraftwerk; and it worked that one time in "Gee", but the reason it worked was because there's better songwriting and the backings actually worked in harmony with the topline. But this song is just wrong, of course the backings themselves are fine, but it really does not work with a nursery-style chanting bullshit, it just sounds so aggravating. But then, that kind of topline wouldn't work on any backing anyways. Unless you're singing about Satan and doing it on top of an industrial metal beat. For an example of this style of wall-of-noise done right, please refer to Oh My Girl's "Coloring Book"."
-
-----------------------
-
-__**148) Breathe - Miss A**__
-<https://www.youtube.com/watch?v=wTnwjlDhAY4>
-**Average:** 2.83
-**Total Points:** 17
-**Controversy:** 2.93
-
-__Scores__
-7 - Claudia
-6 - Cooper
-2 - Annie
-1 - Kaymarie, Sat
-0 - Loewe
-
-__Comments__
-**Annie (2):** "Tuneless. You can tell even JYP was embarassed of this, opting not to put his signature whisper."
-**Sat (1):** "even as a meme its not good "
-**Loewe (0):** "Yeah this is shit. One of the very times JYP missed with his girl group R&B, I don't even know what he took when writing this shit because the melodic contour is absolutely HORRENDOUS."
-
-----------------------
-
-__**147) Like Money - Wonder Girls**__
-<https://www.youtube.com/watch?v=quE6Cq4Q2bs>
-**Average:** 3.17
-**Total Points:** 19
-**Controversy:** 2.79
-
-__Scores__
-8 - Claudia
-4 - Kaymarie
-3 - Annie, Sat
-1 - Loewe
-0 - Cooper
-
-__Comments__
-**Claudia (8):** "Wonder Girls paved the way for western collabs :nail_care: "
-**Annie (3):** "People shit on this song and honestly it's all unwarranted, this song isn't the worst."
-**Loewe (1):** "HAHAHAHAHAHA"
-**Cooper (0):** "completely and utterly creatively dead, I mean the album was called Reboot for a reason"
-
-----------------------
-
-__**146) Is It Poppin'? - 4Minute**__
-<https://www.youtube.com/watch?v=DRSRpXPZVdM>
-**Average:** 3.5
-**Total Points:** 21
-**Controversy:** 1.76
-
-__Scores__
-6 - Claudia
-4 - Cooper, Kaymarie, Sat
-2 - Annie
-1 - Loewe
-
-__Comments__
-**Annie (2):** "I mean at least it's better than their other 2013 song "What's Your Name?", but it's not like it was difficult to top that."
-**Loewe (1):** "popping my eardrums haha"
-
-----------------------
-
-__**145) What A Girl Wants - 4Minute**__
-<https://www.youtube.com/watch?v=f07vXjZkfjk>
-**Average:** 4.0
-**Total Points:** 24
-**Controversy:** 1.1
-
-__Scores__
-6 - Annie
-4 - Claudia, Cooper, Sat
-3 - Kaymarie, Loewe
-
-__Comments__
-**Annie (6):** "Far from the best "cute" 4Minute song, please refer to "Heart To Heart". That being said, this isn't all that bad."
-**Loewe (3):** "I don't exactly know what a girl wants, at least that's what my ex told me, but I'm pretty sure this song isn't what she wants either."
-
-----------------------
-
-__**144) Rock U - Kara**__
-<https://www.youtube.com/watch?v=aqF3qmxv-H8>
-**Average:** 4.17
-**Total Points:** 25
-**Controversy:** 3.19
-
-__Scores__
-8 - Claudia
-7 - Loewe
-6 - Annie
-2 - Cooper
-1 - Kaymarie, Sat
-
-__Comments__
-**Loewe (7):** "It didn't rock me but it's still nice."
-**Annie (6):** "Not very rocking."
-**Sat (1):** "nightmare "
-
-----------------------
-
-__**143) Do You Love Me - 2NE1**__
-<https://www.youtube.com/watch?v=HRTb81FpWq0>
-**Average:** 4.17
-**Total Points:** 25
-**Controversy:** 2.79
-
-__Scores__
-8 - Cooper
-6 - Claudia
-5 - Sat
-4 - Loewe
-1 - Annie, Kaymarie
-
-__Comments__
-**Loewe (4):** "it's harmless but nowhere near their best."
-**Annie (1):** "A throwback to their "To Anyone" sound, but if the songwriters forgot to write good songs."
-
-----------------------
-
-__**142) Thank You - 4Minute**__
-<https://www.youtube.com/watch?v=0WGDBzBzqKM>
-**Average:** 4.33
-**Total Points:** 26
-**Controversy:** 1.37
-
-__Scores__
-6 - Loewe
-5 - Cooper, Kaymarie
-4 - Claudia, Sat
-2 - Annie
-
-__Comments__
-**Loewe (6):** "Kinda snore but it's also kinda cute."
-**Sat (4):** "zzzzz"
-**Claudia (4):** ":yooasleep:"
-**Annie (2):** "Boring ballad for the fans."
-
-----------------------
-
-__**141) If U Wanna - Kara**__
-<https://www.youtube.com/watch?v=3K7uDzaPsR8>
-**Average:** 4.33
-**Total Points:** 26
-**Controversy:** 1.21
-
-__Scores__
-6 - Loewe
-5 - Claudia, Kaymarie
-4 - Annie
-3 - Cooper, Sat
-
-__Comments__
-**Loewe (6):** "Harmless."
-**Annie (4):** "Dull R&B."
-
-----------------------
-
-__**140) Clap Your Hands - 2NE1**__
-<https://www.youtube.com/watch?v=ZTw-UM5Jy4E>
-**Average:** 4.5
-**Total Points:** 27
-**Controversy:** 3.73
-
-__Scores__
-10 - Loewe
-8 - Annie
-4 - Claudia
-3 - Sat
-1 - Cooper, Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (8):** "To Anyone is one of my favorite K-pop albums ever, and it's because of songs like this. I don't really have a choice, I'm compelled to clap my hands while listening to this song."
-**Cooper (1):** "ugh this gotta be a 1 now that im more evolved"
-
-----------------------
-
-__**139) What's Your Name? - 4Minute**__
-<https://www.youtube.com/watch?v=H-IJWqIHioA>
-**Average:** 4.5
-**Total Points:** 27
-**Controversy:** 3.27
-
-__Scores__
-9 - Kaymarie
-8 - Claudia
-4 - Cooper
-3 - Loewe
-2 - Sat
-1 - Annie
-
-__Comments__
-**Loewe (3):** "Forgot my name when I listened to this. It's a reflex because I don't want them to know my name, so I just forgot about it."
-**Sat (2):** "its soo annoying lol"
-**Annie (1):** "Disaster. This is basically an infinitely worse take on Hyuna's "Ice Cream" with awful synthesizers and bullshit blues-scale melodies."
-
-----------------------
-
-__**138) Party - SNSD**__
-<https://www.youtube.com/watch?v=HQzu7NYlZNQ>
-**Average:** 4.5
-**Total Points:** 27
-**Controversy:** 3.02
-
-__Scores__
-9 - Claudia
-6 - Kaymarie, Loewe
-3 - Sat
-2 - Cooper
-1 - Annie
-
-__Comments__
-**Loewe (6):** "Probably their worst title track."
-**Annie (1):** "Sorry Taeyeon, I love you, but I'm only reserving my totally unbiased 10s to your solos and I'm gonna shit on your group's songs if I don't like them. Starts of fantastically hilarious with another one of Tiffany's English intros then grooves into the shitty generic summer house groove, and it doesn't get better than that with bland af songwriting. If the high point of your song is Tiffany's intro, you gotta think it isn't very good."
-
-----------------------
-
-__**137) Sailing (0805) - SNSD**__
-<https://www.youtube.com/watch?v=UlhR0zBFxZE>
-**Average:** 4.5
-**Total Points:** 27
-**Controversy:** 1.76
-
-__Scores__
-7 - Cooper
-6 - Claudia
-4 - Kaymarie, Loewe, Sat
-2 - Annie
-
-__Comments__
-**Loewe (4):** "Snore"
-**Annie (2):** "There's a reason why idol-made songs usually do not pass quality control."
-
-----------------------
-
-__**136) Miracle - APink**__
-<https://www.youtube.com/watch?v=fihius0K9B0>
-**Average:** 4.67
-**Total Points:** 28
-**Controversy:** 2.16
-
-__Scores__
-6 - Claudia, Cooper, Loewe, Sat
-3 - Annie
-1 - Kaymarie
-
-__Comments__
-**Loewe (6):** "I love Apink."
-**Annie (3):** "Boring ballad for the fans."
-
-----------------------
-
-__**135) Push Push - Sistar**__
-<https://www.youtube.com/watch?v=75y5iN7z-08>
-**Average:** 4.67
-**Total Points:** 28
-**Controversy:** 1.37
-
-__Scores__
-7 - Loewe
-5 - Kaymarie, Sat
-4 - Annie, Cooper
-3 - Claudia
-
-__Comments__
-**Loewe (7):** "2ne1 but worse, but still nice."
-**Annie (4):** "Just an awkward "girl crush" song."
-
-----------------------
-
-__**134) The DJ Is Mine - Wonder Girls**__
-<https://www.youtube.com/watch?v=doXnuStEf2I>
-**Average:** 4.83
-**Total Points:** 29
-**Controversy:** 2.4
-
-__Scores__
-7 - Claudia, Loewe
-6 - Sat
-5 - Annie
-3 - Kaymarie
-1 - Cooper
-
-__Comments__
-**Loewe (7):** "Kinda Bangs"
-**Annie (5):** "One of the reasons Wonder Girls' songwriting holds up is because it's married to brisk tempos and cool 80s sounds."
-**Cooper (1):** "this shit is so generic and corny"
-
-----------------------
-
-__**133) Promise U - APink**__
-<https://www.youtube.com/watch?v=nzljAKtsOuw>
-**Average:** 4.83
-**Total Points:** 29
-**Controversy:** 1.94
-
-__Scores__
-8 - Cooper
-6 - Loewe
-5 - Claudia
-4 - Sat
-3 - Annie, Kaymarie
-
-__Comments__
-**Loewe (6):** "Okay this might be the worst Apink song but this is still decent. I love Apink."
-**Claudia (5):** "This is def a fan song, but I have no sentimental ties to this, so it's just meh for me :/"
-**Annie (3):** "Boring."
-
-----------------------
-
-__**132) Muzik - 4Minute**__
-<https://www.youtube.com/watch?v=aNYImwBU4f4>
-**Average:** 4.83
-**Total Points:** 29
-**Controversy:** 1.83
-
-__Scores__
-8 - Loewe
-6 - Sat
-4 - Annie, Claudia, Cooper
-3 - Kaymarie
-
-__Comments__
-**Loewe (8):** "Kinda BANGS"
-**Annie (4):** "A decent chorus saves this otherwise bad song."
-
-----------------------
-
-__**131) Always - APink**__
-<https://www.youtube.com/watch?v=b0hz_eJmj7E>
-**Average:** 5.0
-**Total Points:** 30
-**Controversy:** 2.19
-
-__Scores__
-7 - Claudia
-6 - Cooper, Loewe, Sat
-4 - Annie
-1 - Kaymarie
-
-__Comments__
-**Loewe (6):** "I love Apink."
-**Annie (4):** "Boring."
-
-----------------------
-
-__**130) Go Away - 2NE1**__
-<https://www.youtube.com/watch?v=3yW13T2sfKg>
-**Average:** 5.33
-**Total Points:** 32
-**Controversy:** 3.01
-
-__Scores__
-10 - Loewe
-8 - Annie
-5 - Sat
-3 - Claudia, Cooper, Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (8):** "Another single from "To Anyone", "Go Away" really demonstrates the kind of infectious and fun pop songwriting that was YG's trademark... Until they threw it away for sonic trend dickriding. This was also THE SHIT live."
-**Cooper (3):** "decent chorus but terrible everything else"
-
-----------------------
-
-__**129) Shady Girl - Sistar**__
-<https://www.youtube.com/watch?v=7VpLniRbPI8>
-**Average:** 5.33
-**Total Points:** 32
-**Controversy:** 1.21
-
-__Scores__
-7 - Loewe
-6 - Cooper, Sat
-5 - Claudia
-4 - Annie, Kaymarie
-
-__Comments__
-**Loewe (7):** "I love Heechul."
-**Annie (4):** "The only thing worth of note here is Heechul."
-
-----------------------
-
-__**128) Can't Nobody - 2NE1**__
-<https://www.youtube.com/watch?v=Ihi_kJJj_8A>
-**Average:** 5.5
-**Total Points:** 33
-**Controversy:** 3.39
-
-__Scores__
-10 - Loewe
-9 - Annie
-5 - Kaymarie, Sat
-2 - Claudia, Cooper
-
-__Comments__
-**Loewe (10):** "I'M SO BAD BAD BUT I'M SO GOOD GOOD"
-**Annie (9):** "Another single off of "To Anyone", this song just FUCKING BANGS. Don't pretend the "I'm so bad, I'm so bad, but I'm so good, so good", "Can't nobody hold us down", "Let's rock, just take it to the top, ain't never gonna stop" hooks aren't catchy as ALL FUCK."
-**Sat (5):** "cause im so bad bad good good"
-**Cooper (2):** "disgusting"
-
-----------------------
-
-__**127) Baby Baby - SNSD**__
-<https://www.youtube.com/watch?v=J0OGl8WzpXM>
-**Average:** 5.5
-**Total Points:** 33
-**Controversy:** 3.21
-
-__Scores__
-10 - Loewe
-8 - Annie
-6 - Cooper
-5 - Claudia
-2 - Kaymarie, Sat
-
-__Comments__
-**Loewe (10):** "Early SNSD is pure pop perfection."
-**Annie (8):** "Not very memorable, but still a pretty good song in retrospect."
-**Sat (2):** "zzzzzzzzz"
-
-----------------------
-
-__**126) 2 Different Tears - Wonder Girls**__
-<https://www.youtube.com/watch?v=Rxh3_sr5UAE>
-**Average:** 5.5
-**Total Points:** 33
-**Controversy:** 2.88
-
-__Scores__
-9 - Cooper
-8 - Claudia
-6 - Loewe
-5 - Annie
-4 - Kaymarie
-1 - Sat
-
-__Comments__
-**Loewe (6):** "Doesn't bang as much but it's still decent."
-**Annie (5):** "Another 80s gem from Wonder Girls, not the best thing they did, but still pretty good."
-
-----------------------
-
-__**125) Cold Rain - 4Minute**__
-<https://www.youtube.com/watch?v=ZT9zbZGB2gE>
-**Average:** 5.5
-**Total Points:** 33
-**Controversy:** 2.07
-
-__Scores__
-8 - Sat
-7 - Cooper
-6 - Kaymarie
-5 - Claudia, Loewe
-2 - Annie
-
-__Comments__
-**Loewe (5):** "What the fuck you doing coming back with slow shit like this?"
-**Annie (2):** "Ballads are not what I signed up for when listening to 4Minute."
-
-----------------------
-
-__**124) Dancing Queen - SNSD**__
-<https://www.youtube.com/watch?v=EXZxc8GSXnI>
-**Average:** 5.5
-**Total Points:** 33
-**Controversy:** 1.64
-
-__Scores__
-8 - Loewe
-7 - Claudia
-5 - Kaymarie, Sat
-4 - Annie, Cooper
-
-__Comments__
-**Loewe (8):** "Oh no... SNSD no longer a 10, this shit still bangs though."
-**Annie (4):** "Remake of Duffy's "Mercy" and sucks about as much."
-
-----------------------
-
-__**123) Pretty Girl - Kara**__
-<https://www.youtube.com/watch?v=35eYHsrNGzc>
-**Average:** 5.67
-**Total Points:** 34
-**Controversy:** 3.2
-
-__Scores__
-10 - Loewe
-7 - Annie, Claudia
-6 - Cooper
-3 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "IF YOU WANNA PRETTY EVERY WANNA PRETTY ANDWENDANEUN MAMEUN NO NO NO IF YOU WANNA PRETTY EVERY WANNA PRETTY EODISEONA DANGDANGHAGE GEOTGI"
-**Annie (7):** "Such a meme. If you wanna pretty, every wanna pretty..."
-
-----------------------
-
-__**122) Chu~ - f(x)**__
-<https://www.youtube.com/watch?v=Cnz2n5VcV4Q>
-**Average:** 5.67
-**Total Points:** 34
-**Controversy:** 3.08
-
-__Scores__
-9 - Cooper
-8 - Claudia
-7 - Loewe
-6 - Annie
-3 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (7):** "Doesn't bang as much as their best but still bangs."
-**Annie (6):** "This was better than their debut but still falls flat compared to their best songs."
-**Sat (3):** "the intrumental is odd "
-
-----------------------
-
-__**121) Honey - Kara**__
-<https://www.youtube.com/watch?v=R_AQ7AkVzpM>
-**Average:** 5.67
-**Total Points:** 34
-**Controversy:** 2.58
-
-__Scores__
-8 - Claudia, Loewe
-7 - Annie
-6 - Sat
-3 - Cooper
-2 - Kaymarie
-
-__Comments__
-**Loewe (8):** "Kinda bangs, is sadly the weakest song (still an 8!) in Kara's awesome run of 10s from IF YOU WANNA PRETTY to C U P I D"
-**Claudia (8):** "Such an uwu song :soft:"
-**Annie (7):** "The brisk rhythms carry this otherwise bland song forward."
-
-----------------------
-
-__**120) Irony - Wonder Girls**__
-<https://www.youtube.com/watch?v=uxFxoLxmcdg>
-**Average:** 5.83
-**Total Points:** 35
-**Controversy:** 3.25
-
-__Scores__
-10 - Kaymarie
-8 - Claudia, Loewe
-4 - Annie
-3 - Sat
-2 - Cooper
-
-__Comments__
-**Loewe (8):** "BANGS"
-**Annie (4):** "Songwriting falls a bit flat."
-**Cooper (2):** "offensive debut"
-
-----------------------
-
-__**119) I Don't Know - APink**__
-<https://www.youtube.com/watch?v=zI6MvzIZ3CA>
-**Average:** 5.83
-**Total Points:** 35
-**Controversy:** 3.19
-
-__Scores__
-10 - Loewe
-8 - Cooper
-7 - Annie
-5 - Claudia
-4 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I love Apink."
-**Annie (7):** "Apink, and well many a girl group, has SNSD to thank for their careers, and songs like this, while not really quite up there, is still a passable copy of that early SNSD sound."
-**Sat (4):** "its fine. I wil just never listen to it again and I may have cringed at parts "
-
-----------------------
-
-__**118) Gotta Be You - 2NE1**__
-<https://www.youtube.com/watch?v=zdKTgwffmdo>
-**Average:** 5.83
-**Total Points:** 35
-**Controversy:** 2.56
-
-__Scores__
-9 - Claudia
-8 - Cooper
-7 - Loewe
-5 - Sat
-3 - Annie, Kaymarie
-
-__Comments__
-**Loewe (7):** "The chorus saves this otherwise messy song."
-**Annie (3):** "A hodge-podge of unfinished musical ideas, seriously, CL's part is a different song - a pedestrian trap section with a horrifying harmonica, Dara's is a boring build-up, while Bom's and Minzy's parts are the only sections with an actual semi-coherent idea, but on it's own, the generic Disco beat and rehashed early-YG style melodies isn't enough to carry a whole song, especially something as disjointed as this."
-
-----------------------
-
-__**117) Watcha Doin' Today - 4Minute**__
-<https://www.youtube.com/watch?v=74Pru-JQzRk>
-**Average:** 6.0
-**Total Points:** 36
-**Controversy:** 2.97
-
-__Scores__
-9 - Cooper
-8 - Claudia
-7 - Kaymarie, Sat
-4 - Loewe
-1 - Annie
-
-__Comments__
-**Loewe (4):** "Not listening to this."
-**Annie (1):** "What's Your Name? version 2."
-
-----------------------
-
-__**116) Holiday - SNSD**__
-<https://www.youtube.com/watch?v=YwN-CN9EjTg>
-**Average:** 6.0
-**Total Points:** 36
-**Controversy:** 2.76
-
-__Scores__
-10 - Cooper
-8 - Claudia
-6 - Loewe
-5 - Kaymarie, Sat
-2 - Annie
-
-__Comments__
-**Loewe (6):** "Okay this might actually be their worst title track."
-**Annie (2):** "Look at SNSD singing about something they never had for the first 10 years of their career. Talk about ruining my immersion!!!"
-
-----------------------
-
-__**115) My My - APink**__
-<https://www.youtube.com/watch?v=dA9niwM2r9Q>
-**Average:** 6.17
-**Total Points:** 37
-**Controversy:** 3.49
-
-__Scores__
-10 - Cooper, Loewe
-6 - Annie, Claudia
-4 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I love Apink."
-**Annie (6):** "More early SNSD, not as good as their debut, but still decent."
-
-----------------------
-
-__**114) Missing You - 2NE1**__
-<https://www.youtube.com/watch?v=AG0jlKdB1s0>
-**Average:** 6.17
-**Total Points:** 37
-**Controversy:** 3.25
-
-__Scores__
-10 - Claudia
-9 - Cooper
-7 - Sat
-5 - Kaymarie, Loewe
-1 - Annie
-
-__Comments__
-**Sat (7):** "BOMMMM"
-**Loewe (5):** "meeeeh that choice to go slow in the chorus sucks."
-**Annie (1):** "Builds up to something great, then goes ballad in the chorus. It's just like having sex, and just as you're getting there, you suddenly get a call from your mum asking you to buy soy sauce before you go home, then she hears your partner's breathing then suddenly accuses you of "not being the child I brought up" and saying "kids these days grow up so fast and leave their parents early" and then of course your partner hears that and suddenly everything becomes awkward and your libido dies down and won't recover for 2 whole years."
-
-----------------------
-
-__**113) How Dare You - Sistar**__
-<https://www.youtube.com/watch?v=DQ1hvB_L30o>
-**Average:** 6.17
-**Total Points:** 37
-**Controversy:** 3.25
-
-__Scores__
-10 - Annie, Loewe
-6 - Kaymarie
-5 - Claudia
-4 - Cooper
-2 - Sat
-
-__Comments__
-**Loewe (10):** "How dare you be this HOT Hyolyn."
-**Annie (10):** "A very unique K-pop song in terms of structure, a great chorus bookends a song that allows it to start and end really well."
-**Sat (2):** "lol "
-
-----------------------
-
-__**112) Love Alone - Miss A**__
-<https://www.youtube.com/watch?v=dBR0oEUIoGI>
-**Average:** 6.17
-**Total Points:** 37
-**Controversy:** 3.06
-
-__Scores__
-10 - Loewe
-8 - Cooper
-7 - Annie
-6 - Sat
-5 - Claudia
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (7):** "Not Miss A's best but still gets over the line."
-**Claudia (5):** "This feels like more of a 2ne1 song than missA song"
-
-----------------------
-
-__**111) I My Me Mine - 4Minute**__
-<https://www.youtube.com/watch?v=OGvwy3qhjDM>
-**Average:** 6.17
-**Total Points:** 37
-**Controversy:** 2.32
-
-__Scores__
-10 - Loewe
-7 - Annie
-6 - Claudia, Sat
-5 - Cooper
-3 - Kaymarie
-
-__Comments__
-**Loewe (10):** "yes I'm yours Jihyun!!"
-**Annie (7):** "Banger!"
-
-----------------------
-
-__**110) So Cool - Sistar**__
-<https://www.youtube.com/watch?v=Pj3q0ZChgFE>
-**Average:** 6.17
-**Total Points:** 37
-**Controversy:** 1.83
-
-__Scores__
-8 - Cooper, Loewe
-7 - Sat
-6 - Kaymarie
-4 - Annie, Claudia
-
-__Comments__
-**Loewe (8):** "Not Bravesound's best, but still kinda bangs."
-**Annie (4):** "Bravesound only really hit it right from 2012 onwards, so yeah not this one."
-
-----------------------
-
-__**109) Bo Peep Bo Peep - T-ara**__
-<https://www.youtube.com/watch?v=NpYvilmhONQ>
-**Average:** 6.33
-**Total Points:** 38
-**Controversy:** 4.68
-
-__Scores__
-10 - Annie, Cooper, Loewe
-7 - Claudia
-1 - Sat
-0 - Kaymarie
-
-__Comments__
-**Loewe (10):** "Bo Peep Bo Peep Bo Peep OH"
-**Annie (10):** "A catchy as all fuck pop song about a Gumiho, with all the intended meaning of that theme choice - perfection."
-**Sat (1):** "the chorus is sooo unbelievably annoying "
-
-----------------------
-
-__**108) Heart to Heart - 4Minute**__
-<https://www.youtube.com/watch?v=h97jt1XtnGQ>
-**Average:** 6.33
-**Total Points:** 38
-**Controversy:** 3.61
-
-__Scores__
-10 - Annie, Loewe
-8 - Cooper
-5 - Claudia
-4 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "heart to heart to heart heart to heart to heart heart to heart to heart heart to heart to heart heart to heart to heart... talk with Jihyun"
-**Annie (10):** "My favorite 4Minute song and K-pop's best ever karaoke song, if you don't believe me, watch it live."
-
-----------------------
-
-__**107) HuH - 4Minute**__
-<https://www.youtube.com/watch?v=kRbIZtUS2Ag>
-**Average:** 6.33
-**Total Points:** 38
-**Controversy:** 3.39
-
-__Scores__
-10 - Annie, Loewe
-8 - Cooper
-4 - Claudia
-3 - Kaymarie, Sat
-
-__Comments__
-**Loewe (10):** "HIT MY HEART TOO WILL YA"
-**Annie (10):** "A song made as a weapon against North Korea. Enough said."
-**Sat (3):** "they were just screaming through out the whole song "
-
-----------------------
-
-__**106) Tiamo - T-ara**__
-<https://www.youtube.com/watch?v=xJHUKzz1vss>
-**Average:** 6.33
-**Total Points:** 38
-**Controversy:** 2.5
-
-__Scores__
-10 - Annie
-8 - Loewe
-7 - Claudia
-5 - Cooper, Sat
-3 - Kaymarie
-
-__Comments__
-**Annie (10):** "eh eh eh eh eh eh eh. See MBK ballads really are the shit."
-**Loewe (8):** "BANGS"
-**Claudia (7):** "A christmas song....but a goos christmas song :soft:"
-
-----------------------
-
-__**105) It Hurts - 2NE1**__
-<https://www.youtube.com/watch?v=aUiMaz4BNKw>
-**Average:** 6.33
-**Total Points:** 38
-**Controversy:** 1.37
-
-__Scores__
-8 - Loewe
-7 - Cooper, Sat
-6 - Claudia, Kaymarie
-4 - Annie
-
-__Comments__
-**Loewe (8):** "it hurts me that 2ne1 disbanded."
-**Cooper (7):** "decent"
-**Annie (4):** "One of the few misses in "To Anyone"."
-
-----------------------
-
-__**104) Be My Baby - Wonder Girls**__
-<https://www.youtube.com/watch?v=3fy4cqWMhyI>
-**Average:** 6.33
-**Total Points:** 38
-**Controversy:** 1.03
-
-__Scores__
-7 - Claudia, Kaymarie, Loewe, Sat
-5 - Annie, Cooper
-
-__Comments__
-**Loewe (7):** "Kinda Bangs"
-**Annie (5):** "Wonder Girls were unashamedly 80s and honestly did the 80s better than everyone else than average. They can even get pentatonic melodies right."
-
-----------------------
-
-__**103) Lonely - Sistar**__
-<https://www.youtube.com/watch?v=KbXV2R_Yd1E>
-**Average:** 6.5
-**Total Points:** 39
-**Controversy:** 2.74
-
-__Scores__
-10 - Kaymarie
-9 - Sat
-7 - Claudia
-6 - Cooper
-4 - Annie
-3 - Loewe
-
-__Comments__
-**Sat (9):** "sad! Bring them back!!!!"
-**Annie (4):** "I don't really fuck with any of these goodbye songs."
-**Loewe (3):** "Snore."
-
-----------------------
-
-__**102) What's My Name? - T-ara**__
-<https://www.youtube.com/watch?v=_eQTd-fsKsQ>
-**Average:** 6.5
-**Total Points:** 39
-**Controversy:** 2.74
-
-__Scores__
-10 - Annie
-8 - Claudia
-7 - Cooper, Loewe
-5 - Sat
-2 - Kaymarie
-
-__Comments__
-**Annie (10):** "Originally a 7, but then I remember the feelings I've associated with this song..."
-**Loewe (7):** "Okay as I listened to this just now, I've warmed up to this song and I can now confidently say this BANGS"
-
-----------------------
-
-__**101) Falling In Love - 2NE1**__
-<https://www.youtube.com/watch?v=zEVd9pSG85Q>
-**Average:** 6.5
-**Total Points:** 39
-**Controversy:** 2.43
-
-__Scores__
-10 - Loewe
-8 - Annie
-7 - Sat
-6 - Cooper
-5 - Claudia
-3 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I remember being shocked 2ne1 did this reggae shit when it first came out, but it was actually great lol."
-**Annie (8):** "Nobody expected, or wanted for that matter, 2NE1 to release a reggae-lite single to follow their 2012 releases, but the song is a fucking banger so now everyone is fine with it."
-
-----------------------
-
-__**100) Good Morning Baby - APink**__
-<https://www.youtube.com/watch?v=SshpsY8GILg>
-**Average:** 6.5
-**Total Points:** 39
-**Controversy:** 2.43
-
-__Scores__
-10 - Loewe
-9 - Annie
-6 - Claudia
-5 - Cooper, Kaymarie
-4 - Sat
-
-__Comments__
-**Loewe (10):** "I love Apink."
-**Annie (9):** "One of their better songs from their "innocent" era. The chorus really saves the song."
-**Sat (4):** "zzzzzz"
-
-----------------------
-
-__**99) La Cha Ta - f(x)**__
-<https://www.youtube.com/watch?v=H7MHZpSNJQc>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 3.5
-
-__Scores__
-10 - Cooper
-9 - Claudia, Sat
-7 - Loewe
-4 - Annie
-1 - Kaymarie
-
-__Comments__
-**Loewe (7):** "Doesn't bang as much as their best but still bangs."
-**Annie (4):** "f(x) certainly didn't start out strong, with a very generic and very boring single for their debut. I blame SM for this, as is the case for every problem in the world, blame SM."
-
-----------------------
-
-__**98) Hush - APink**__
-<https://www.youtube.com/watch?v=YXZ19CvCmto>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 2.94
-
-__Scores__
-10 - Loewe
-9 - Cooper
-8 - Claudia
-6 - Annie
-5 - Sat
-2 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I love Apink."
-**Annie (6):** "Instead of SNSD, they take a stab at T-ara this time, and the result is somewhat alright."
-**Sat (5):** "I am thankfull that for the most part they don’t sing this way anymore"
-
-----------------------
-
-__**97) Hate You - 2NE1**__
-<https://www.youtube.com/watch?v=NB5jyYD2WEw>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 2.66
-
-__Scores__
-10 - Annie, Loewe
-6 - Cooper
-5 - Claudia, Kaymarie
-4 - Sat
-
-__Comments__
-**Loewe (10):** "Catchy as all fuck."
-**Annie (10):** "My favorite 2NE1 song, there's so much that can go wrong in a song without any instrumental breaks, but because the songwriters are awesome, they added catchy melodies after catchy melodies after catchy melodies and the song is a sheer fucking earworm from start to finish."
-
-----------------------
-
-__**96) I Don't Care - 2NE1**__
-<https://www.youtube.com/watch?v=4MgAxMO1KD0>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 2.34
-
-__Scores__
-10 - Loewe
-8 - Annie, Claudia
-5 - Cooper, Sat
-4 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I'm the only one I know who prefers this over the reggae mix."
-**Annie (8):** "2NE1 hit gold early in their career, like this song."
-**Sat (5):** "I don’t care ehehehe "
-**Cooper (5):** "Park Bom's chorus saves this song"
-
-----------------------
-
-__**95) Hide & Seek - T-ara**__
-<https://www.youtube.com/watch?v=nyGV8RLey-8>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 2.34
-
-__Scores__
-10 - Annie
-8 - Loewe
-7 - Sat
-6 - Claudia, Cooper
-3 - Kaymarie
-
-__Comments__
-**Annie (10):** "I told y'all MBK ballads are just a few steps ahead of the game."
-**Loewe (8):** "BANGS"
-**Sat (7):** "they got some nice voices "
-
-----------------------
-
-__**94) Mirror MIrror - 4Minute**__
-<https://www.youtube.com/watch?v=1fOG_wcV_oU>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 2.25
-
-__Scores__
-9 - Loewe, Sat
-8 - Kaymarie
-5 - Claudia, Cooper
-4 - Annie
-
-__Comments__
-**Loewe (9):** "Kinda BANGS"
-**Annie (4):** "The chorus is a bit of a turn off and doesn't reward the great build-up with a good payoff."
-
-----------------------
-
-__**93) Hot Issue - 4Minute**__
-<https://www.youtube.com/watch?v=nPPKwg5eQ4o>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 1.97
-
-__Scores__
-10 - Kaymarie
-8 - Loewe
-6 - Cooper, Sat
-5 - Annie, Claudia
-
-__Comments__
-**Loewe (8):** "Kinda BANGS"
-**Annie (5):** "Pretty decent as far as debuts go, but certainly far from 4Minute's best."
-
-----------------------
-
-__**92) Cause You're My Star - APink**__
-<https://www.youtube.com/watch?v=-r5ULxo4WD0>
-**Average:** 6.67
-**Total Points:** 40
-**Controversy:** 1.51
-
-__Scores__
-9 - Loewe
-7 - Annie, Claudia, Cooper
-5 - Kaymarie, Sat
-
-__Comments__
-**Loewe (9):** "I love Apink."
-**Annie (7):** "Verses are pedestrian but it's redeemed by a great chorus."
-
-----------------------
-
-__**91) Wanna - Kara**__
-<https://www.youtube.com/watch?v=24_nW2HILtk>
-**Average:** 6.83
-**Total Points:** 41
-**Controversy:** 3.31
-
-__Scores__
-10 - Annie, Loewe
-9 - Claudia
-6 - Cooper
-3 - Kaymarie, Sat
-
-__Comments__
-**Loewe (10):** "THIS BANGS NOT ONLY BECAUSE THIS IS A GREAT POP SONG, BUT BECAUSE THIS IS ALSO A CLOSET METAL SONG AS EXPECTED OF SWEETUNE SO THIS DOUBLE BANGS"
-**Annie (10):** "Before MINX was reconfigured into every metalhead's wet dream, and also before Blackpink did metal - KARA was *the* metal group, and "Wanna" is their best song. "Wanna" is a metal song disguising as a pure pop song what with the awesome metal-style pedal point harmonies and amazing keyboard-driven metal riffs. All that and with catchy as fuck melodies on top and great Queen-style harmonies and we have one of the best Kpop songs ever."
-
-----------------------
-
-__**90) I Got A Boy - SNSD**__
-<https://www.youtube.com/watch?v=wq7ftOZBy0E>
-**Average:** 6.83
-**Total Points:** 41
-**Controversy:** 2.93
-
-__Scores__
-10 - Kaymarie
-9 - Cooper
-8 - Loewe
-7 - Claudia
-5 - Annie
-2 - Sat
-
-__Comments__
-**Loewe (8):** "Not exactly their "defining moment", and if we rated this back in 2013, this might've been a 3 or lower, but I've come to appreciate the song's quirks."
-**Annie (5):** "Not the Frankenstein's monster that many make it out to be, but it also certainly isn't K-pop's "Bohemian Rhapsody". The seemingly random elements actually have a tight connection to each other, best shown in the eighth chorus section at 4:46, combining the fourth chorus section at 2:53 and third chorus section at 2:11. That being said, the amazing arrangement here isn't enough to make me like the song more than I already do."
-**Sat (2):** "all kinds of random in one song "
-
-----------------------
-
-__**89) Over and Over - 4Minute**__
-<https://www.youtube.com/watch?v=_2ANhvjbGyA>
-**Average:** 6.83
-**Total Points:** 41
-**Controversy:** 2.56
-
-__Scores__
-10 - Loewe
-9 - Annie
-7 - Claudia, Sat
-5 - Kaymarie
-3 - Cooper
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (9):** "I remember the days when I listened to this great song over and over."
-
-----------------------
-
-__**88) Goodbye - 2NE1**__
-<https://www.youtube.com/watch?v=wEkLHC7l25w>
-**Average:** 6.83
-**Total Points:** 41
-**Controversy:** 2.4
-
-__Scores__
-10 - Kaymarie
-8 - Cooper, Sat
-6 - Claudia, Loewe
-3 - Annie
-
-__Comments__
-**Loewe (6):** "Snore... But this does make me cry so fuck it I'll give it a 6."
-**Annie (3):** "Look, I love 2NE1 as much as the next person, but bullshit lazy ballads are never a good way to say goodbye. Would've been infinitely better if they did "I Am The Best" 2.0 or "Fire" 2.0."
-
-----------------------
-
-__**87) Break it - Kara**__
-<https://www.youtube.com/watch?v=9NIYJ8A5R0s>
-**Average:** 6.83
-**Total Points:** 41
-**Controversy:** 2.32
-
-__Scores__
-10 - Kaymarie
-9 - Claudia
-7 - Sat
-6 - Cooper
-5 - Loewe
-4 - Annie
-
-__Comments__
-**Claudia (9):** "Yooooooo Let's goooooooooo"
-**Loewe (5):** "Kara, as with most groups who debuted around that time, started with R&B and this is nowhere near their best output but it's still decent."
-**Annie (4):** "Mid 2000s R&B reminiscent of Beyonce."
-
-----------------------
-
-__**86) Only One - APink**__
-<https://www.youtube.com/watch?v=kCSFdRf0210>
-**Average:** 6.83
-**Total Points:** 41
-**Controversy:** 0.98
-
-__Scores__
-8 - Cooper
-7 - Annie, Claudia, Loewe, Sat
-5 - Kaymarie
-
-__Comments__
-**Sat (7):** "the instrumental in the chorus is really cool "
-**Loewe (7):** "I love Apink."
-**Annie (7):** "Melody is lacking a bit of that oomph."
-
-----------------------
-
-__**85) Pinocchio (Danger) - f(x)**__
-<https://www.youtube.com/watch?v=kKS12iGFyEA>
-**Average:** 7.0
-**Total Points:** 42
-**Controversy:** 4.0
-
-__Scores__
-10 - Annie, Cooper, Loewe
-8 - Claudia
-3 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (10):** "f(x) was really the poster kid of experimentation in K-pop, and due in large part to songs like this."
-**Sat (3):** "these vocals…."
-
-----------------------
-
-__**84) Touch - Miss A**__
-<https://www.youtube.com/watch?v=aF8Fst_zonU>
-**Average:** 7.0
-**Total Points:** 42
-**Controversy:** 3.69
-
-__Scores__
-10 - Annie, Loewe
-9 - Cooper
-8 - Claudia
-4 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "SO FUCKING SEXY"
-**Annie (10):** "My favorite Miss A song and one of K-pop's truly sexy songs, this song is just so fucking smooth. I recommend playing this during foreplay, it will surely enhance your sex life. Tried and tested. Not by me though..."
-**Sat (4):** "boring without visuals "
-
-----------------------
-
-__**83) The Wave - APink**__
-<https://www.youtube.com/watch?v=yXvCNLTWwB0>
-**Average:** 7.0
-**Total Points:** 42
-**Controversy:** 2.76
-
-__Scores__
-10 - Loewe
-8 - Annie, Claudia, Cooper
-6 - Sat
-2 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I love Apink."
-**Claudia (8):** "ah yeee, now this is fan song I actually do have sentimental ties to :soft:"
-**Annie (8):** "Good lighter-waving pop-rock song."
-**Sat (6):** "eunji "
-
-----------------------
-
-__**82) Kissing You - SNSD**__
-<https://www.youtube.com/watch?v=r3yxxe66LXs>
-**Average:** 7.0
-**Total Points:** 42
-**Controversy:** 2.53
-
-__Scores__
-10 - Loewe
-9 - Annie
-8 - Cooper
-6 - Claudia, Sat
-3 - Kaymarie
-
-__Comments__
-**Loewe (10):** "Early SNSD is pure pop perfection."
-**Annie (9):** "Good song but the skool rock version outsold."
-
-----------------------
-
-__**81) Catch Me If You Can - SNSD**__
-<https://www.youtube.com/watch?v=b09U0KLv6I4>
-**Average:** 7.17
-**Total Points:** 43
-**Controversy:** 2.71
-
-__Scores__
-10 - Loewe, Sat
-8 - Claudia
-6 - Annie, Cooper
-3 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (6):** "Nine Muses did this song better with "Hurt Locker"."
-
-----------------------
-
-__**80) Come Back Home - 2NE1**__
-<https://www.youtube.com/watch?v=vLbfv-AAyvQ>
-**Average:** 7.17
-**Total Points:** 43
-**Controversy:** 2.64
-
-__Scores__
-10 - Cooper
-9 - Sat
-8 - Claudia, Loewe
-5 - Annie
-3 - Kaymarie
-
-__Comments__
-**Loewe (8):** "YOLOSWEG"
-**Annie (5):** "2NE1 went full YOLO with this release, with YG's brand new sonic trend dickriding approach to songwriting, and they forgot everything good about 2NE1's back catalogue."
-
-----------------------
-
-__**79) All Mine - f(x)**__
-<https://www.youtube.com/watch?v=Z0S3knWIdrY>
-**Average:** 7.17
-**Total Points:** 43
-**Controversy:** 2.04
-
-__Scores__
-10 - Kaymarie
-8 - Claudia, Loewe
-7 - Sat
-6 - Annie
-4 - Cooper
-
-__Comments__
-**Loewe (8):** "Not their best but still kinda bangs."
-**Sat (7):** "luna luna luna "
-**Annie (6):** "f(x) really lost all their f(x)-ness when Sulli left and were stuck to decent SHINee songs."
-
-----------------------
-
-__**78) Lion Heart - SNSD**__
-<https://www.youtube.com/watch?v=nVCubhQ454c>
-**Average:** 7.33
-**Total Points:** 44
-**Controversy:** 2.73
-
-__Scores__
-10 - Loewe, Sat
-8 - Annie, Claudia
-4 - Cooper, Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS PLUS THE STYLING BANGS TOO"
-**Annie (8):** "The verses are nothing worth noting but the chorus is one of SNSD's best, and SNSD has many great choruses in their discography."
-
-----------------------
-
-__**77) Do You Know Me - T-ara**__
-<https://www.youtube.com/watch?v=u6oprfVLxAQ>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 3.99
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe
-4 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "NA EOTTEOKHAE"
-**Claudia (10):** "Y'all don't even know how amazed I was by the change this took halfway through"
-**Annie (10):** "Who knew Eunjung didn't have monopoly on short hair in T-ara? Jiyeon bias-wrecked me so hard during this era, and the experience was made even more pleasant as the song is another T-ara masterpiece, reminiscent of "Wae Ireoni". Actually a remake of Sand Pebbles' "What Should I Do", T-ara gives the psychedelic pop song a modern spin and makes it better."
-
-----------------------
-
-__**76) Nu ABO - f(x)**__
-<https://www.youtube.com/watch?v=E8ZrPFMr_nY>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 3.89
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe
-3 - Sat
-2 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (10):** "It's just one sound effect after the other but goddamn does it work wonders. This song set the standard for the SM style production that their newer groups use."
-
-----------------------
-
-__**75) Oh! - SNSD**__
-<https://www.youtube.com/watch?v=TGbwL8kSpEk>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 3.56
-
-__Scores__
-10 - Annie, Kaymarie, Loewe
-9 - Claudia
-4 - Cooper
-2 - Sat
-
-__Comments__
-**Loewe (10):** "SNSD CAN NEVER DO WRONG."
-**Annie (10):** "Less viral than "Gee", but also better, basically taking everything that was good with the former song and marrying it to catchier melodies, snappier production, and better choreography. Some of SM's production magic also at play here, with how they merged the first two choruses to build that amazing third chorus."
-**Sat (2):** "cringe"
-
-----------------------
-
-__**74) Roly-Poly in Copacabana - T-ara**__
-<https://www.youtube.com/watch?v=3Xolk2cFzlo>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 3.56
-
-__Scores__
-10 - Annie, Claudia, Loewe
-8 - Cooper
-6 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I only like this better because of the school uniform."
-**Claudia (10):** "still a banger even as a different version"
-**Annie (10):** "I still like the original better, but only slightly."
-**Cooper (8):** "its a good remix but no its not better than the original flixer"
-
-----------------------
-
-__**73) You Drive Me Crazy - T-ara**__
-<https://www.youtube.com/watch?v=d70FQdraoYI>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 3.33
-
-__Scores__
-10 - Annie, Cooper
-8 - Claudia, Loewe, Sat
-1 - Kaymarie
-
-__Comments__
-**Annie (10):** "Britney copy as is the case with the handful of T-ara singles, and why not, when copying from the west, copy a good song. And T-ara makes "Womanizer" even better by having better songwriting and punchier textures."
-**Loewe (8):** "T-ara did drive me crazy back then, they were just so goodo."
-
-----------------------
-
-__**72) Goodbye Baby - Miss A**__
-<https://www.youtube.com/watch?v=EYKO1za5mX0>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 2.95
-
-__Scores__
-10 - Annie, Loewe
-8 - Claudia, Sat
-7 - Cooper
-2 - Kaymarie
-
-__Comments__
-**Loewe (10):** "GOODBYE BABY - my ex"
-**Annie (10):** "Was re-made by JYP himself into "BDZ" - and made it better, but this song still rocks."
-
-----------------------
-
-__**71) Like The First Time - T-ara**__
-<https://www.youtube.com/watch?v=EWSTtFoD0Ms>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 2.95
-
-__Scores__
-10 - Annie, Cooper, Loewe
-7 - Sat
-4 - Claudia, Kaymarie
-
-__Comments__
-**Loewe (10):** "CHEO CHEOEUMCHEOREOM CHEOREOM CHEOREOM CHEO CHEOEUMCHEOREOM CHEOREOM CHEOREOM"
-**Cooper (10):** "bang pd gave em a banger ty hitman"
-**Annie (10):** "Takes La Roux's already great song "In For The Kill" and somehow makes it BETTER. It's an amazingly catchy pop song, one of T-ara's best."
-**Sat (7):** "the rap lmao "
-
-----------------------
-
-__**70) Like This - Wonder Girls**__
-<https://www.youtube.com/watch?v=7EZTUYwjWBs>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 2.59
-
-__Scores__
-10 - Annie, Loewe
-9 - Claudia
-7 - Kaymarie
-5 - Cooper
-4 - Sat
-
-__Comments__
-**Loewe (10):** "OKAY THIS MIGHT BE THEIR BEST SONG FIGHT ME"
-**Annie (10):** "A better late 80s to early 90s R&B/Rap song than almost every song of that era. A cool old-school beat with infectious fun in the topline, with an MV that perfectly fits the vibe of the song."
-**Claudia (9):** "first wonder girls song I ever heard and it is still a banger :blobcat:"
-
-----------------------
-
-__**69) Five - APink**__
-<https://www.youtube.com/watch?v=b22Ed7f0D-0>
-**Average:** 7.5
-**Total Points:** 45
-**Controversy:** 1.22
-
-__Scores__
-8 - Annie, Claudia, Cooper, Loewe, Sat
-5 - Kaymarie
-
-__Comments__
-**Loewe (8):** "I love Apink."
-**Annie (8):** "Not Apink's best but still pretty nice."
-
-----------------------
-
-__**68) Lovey-Dovey - T-ara**__
-<https://www.youtube.com/watch?v=CJ0djllyqwY>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 3.88
-
-__Scores__
-11 - Cooper
-10 - Annie, Claudia
-9 - Loewe
-5 - Sat
-1 - Kaymarie
-
-__Comments__
-**Cooper (11):** "a tough choice for the 11 but I think my increased love of T-ara over the last year makes this feel right"
-**Claudia (10):** "Catch me vibin to this song in the middle of a zombie apocalypse :airenedance2: "
-**Annie (10):** "Roly Poly 2.0, it's also the inferior song, but still an absolute banger, and also has one of my favorite T-ara choreos."
-**Loewe (9):** "LOVEY DOVEY LOVEY LOVEY DOVEY"
-**Sat (5):** "zombies all around and the girls singing memes lol "
-
-----------------------
-
-__**67) I Swear - Sistar**__
-<https://www.youtube.com/watch?v=ktEEjk3Xy3s>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 3.44
-
-__Scores__
-10 - Claudia, Kaymarie
-9 - Cooper, Sat
-7 - Loewe
-1 - Annie
-
-__Comments__
-**Loewe (7):** "I really should hate songs like this but it's just so fun you know."
-**Annie (1):** "Unholy earfuck of cluttered brass and shrill vocals."
-
-----------------------
-
-__**66) What's Wrong - T-ara**__
-<https://www.youtube.com/watch?v=h7ewuda5th4>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 3.01
-
-__Scores__
-10 - Annie, Loewe
-9 - Cooper
-8 - Claudia
-7 - Sat
-2 - Kaymarie
-
-__Comments__
-**Loewe (10):** "JUST FUCKING BANGS MAN"
-**Annie (10):** "Probably my 2nd favorite T-ara song. Apart from Britney, Abba is one of T-ara's most used inspiration, and while this doesn't scream a specific Abba song, all the things that made Abba songs good are here and made even better with modern sonic production. This is also one of K-pop's most Karaoke-able songs ever, alongside 4Minute's "Heart To Heart"."
-
-----------------------
-
-__**65) Because I Know - T-ara**__
-<https://www.youtube.com/watch?v=7IzezDJrHoU>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 3.01
-
-__Scores__
-10 - Annie, Cooper
-9 - Loewe
-8 - Claudia
-7 - Sat
-2 - Kaymarie
-
-__Comments__
-**Annie (10):** "MBK ballads done right is the best type of ballad there is, benefiting from great songwriting, a mid-tempo beat, imaginative backings, and non-reliance on vocal caterwauling."
-**Loewe (9):** "BALLADS THAT BANG"
-
-----------------------
-
-__**64) Hush - Miss A**__
-<https://www.youtube.com/watch?v=dp0F18FFCTE>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 2.94
-
-__Scores__
-10 - Cooper, Loewe
-9 - Claudia, Sat
-5 - Kaymarie
-3 - Annie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (3):** "E-tribe's last hurrah and thankfully so."
-
-----------------------
-
-__**63) Mr. Mr. - SNSD**__
-<https://www.youtube.com/watch?v=Z8j_XEn9b_8>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 2.58
-
-__Scores__
-10 - Cooper, Sat
-9 - Claudia
-8 - Loewe
-5 - Kaymarie
-4 - Annie
-
-__Comments__
-**Loewe (8):** "MISTAH MISTAH"
-**Annie (4):** "Because people were like "hey don't do experimental shit with SNSD", SM went and did something normal... And boring... It's like Sorry Sorry v5829."
-
-----------------------
-
-__**62) Hoot - SNSD**__
-<https://www.youtube.com/watch?v=F4-SxcCO5d0>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 2.42
-
-__Scores__
-10 - Annie, Loewe
-9 - Claudia
-7 - Cooper
-6 - Sat
-4 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I think this song is kind of underrated in that it doesn't often get included in people's top 10 SNSD songs list, but in my case, this might even be in my top 5."
-**Annie (10):** "The best "James Bond" song from SM's "James Bond" songs that they have all their groups do, eventually."
-
-----------------------
-
-__**61) All Night - SNSD**__
-<https://www.youtube.com/watch?v=f4w8IbQTJpY>
-**Average:** 7.67
-**Total Points:** 46
-**Controversy:** 1.97
-
-__Scores__
-10 - Claudia, Cooper
-8 - Loewe
-6 - Annie, Kaymarie, Sat
-
-__Comments__
-**Loewe (8):** "Kinda BANGS"
-**Annie (6):** "Nice beat, but the song isn't much."
-
-----------------------
-
-__**60) Shake It - Sistar**__
-<https://www.youtube.com/watch?v=x9-TIy7WPQI>
-**Average:** 7.83
-**Total Points:** 47
-**Controversy:** 3.54
-
-__Scores__
-10 - Claudia, Cooper, Sat
-9 - Kaymarie
-7 - Loewe
-1 - Annie
-
-__Comments__
-**Claudia (10):** "MONEY MAKER RUMP SHAKER HEART BRAKER CHEST TAKER MAD PLAYER RHYME SAYER 1 2 3 GOOOO"
-**Loewe (7):** "A copy of all their earlier summer hits, and why not I guess."
-**Annie (1):** "Not even trying anymore, Sistar copies and pastes the melodies of their past hits, and somehow fucking them up still, and just engages in an unholy barrage of shrill vocals. Starship knew they would cash in as long as Sistar releases a summer song, so why even try?"
-
-----------------------
-
-__**59) Red Light - f(x)**__
-<https://www.youtube.com/watch?v=iv-8-EgPEY0>
-**Average:** 7.83
-**Total Points:** 47
-**Controversy:** 3.37
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe
-4 - Kaymarie
-3 - Sat
-
-__Comments__
-**Loewe (10):** "f(x) at their "experimental" best"
-**Claudia (10):** "spooky halloween music let's gooooooo"
-**Annie (10):** "Red Light is, for a long time, and probably still is, the most forward-thinking song in kpop, eschewing most kpop sensibilities for something truly special, the meat and potatoes of the song are in the rhythm section, with an amazing beat combining trap and metal elements in the rhythms, but not necessarily being either of the two. The song could honestly work with that alone but the topline is also some catchy shit. This song remains one of K-pop's best dark concepts."
-**Sat (3):** "its kinda just a bunch of noise bunched together with a decent sm bridge "
-
-----------------------
-
-__**58) Lie - T-ara**__
-<https://www.youtube.com/watch?v=U7qJMC5TLV8>
-**Average:** 7.83
-**Total Points:** 47
-**Controversy:** 2.32
-
-__Scores__
-10 - Annie, Cooper
-9 - Loewe
-7 - Claudia, Sat
-4 - Kaymarie
-
-__Comments__
-**Annie (10):** "One of the best debuts ever, overshadowed by stuff like "Fire" and "Into The New World", but I dare say this song is about as good as said iconic debuts."
-**Loewe (9):** "GEOJITMAL"
-
-----------------------
-
-__**57) I'm In Pain - T-ara**__
-<https://www.youtube.com/watch?v=NobleBtJNiQ>
-**Average:** 7.83
-**Total Points:** 47
-**Controversy:** 2.23
-
-__Scores__
-10 - Annie, Cooper
-8 - Claudia, Loewe
-7 - Sat
-4 - Kaymarie
-
-__Comments__
-**Annie (10):** "Everyone came from SNSD's "Mr. Mr." suits concept, but little did everyone know, Eunjung was actually the one who invented suits. And they kept the suits on for the entire MV too, unlike SNSD."
-**Loewe (8):** "I'm in pain whenever I remember the bullshit T-ara went through/"
-**Claudia (8):** "SUITS!!! HELL YEEEE"
-
-----------------------
-
-__**56) Roly-Poly - T-ara**__
-<https://www.youtube.com/watch?v=xyKdijPsPJw>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 3.85
-
-__Scores__
-11 - Annie
-10 - Claudia, Cooper, Loewe
-6 - Sat
-1 - Kaymarie
-
-__Comments__
-**Annie (11):** "The ultimate K-pop disco song, and my favorite girl group song ever. The song is heavily inspired by Bee Gees - but has better songwriting, modern production, and less structural flats. It's simply pure pop perfection from a musical, sonic, and arrangement standpoint. Proof that you don't need to be overly complex in songwriting, as this song eschews the typical K-pop songwriting values in favour of something simple, and that often, simplicity is the ultimate sophistication. This was written in the time it takes to take a pee. Amazing intro on par with K-pop's best (think "Sorry Sorry", "I Am The Best", "Lucifer"), Four chords that stay the same all throughout, verses that are probably the strongest verses in Kpop, with multiple melodies woven together leading to one of Kpop's best ever choruses, a spectacle of sublime pop catchiness, with an equally addictive choreography. Also have to talk about the hilarious rap break and how it's proof that all of us are bigger than our problems, Hwayoung couldn't ruin the song with her rap, and T-ara with her bullshit - T-ara actually became the second best-selling girl group behind SNSD after the "scandal", and was the Hallyu wave in China. Hence, we, too, should be reminded that we are bigger than our problems, and our problems are only the rap break, some unfortunate attempt to bring us down, but because all of us are Roly Polys we're not going to be brought down by it."
-**Loewe (10):** "ROLY POLY ROLY ROLY POLY"
-**Cooper (10):** "an actual cultural reset"
-
-----------------------
-
-__**55) Hot Summer - f(x)**__
-<https://www.youtube.com/watch?v=z-rftpZ7kCY>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 3.52
-
-__Scores__
-10 - Annie, Cooper, Loewe
-9 - Claudia
-8 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "Copies Monrose's song of the same name but actually makes it better."
-**Annie (10):** "Not only copies the original "Hot Summer", which was already a good song, wholesale, but also manages to make it A LOT better, SM really outdid themselves here. f(x) really can do both pseudo-experimental and pure pop, top group shit only."
-**Claudia (9):** "My anthem every single summer"
-
-----------------------
-
-__**54) Bad Girl Good Girl - Miss A**__
-<https://www.youtube.com/watch?v=8TeeJvcBdLA>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 3.52
-
-__Scores__
-10 - Annie, Loewe, Sat
-9 - Claudia
-8 - Cooper
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "This blew my mind when it first came out, JYP on some eclectic listening."
-**Annie (10):** "The concept is great and all but people often forget the awesome song, with a really cool arrangement, catchy melodies, and that bonkers keyboard in the chorus."
-
-----------------------
-
-__**53) Number Nine - T-ara**__
-<https://www.youtube.com/watch?v=Qk52ypnGs68>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 3.52
-
-__Scores__
-10 - Annie, Cooper, Loewe
-9 - Claudia
-8 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (10):** "T-ara went satanistic when they realized stupid K-netz will hate em regardless of what they do and they gave us a gem that is this song."
-
-----------------------
-
-__**52) So Crazy - T-ara**__
-<https://www.youtube.com/watch?v=maSoUetHock>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 3.52
-
-__Scores__
-10 - Annie, Cooper, Loewe
-9 - Claudia
-8 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (10):** "Inferior to Bravesound's other amazing banger of that year in AOA's "Heart Attack", but utilizes similar ideas - and the result is still an amazing banger. The tremolo guitars and brisk rhythms are the star of the show, but the songwriting is also very strong."
-
-----------------------
-
-__**51) Fire - 2NE1**__
-<https://www.youtube.com/watch?v=ISEoXdHb4W4>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 2.76
-
-__Scores__
-10 - Annie, Kaymarie, Loewe
-8 - Sat
-7 - Claudia
-3 - Cooper
-
-__Comments__
-**Loewe (10):** "FIRE man, this was the shit in here back in 2009 and for good reason."
-**Annie (10):** "One of K-pop's most iconic debuts ever from the original Monster Rookies, this song really stands the test of time. "Independent Women" style songs in K-pop are often great because songwriters wisely opt for stronger backings, and the backings also carry this song forward."
-**Sat (8):** "banger banger banger "
-**Cooper (3):** "Bom the best from day 1"
-
-----------------------
-
-__**50) Day by Day - T-ara**__
-<https://www.youtube.com/watch?v=kb6mCsvLqP0>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 2.76
-
-__Scores__
-10 - Annie, Claudia, Loewe
-9 - Cooper
-5 - Sat
-4 - Kaymarie
-
-__Comments__
-**Loewe (10):** "YO THIS BANGS"
-**Annie (10):** "Like I've said in "You Drive Me Crazy", Britney is a very common inspiration for T-ara, and they always make it better, this time by Ennio Morricone-ing up "Criminal". Also has the best MV ever."
-
-----------------------
-
-__**49) Tell Me - Wonder Girls**__
-<https://www.youtube.com/watch?v=BlHv3BbBv6A>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 2.1
-
-__Scores__
-10 - Annie, Loewe
-9 - Kaymarie
-8 - Claudia
-6 - Sat
-5 - Cooper
-
-__Comments__
-**Loewe (10):** "This was it, no going back from here, kpop was never the same."
-**Annie (10):** "Probably the first K-pop song to sound like the K-pop we all know, this stripped-back, smooth, and unabashedly 80s production (down to that sampled moaning) comes from K-pop's most retro producer (je wa pi) and the result is a better 80s song than most 80s songs. It's really simple too, but it works really well."
-
-----------------------
-
-__**48) Jumping - Kara**__
-<https://www.youtube.com/watch?v=SweXhOQPMdM>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 1.9
-
-__Scores__
-10 - Cooper, Loewe
-8 - Annie, Claudia
-7 - Sat
-5 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (8):** "Not their best, very screechy sometimes, but still rocks."
-**Sat (7):** "a little too repetative for me but it’s a cool song "
-
-----------------------
-
-__**47) Way To Go - SNSD**__
-<https://www.youtube.com/watch?v=_0Ke2fThnG0>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 1.9
-
-__Scores__
-10 - Cooper, Loewe
-9 - Annie
-7 - Claudia
-6 - Kaymarie, Sat
-
-__Comments__
-**Loewe (10):** "Early SNSD is pure pop perfection. Well this time it has punk elements in it but yes, pop perfection."
-**Annie (9):** "As pop as pop-punk can get, the sound is a bit too sweetened up for my taste, but the song is still an undeniably rocking song that rocks harder than most of K-rock."
-
-----------------------
-
-__**46) You Think - SNSD**__
-<https://www.youtube.com/watch?v=hJYGddE0vHc>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 1.67
-
-__Scores__
-10 - Kaymarie, Loewe
-8 - Sat
-7 - Claudia, Cooper
-6 - Annie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (6):** "Nowhere close their best material, but somewhat serviceable."
-
-----------------------
-
-__**45) Remember - APink**__
-<https://www.youtube.com/watch?v=bXlrqQKbjSM>
-**Average:** 8.0
-**Total Points:** 48
-**Controversy:** 1.26
-
-__Scores__
-9 - Cooper, Kaymarie, Loewe
-8 - Claudia
-7 - Annie
-6 - Sat
-
-__Comments__
-**Loewe (9):** "I love Apink."
-**Annie (7):** "Much has been said about Apink's musical and thematic transformation but their early sound was still fucking amazing."
-
-----------------------
-
-__**44) Cry Cry - T-ara**__
-<https://www.youtube.com/watch?v=5M69TE1yzt4>
-**Average:** 8.17
-**Total Points:** 49
-**Controversy:** 3.13
-
-__Scores__
-10 - Annie, Claudia, Cooper
-9 - Sat
-8 - Loewe
-2 - Kaymarie
-
-__Comments__
-**Cooper (10):** "style change into the more mature and they nail it"
-**Annie (10):** "Like I've said in "You Drive Me Crazy", Britney is a very common inspiration for T-ara, and they always make it better, this time by Flamenco-ing up "Oops! I Did It Again"."
-**Sat (9):** "the choreo"
-**Loewe (8):** "Hi Britney Spears, a girl group in Korea just did your song better."
-
-----------------------
-
-__**43) Gee - SNSD**__
-<https://www.youtube.com/watch?v=U7mPqycQ0tQ>
-**Average:** 8.17
-**Total Points:** 49
-**Controversy:** 2.64
-
-__Scores__
-10 - Annie, Loewe
-9 - Claudia, Kaymarie
-8 - Cooper
-3 - Sat
-
-__Comments__
-**Loewe (10):** "GEE GEE GEE BABY BABY Taeyeon hates this and wbk she has bad taste in SNSD titles."
-**Annie (10):** "E-Tribe's only good song, and regardless of the songs they put out after this, I'm still thankful for them because one, this song is great, and two, they used "Gee" money to eventually debut Dreamcatcher. Song has more similarities with Stray Kid's "Side Effects" than almost anything else, cleverly using EBM-style backings to offset the cloying aegyo in the topline."
-
-----------------------
-
-__**42) Give It To Me - Sistar**__
-<https://www.youtube.com/watch?v=p6XLNsJ9YrA>
-**Average:** 8.17
-**Total Points:** 49
-**Controversy:** 2.23
-
-__Scores__
-10 - Cooper, Sat
-9 - Kaymarie
-8 - Claudia, Loewe
-4 - Annie
-
-__Comments__
-**Loewe (8):** "I give all of me to you Hyolyn."
-**Annie (4):** "Pandora at half speed, and half the fun."
-
-----------------------
-
-__**41) Cupid - Kara**__
-<https://www.youtube.com/watch?v=74RzHIpZuDY>
-**Average:** 8.17
-**Total Points:** 49
-**Controversy:** 1.83
-
-__Scores__
-10 - Kaymarie, Loewe
-9 - Cooper
-8 - Claudia
-6 - Annie, Sat
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Sat (6):** "yeehaw "
-**Annie (6):** "The C-U-P-I-D breakdown is actually cool and lifts up this otherwise generic tune."
-
-----------------------
-
-__**40) Rum Pum Pum Pum - f(x)**__
-<https://www.youtube.com/watch?v=xnku4o3tRB4>
-**Average:** 8.33
-**Total Points:** 50
-**Controversy:** 3.61
-
-__Scores__
-10 - Annie, Cooper, Loewe, Sat
-9 - Claudia
-1 - Kaymarie
-
-__Comments__
-**Sat (10):** "banger "
-**Loewe (10):** "f(x) at their "experimental" best"
-**Annie (10):** "Not the best song in "Pink Tape", which says a lot about the album, this song is still some amazing shit. A pop song without any chord progression, yet still heavily driven by songwriting, it's something really special."
-
-----------------------
-
-__**39) I Am The Best - 2NE1**__
-<https://www.youtube.com/watch?v=j7_lSP8Vc3o>
-**Average:** 8.33
-**Total Points:** 50
-**Controversy:** 2.88
-
-__Scores__
-10 - Annie, Kaymarie, Loewe, Sat
-7 - Claudia
-3 - Cooper
-
-__Comments__
-**Loewe (10):** "NAEGA JEIL JAL NAGA! As iconic as a K-pop song can be, and for very good reason."
-**Annie (10):** "Their most iconic song, and while it may not be the best, it still FUCKING BANGS. That riff is so ball-smacking it turns men into eunuchs. Still one of K-pop's best party starters, a decade into its release."
-**Cooper (3):** "awful and grating, points for the catchy hook"
-
-----------------------
-
-__**38) Electric Shock - f(x)**__
-<https://www.youtube.com/watch?v=n8I8QGFA1oM>
-**Average:** 8.33
-**Total Points:** 50
-**Controversy:** 2.73
-
-__Scores__
-10 - Annie, Cooper, Loewe
-9 - Sat
-8 - Claudia
-3 - Kaymarie
-
-__Comments__
-**Loewe (10):** "f(x) at their "experimental" best"
-**Annie (10):** "No chord changes, no problem."
-
-----------------------
-
-__**37) 4Walls - f(x)**__
-<https://www.youtube.com/watch?v=4j7Umwfx60Q>
-**Average:** 8.33
-**Total Points:** 50
-**Controversy:** 2.25
-
-__Scores__
-10 - Claudia, Cooper, Loewe
-9 - Sat
-6 - Annie
-5 - Kaymarie
-
-__Comments__
-**Loewe (10):** "Friend zone friend zone friend zone"
-**Claudia (10):** "yee"
-**Annie (6):** "SHINee's View but somewhat inferior, f(x) became generic when Sulli left, thankfully the album still rocks."
-
-----------------------
-
-__**f(x)**__
-**Overall Average:** 7.483
-**Total Points:** 449
-**Biggest Fans:** Cooper (9.3), Loewe (9.2), Claudia (8.9)
-**Biggest Antis:** Kaymarie (2.9), Sat (6.4), Annie (8.2)
-
-__Rankings__
-37) 4Walls
-38) Electric Shock
-40) Rum Pum Pum Pum
-55) Hot Summer
-59) Red Light
-76) Nu ABO
-79) All Mine
-85) Pinocchio (Danger)
-99) La Cha Ta
-122) Chu~
-
-__Scores__
-10 - Annie, Cooper
-9 - Claudia, Loewe
-6 - Sat
-1 - Kaymarie
-
-__Comments__
-**Cooper (9.3):** "one of the best girl groups ever, so underrated to this day."
-**Loewe (9.2):** "f(x) unique queens. Probably my favorite girl group ever, or at least they're up there."
-**Claudia (8.9):** "F(X) DESERVED BETTER!!!!!"
-**Annie (8.2):** "One of K-pop's best groups from a musical and conceptual standpoint, and certainly one of my all-time favorites as well, f(x) was really top-tier. They started slow, but when they got it going, I could count in one hand the amount of groups who can match the quality of their output, but honestly, f(x) is still ahead of the pack. They don't have one, or two, they had THREE great full albums in "Pink Tape, "Red Light", and "4 Walls", not many K-pop groups can even make the claim of having ONE good mini album. And maybe it's the drugs talking, but I really vibed and related to their concept, and felt as if they were one of the most relatable groups out there, even when they weren't marketed as your typical idol group. Obviously the individual members are also very relatable, especially my bias Sulli... and now I'm crying, and rambling, but yes."
-**Sat (6.4):** "very hit or miss"
-
-----------------------
-
-__**36) Girls' Generation - SNSD**__
-<https://www.youtube.com/watch?v=IbLh4i40I4E>
-**Average:** 8.33
-**Total Points:** 50
-**Controversy:** 1.97
-
-__Scores__
-10 - Annie, Loewe
-9 - Cooper, Kaymarie
-7 - Claudia
-5 - Sat
-
-__Comments__
-**Loewe (10):** "THIS FUCKING BANGS"
-**Annie (10):** "Not as memorable as South Korea's National Anthem, and while "Into The New World" is a no-brainer 10/10 still, I still believe this oft-forgotten first comeback title is SNSD's best ever. This is actually a cover of that 1989 song of the same name but SNSD puts the original to shame by making a pop song that rocks harder than almost everything else."
-
-----------------------
-
-__**35) The Boys - SNSD**__
-<https://www.youtube.com/watch?v=6pA_Tou-DPI>
-**Average:** 8.33
-**Total Points:** 50
-**Controversy:** 1.86
-
-__Scores__
-10 - Claudia, Loewe
-9 - Annie
-8 - Cooper, Kaymarie
-5 - Sat
-
-__Comments__
-**Loewe (10):** "BRING THE BOYS OUT"
-**Annie (9):** "Falls a bit flat, but this is a high watermark in SM production and best represents the creative direction SM took at the turn of the decade. The song is saved from itself by the immaculate production. "Trick" outsold though."
-
-----------------------
-
-__**34) Only You - Miss A**__
-<https://www.youtube.com/watch?v=zO9RzrhYR-I>
-**Average:** 8.5
-**Total Points:** 51
-**Controversy:** 1.87
-
-__Scores__
-10 - Kaymarie, Loewe
-9 - Claudia, Cooper
-8 - Sat
-5 - Annie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Sat (8):** "what is this mv. "
-**Annie (5):** "Otherwise average song helped up because I re-played the fuck out of it because Min..."
-
-----------------------
-
-__**33) So Hot - Wonder Girls**__
-<https://www.youtube.com/watch?v=lmun5PO54VE>
-**Average:** 8.5
-**Total Points:** 51
-**Controversy:** 1.64
-
-__Scores__
-10 - Kaymarie, Loewe
-9 - Annie, Claudia
-7 - Sat
-6 - Cooper
-
-__Comments__
-**Loewe (10):** "SO HOT INDEED"
-**Claudia (9):** "the first time I heard this was when vixx did a cover of it for some variety show, and now everytime I hear this, I can't unhear the vixx cover lmao."
-**Annie (9):** "The light electro feel coupled with the syncopated beat really lifts the song up. This is basically re-made in Wanna.B's "Why?" and that's also the better because it solves the problem this song had, namely the mixing."
-
-----------------------
-
-__**32) Mr. Chu - APink**__
-<https://www.youtube.com/watch?v=K5H-GvnNz2Y>
-**Average:** 8.5
-**Total Points:** 51
-**Controversy:** 1.05
-
-__Scores__
-10 - Loewe
-9 - Cooper, Sat
-8 - Claudia, Kaymarie
-7 - Annie
-
-__Comments__
-**Loewe (10):** "My bestfriend's surname is Chu and I used to sing this all the time to annoy him but then he started singing this too and that just shows the power this song holds. I love Apink."
-**Annie (7):** "I really shouldn't like this more than I do, but it's just so fucking catchy, man."
-
-----------------------
-
-__**31) Luv - APink**__
-<https://www.youtube.com/watch?v=8dVjSvLzD1I>
-**Average:** 8.5
-**Total Points:** 51
-**Controversy:** 1.05
-
-__Scores__
-10 - Cooper
-9 - Loewe, Sat
-8 - Claudia, Kaymarie
-7 - Annie
-
-__Comments__
-**Sat (9):** "l o v e love :heart: "
-**Loewe (9):** "I love Apink."
-**Annie (7):** "Pretty good, and yes Eunji, I L.O.V.E. LUV you."
-
-----------------------
-
-__**30) Sugar Free - T-ara**__
-<https://www.youtube.com/watch?v=q_eo5j5sib8>
-**Average:** 8.67
-**Total Points:** 52
-**Controversy:** 3.78
-
-__Scores__
-11 - Sat
-10 - Annie, Claudia, Cooper, Loewe
-1 - Kaymarie
-
-__Comments__
-**Sat (11):** "BANGER BANGER BANGER its so perfect! "
-**Loewe (10):** "ULTIMATE HEADBANGING BANG"
-**Annie (10):** "The ultimate K-pop club EDM banger. This pop/metal song just fucking bangs!"
-
-----------------------
-
-__**29) Hate You - 4Minute**__
-<https://www.youtube.com/watch?v=D_F9HUTYnl0>
-**Average:** 8.67
-**Total Points:** 52
-**Controversy:** 2.07
-
-__Scores__
-10 - Claudia, Cooper, Kaymarie, Loewe
-6 - Annie, Sat
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (6):** "HOLY SHIT THAT DROP WAS AMAZING!!! okay, let's not get our panties in a bunch."
-
-----------------------
-
-__**28) I Love You - 2NE1**__
-<https://www.youtube.com/watch?v=LUrUPzLm5SI>
-**Average:** 8.67
-**Total Points:** 52
-**Controversy:** 1.86
-
-__Scores__
-10 - Claudia, Loewe
-9 - Annie, Cooper, Sat
-5 - Kaymarie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Claudia (10):** " BEST 2NE1 TITLE RIGHT HERE"
-**Annie (9):** "It's not 2NE1's best track from 2012, that would be "Ugly" and the Japanese release "Scream", but it still fucking bangs."
-
-----------------------
-
-__**27) Mr. Taxi - SNSD**__
-<https://www.youtube.com/watch?v=-QDgMh_9Dy0>
-**Average:** 8.67
-**Total Points:** 52
-**Controversy:** 1.75
-
-__Scores__
-10 - Annie, Kaymarie, Loewe
-9 - Claudia
-7 - Cooper
-6 - Sat
-
-__Comments__
-**Loewe (10):** "MISTER TAXI TAXI TAXI JIGEUM JEUKSHI JEUKSHI JEUKSHI"
-**Annie (10):** "This, along with "Paparazzi" best exemplifies the mid-period SNSD sound. Rocking backings, punchy beat, and a sheer earworm for a chorus."
-
-----------------------
-
-__**26) Into The New World - SNSD**__
-<https://www.youtube.com/watch?v=0k2Zzkw_-0I>
-**Average:** 8.83
-**Total Points:** 53
-**Controversy:** 2.86
-
-__Scores__
-10 - Annie, Claudia, Cooper, Kaymarie, Loewe
-3 - Sat
-
-__Comments__
-**Loewe (10):** "PLEASE RISE FOR THE NATIONAL ANTHEM."
-**Claudia (10):** "ALL RISE FOR THE NATIONAL ANTHEM"
-**Annie (10):** "NATIONAL ANTHEM. One of the most important songs in K-pop every, and quite possibly the best debut song ever. This is how 90's groups wanted to sound but couldn't, SNSD took that sound and made it infinitely better, this song has everything going for it, starting from that bonkers intro, then my dad opens up, and she not only opens up this song, she also opened up an era. Then we have an amazing chorus, then amazing everything else. Also props for going away from K-pop's usual songwriting (circle-of-fifths and R&B) and using something more fun."
-**Sat (3):** "this song is highly praised but I just don’t see how its that good. Its sounds outdated and the singing at times is cringe "
-
-----------------------
-
-__**25) Sexy Love - T-ara**__
-<https://www.youtube.com/watch?v=ShVRP09NCO4>
-**Average:** 8.83
-**Total Points:** 53
-**Controversy:** 2.86
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe, Sat
-3 - Kaymarie
-
-__Comments__
-**Sat (10):** "sexyyyy"
-**Loewe (10):** "Probably my favorite T-ara song."
-**Claudia (10):** "This was the first T-ara song I ever heard and what made me stan them in the first place :yg_clap:"
-**Annie (10):** "EBM x Dubstep x Pop music extravaganza, one of T-ara's best. One of the best MVs ever too."
-
-----------------------
-
-__**T-ara**__
-**Overall Average:** 7.31
-**Total Points:** 921
-**Biggest Fans:** Annie (9.57), Cooper (8.9), Loewe (8.81)
-**Biggest Antis:** Kaymarie (2.0), Sat (6.33), Claudia (8.24)
-
-__Rankings__
-25) Sexy Love
-30) Sugar Free
-44) Cry Cry
-50) Day by Day
-52) So Crazy
-53) Number Nine
-56) Roly-Poly
-57) I'm In Pain
-58) Lie
-65) Because I Know
-66) What's Wrong
-68) Lovey-Dovey
-71) Like The First Time
-73) You Drive Me Crazy
-74) Roly-Poly in Copacabana
-77) Do You Know Me
-95) Hide & Seek
-102) What's My Name?
-106) Tiamo
-109) Bo Peep Bo Peep
-149) Yayaya
-
-__Scores__
-10 - Annie, Cooper
-9 - Claudia, Loewe
-7 - Sat
-1 - Kaymarie
-
-__Comments__
-**Annie (9.57):** "tl;dr my ults
-
-Well, they're my ults, if I could give an overall score of 11, I'd ask if I can give 12 and write down 13. Much has been said by me about their music and how much I like them, and I really really do like their music, if my scores on them aren't indicative enough of my love for their music, I don't know what would. But despite all of that, the reason why they're my ults is for something much greater than music -  I related to them. Very deeply. You see, back during their "exodus" from Korea because of that bullshit "scandal", I was also facing troubling times, and it felt like I really connected with them; facing scrutiny from everyone I know and being forced to assume an identity because of other people's erroneous narrative. Their revival, and subsequent explosion in popularity in China and Mongolia as the face of the Hallyu Wave in the region (they're widely recognized in Korea and China as the biggest K-pop girl group in China and at one point around 2017 they were the runaway most popular K-pop group in China, about 90% of China's regions picked T-ara as the most popular group), really opened my eyes to the opportunities present to me if I step out of my comfort zone and welcomed change in my life, and boy did my life turn around for the better circa late 2015. K-pop has always been linked to changes in the outlook of impressionable young people's lives, for better or worse, and I can confidently say that this "stupid gay kpoop bullshit" helped me up because of T-ara. They were as instrumental as my faith in Jesus in shaping me into the person I am today, I owe so much to these lovely ladies who do not even know me, but I guess that's the power of music and one of the few benefits in being a celebrity. I just love them so much, and their reunion now is one of the best moments of my 2020, I shit you not, as shallow as that sounds, seeing my ults, who have helped me become the person I am today, getting back together and getting all the love and recognition that they deserve, really puts a smile to my face."
-**Cooper (8.9):** "what a journey me and t-ara have been on together, they have some of the biggest hits in kpop history and rightfully so. their mix of quirky beats & vocals with edm and r&b notes is so good, truly deserved to keep being one of the biggest girl groups"
-**Loewe (8.81):** "CHAMELEON QUEENS! T-ara just BANG, and that stupid Yayaya song won't change that fact. Without that song, they'd be my highest rated group here, and that shows the power they hold."
-**Claudia (8.24):** "T-ara bangers never dissapoint"
-**Sat (6.33):** "Banger t-ara best T-ara"
-**Kaymarie (2.0):** "this is gonna look like trolling but this group is actually horrendous"
-
-----------------------
-
-__**24) Nobody - Wonder Girls**__
-<https://www.youtube.com/watch?v=QZBn1e9pr2Q>
-**Average:** 8.83
-**Total Points:** 53
-**Controversy:** 0.98
-
-__Scores__
-10 - Annie, Loewe
-9 - Claudia
-8 - Cooper, Kaymarie, Sat
-
-__Comments__
-**Loewe (10):** "THEIR BEST SONG FIGHT ME"
-**Annie (10):** "This fucking amazing Motown/80s hybrid should've been the direction JYP went with Wonder Girls, imagine what could've been."
-
-----------------------
-
-__**23) Dumhdurum - APink**__
-<https://www.youtube.com/watch?v=WqzTRK5GPWQ>
-**Average:** 9.0
-**Total Points:** 54
-**Controversy:** 2.0
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe
-9 - Sat
-5 - Kaymarie
-
-__Comments__
-**Loewe (10):** "3/3. Apink are so fucking amazing and this song is so fucking catchy it's insane. As I'm writing this, I'm not even listening to the song, but the mere thought of this song got me humming the chorus melody and the riff dammit nae mameun deomdeoreoreom deoreoreom nuguboda chagapdeon niga tteonan geoya jal dwen geoya jeom jeom jeom Bye bye baby deomdeoreoreom deoreoreom byeollo seulpeuji ana nunmul heulliji ana beolsseo da kkeunnabeorin nae mameun deomdeoreom deomdeom"
-**Annie (10):** "Apink are fucking amazing. They are now 3/3 in their new sound and "Dumhdurum" is a bit like the first two combined, a bit closer texturally and musically to "I'm So Sick", but is similar to "%%" structurally, and is better than the two songs. What's super great about this song is it improves upon the only thing that I pointed out a *very slight weakness* in "%%" which is that the actual chorus melody is a bit weak, with both songs the actual stars of the show are the riffs, but in "Dumhdurum", they have a chorus section that doesn't just act as a prelude to the riff, but the actual chorus also fucking bangs."
-
-----------------------
-
-__**22) I Don't Need A Man - Miss A**__
-<https://www.youtube.com/watch?v=EkSOOiMDGiY>
-**Average:** 9.0
-**Total Points:** 54
-**Controversy:** 2.0
-
-__Scores__
-10 - Annie, Claudia, Kaymarie, Loewe
-9 - Cooper
-5 - Sat
-
-__Comments__
-**Loewe (10):** "YES GIRLS YOU DON'T NEED NO STINKY MEN LIKE ME"
-**Annie (10):** "A very very unique song sonically and from a songwriting standpoint, in that it uses the Major Pentatonic scale, only one other K-pop song at the top of my head uses the same scale, labelmates TWICE's "BDZ". The song just seamlessly grooves, very relaxing to the ear with the cool keyboards, cool melodies, and perfect vocal presentation. The lyrics are also very cool."
-
-----------------------
-
-__**Miss A**__
-**Overall Average:** 7.083
-**Total Points:** 340
-**Biggest Fans:** Loewe (8.75), Cooper (8.25), Claudia (8.12)
-**Biggest Antis:** Kaymarie (3.88), Sat (6.38), Annie (7.12)
-
-__Rankings__
-22) I Don't Need A Man
-34) Only You
-54) Bad Girl Good Girl
-64) Hush
-72) Goodbye Baby
-84) Touch
-112) Love Alone
-148) Breathe
-
-__Scores__
-10 - Annie
-9 - Loewe
-8 - Cooper
-7 - Claudia
-6 - Sat
-1 - Kaymarie
-
-__Comments__
-**Loewe (8.75):** "Miss A could've been a perfect 10, sadly Breathe exists, and they fall of in my average standings, that's actually sad, as I think Miss A has one of the best girl group discographies out there, at least when we're talking about title tracks."
-**Cooper (8.25):** "like them a lot more now , they got some bops"
-**Annie (7.12):** "JYP got all his girl groups right, especially those he writes for, because more often than not, we get great songwriting and arrangement on their songs. I really really like Miss A though because they're the card I always play whenever people tell me I have an unjustifiable hate for R&B. I always tell them "I like R&B when it's good", and they'd be like "Oh, yeah? That's like bullshit, you hate on every R&B song ever", then I'd be like "Miss A are one of my favorite K-pop groups ever though, and they're R&B. Boom!" (important to note that I also like the more typical K-R&B like Shannon's "Hello" and Eyedi's "Best Mistake (k)"). Anyways, JYP really got Miss A right and it's a mystery to me why he can't replicate the same amount of success when writing for his boy groups."
-**Sat (6.38):** "they could have been great. A few misses but overall they got some classic songs "
-
-----------------------
-
-__**21) Loving U - Sistar**__
-<https://www.youtube.com/watch?v=oL2AlXWVbKU>
-**Average:** 9.0
-**Total Points:** 54
-**Controversy:** 2.0
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe
-9 - Sat
-5 - Kaymarie
-
-__Comments__
-**Loewe (10):** "This is the best Sistar summer song and if anyone does not agree - well it's okay since it's their musical opinion and music is subjective, but it makes me sad that you think this isn't their best."
-**Annie (10):** "The ultimate Sistar summer anthem - nice, bright, with great singing, and even rips The Beach Boys off, what's not to like? Sistar looks amazing as usual too."
-
-----------------------
-
-__**20) Run Devil Run - SNSD**__
-<https://www.youtube.com/watch?v=q_gfD3nvh-8>
-**Average:** 9.0
-**Total Points:** 54
-**Controversy:** 1.55
-
-__Scores__
-10 - Annie, Claudia, Loewe, Sat
-7 - Cooper, Kaymarie
-
-__Comments__
-**Loewe (10):** "Even when they transitioned to their mid-period sound, SNSD is still pure pop perfection."
-**Annie (10):** "<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}</style>Not my favorite song from this era of SNSD, but I can't deny the sheer awesomeness of the song. Gritty backings, great swinging rock feel, and catchy as all fuck melodies. It also goes without saying, but SM productions are some amazing shit, a very interesting decision they made here was to pan the sibilance/aural excitation to the sides, so you hear the "breathiness" without it interfering the lead vocals and it adds a much appreciated depth to an already deep production. And, no, this wasn't a Kesha song, just in case."
-
-----------------------
-
-__**19) Touch My Body - Sistar**__
-<https://www.youtube.com/watch?v=9txzvu6eQuw>
-**Average:** 9.0
-**Total Points:** 54
-**Controversy:** 1.1
-
-__Scores__
-10 - Cooper, Sat
-9 - Claudia, Kaymarie, Loewe
-7 - Annie
-
-__Comments__
-**Loewe (9):** "Okay, if you want me to."
-**Annie (7):** "Probably their most popular song, but far from their best. Still pretty decent though."
-
-----------------------
-
-__**18) Lonely - 2NE1**__
-<https://www.youtube.com/watch?v=5n4V3lGEyG4>
-**Average:** 9.17
-**Total Points:** 55
-**Controversy:** 1.6
-
-__Scores__
-10 - Annie, Cooper, Loewe, Sat
-9 - Claudia
-6 - Kaymarie
-
-__Comments__
-**Sat (10):** ":sob:"
-**Loewe (10):** "2ne1 even got their ballads right back then holy shit!"
-**Cooper (10):** "their best slow song"
-**Annie (10):** "Much like MBK, YG also had their own brand of ballad songwriting, and this one honestly is probably their best."
-
-----------------------
-
-__**17) Mister - Kara**__
-<https://www.youtube.com/watch?v=9VbGuZryssA>
-**Average:** 9.17
-**Total Points:** 55
-**Controversy:** 0.98
-
-__Scores__
-10 - Cooper, Loewe, Sat
-9 - Annie
-8 - Claudia, Kaymarie
-
-__Comments__
-**Sat (10):** "well this is kinda of a classic "
-**Loewe (10):** "THE CHOREO BANGS, I mean yes the song does bang too."
-**Annie (9):** "Great catchy pop song, with an addictive and iconic choreo to boot."
-
-----------------------
-
-__**16) Lupin - Kara**__
-<https://www.youtube.com/watch?v=j7TYiyEhxdI>
-**Average:** 9.17
-**Total Points:** 55
-**Controversy:** 0.75
-
-__Scores__
-10 - Loewe, Sat
-9 - Claudia, Cooper, Kaymarie
-8 - Annie
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (8):** "Best song named after a criminal."
-
-----------------------
-
-__**15) NoNoNo - APink**__
-<https://www.youtube.com/watch?v=hspqQuuuGIw>
-**Average:** 9.33
-**Total Points:** 56
-**Controversy:** 1.21
-
-__Scores__
-10 - Annie, Claudia, Loewe, Sat
-9 - Cooper
-7 - Kaymarie
-
-__Comments__
-**Loewe (10):** "I love Apink."
-**Claudia (10):** "LET'S GOOOOO! A CLASSIC!"
-**Annie (10):** "Great "innocent" concept, also a great song."
-
-----------------------
-
-__**14) I Feel You - Wonder Girls**__
-<https://www.youtube.com/watch?v=V9QXQz6uE0M>
-**Average:** 9.33
-**Total Points:** 56
-**Controversy:** 1.03
-
-__Scores__
-10 - Claudia, Cooper, Loewe, Sat
-8 - Annie, Kaymarie
-
-__Comments__
-**Loewe (10):** "WONDER GIRLS CAN DO NO WRONG EXCEPT LIKE MONEY"
-**Annie (8):** "A big 80s pop song without a big 80s pop chorus, ah what could've been. But even with a less than stellar chorus, the song is a fucking bop. And the album too, one of the best albums in pop music ever."
-
-----------------------
-
-__**13) %% (Eung Eung) - APink**__
-<https://www.youtube.com/watch?v=499YUeNoYVE>
-**Average:** 9.5
-**Total Points:** 57
-**Controversy:** 1.22
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe, Sat
-7 - Kaymarie
-
-__Comments__
-**Loewe (10):** "Woah what the fuck is this Apink? I love Apink."
-**Annie (10):** "This song is unique. It's weird. And it's fucking amazing. An 80s throwback but not really, instead cleverly borrowing 80s textures but marries it everything else not 80s to create a song that is truly one of a kind."
-
-----------------------
-
-__**12) Ugly - 2NE1**__
-<https://www.youtube.com/watch?v=NGe0hHvAGkc>
-**Average:** 9.5
-**Total Points:** 57
-**Controversy:** 0.84
-
-__Scores__
-10 - Annie, Cooper, Kaymarie, Loewe
-9 - Sat
-8 - Claudia
-
-__Comments__
-**Loewe (10):** "Less talked about compared to the other rock-style YG songs like "Crooked" or "Sober", but I think this is their best of this style."
-**Annie (10):** "A great YG style pop-rock song, and very heartfelt lyrics."
-**Sat (9):** "fuck yg "
-
-----------------------
-
-__**2NE1**__
-**Overall Average:** 6.784
-**Total Points:** 692
-**Biggest Fans:** Loewe (8.71), Annie (6.88), Sat (6.82)
-**Biggest Antis:** Kaymarie (5.29), Cooper (6.35), Claudia (6.65)
-
-__Rankings__
-12) Ugly
-18) Lonely
-28) I Love You
-39) I Am The Best
-51) Fire
-80) Come Back Home
-88) Goodbye
-96) I Don't Care
-97) Hate You
-101) Falling In Love
-105) It Hurts
-114) Missing You
-118) Gotta Be You
-128) Can't Nobody
-130) Go Away
-140) Clap Your Hands
-143) Do You Love Me
-
-__Scores__
-9 - Annie, Loewe
-7 - Sat
-6 - Claudia, Cooper
-5 - Kaymarie
-
-__Comments__
-**Loewe (8.71):** "2ne1 just BANGS man, and while their later output kinda not BANGS, their earlier output is up there in the best girl group releases ever."
-**Annie (6.88):** "One of my favorite girl groups ever, 2NE1 were pretty much unstoppable during their peak from 2009-2012. and while sadly we didn't get as much songs from that time as we wanted, and they slowed down starting 2013, their back catalogue is still honestly pretty fucking solid. Not to mention they're quite easily the best K-pop girl group live show I've seen ever - "Nolza" and "Now Or Never" are some of the best K-pop concerts I'd ever been in, right up there with BigBang and BTS shows. 2NE1 just had charisma to burn, and despite the fact that their "Independent Women" persona is a corporate product (as is everything in a glamour industry), I still got caught in it and I thorougly enjoyed the girl crush experience."
-**Sat (6.82):** "poor 2ne1. they arent bad. the haters in here are just strong. Park Bom QUEEN ."
-**Cooper (6.35):** "A group I still can't say I like almost 2 years later but I respect their more mid tempo & ballad tracks more now"
-
-----------------------
-
-__**11) Volume Up - 4Minute**__
-<https://www.youtube.com/watch?v=qsWl1--Niyg>
-**Average:** 9.5
-**Total Points:** 57
-**Controversy:** 0.84
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe
-9 - Kaymarie
-8 - Sat
-
-__Comments__
-**Loewe (10):** "THIS FUCKING BANGS!! Might be my favorite 4Minute song."
-**Claudia (10):** "PEAK 4MINUTE BANGER RIGHT HERE!!!"
-**Annie (10):** "Very accurate song title, this subwoofer wrecker gets louder as it goes and explodes into a very banging chorus. The visuals in this era are also to die for."
-
-----------------------
-
-__**10) Alone - Sistar**__
-<https://www.youtube.com/watch?v=E0ZHXVp_wUE>
-**Average:** 9.5
-**Total Points:** 57
-**Controversy:** 0.84
-
-__Scores__
-10 - Annie, Kaymarie, Loewe, Sat
-9 - Cooper
-8 - Claudia
-
-__Comments__
-**Loewe (10):** "BANGS"
-**Annie (10):** "An astoundingly groovy song, this is still one of Sistar's best songs."
-
-----------------------
-
-__**9) Genie - SNSD**__
-<https://www.youtube.com/watch?v=6SwiSpudKWI>
-**Average:** 9.5
-**Total Points:** 57
-**Controversy:** 0.84
-
-__Scores__
-10 - Claudia, Cooper, Loewe, Sat
-9 - Annie
-8 - Kaymarie
-
-__Comments__
-**Loewe (10):** "That Taeyeon part at the last part of the song gets me everytime."
-**Annie (9):** "Gets *too* repetitive for even my own taste, but it's still a pretty awesome song, also my dad went bonkers in the last part of it. Props."
-
-----------------------
-
-__**SNSD**__
-**Overall Average:** 7.348
-**Total Points:** 970
-**Biggest Fans:** Loewe (9.0), Claudia (8.18), Cooper (7.41)
-**Biggest Antis:** Sat (5.77), Kaymarie (6.55), Annie (7.18)
-
-__Rankings__
-9) Genie
-20) Run Devil Run
-26) Into The New World
-27) Mr. Taxi
-35) The Boys
-36) Girls' Generation
-43) Gee
-46) You Think
-47) Way To Go
-61) All Night
-62) Hoot
-63) Mr. Mr.
-75) Oh!
-78) Lion Heart
-81) Catch Me If You Can
-82) Kissing You
-90) I Got A Boy
-116) Holiday
-124) Dancing Queen
-127) Baby Baby
-137) Sailing (0805)
-138) Party
-
-__Scores__
-10 - Annie, Cooper, Kaymarie
-9 - Claudia, Loewe
-6 - Sat
-
-__Comments__
-**Loewe (9.0):** "My first girl group, as would be the case for many kpop fans who got into it in the same period that I did, and well, they fucking BANG. Started out banging and was really consistently banging all the way through, and they only really had one miss, that snore-inducing ballad. BUT YES THEY BANG."
-**Cooper (7.41):** "put some respect on em"
-**Annie (7.18):** "SNSD introduced me to the concept of "pop girl groups that don't suck" and also ushered in an era of great pop girl group music, and I still thank them for that. Also, dad. Admittedly, I wasn't a big fan of them back during their debut era even when they had such awesome songs only because there are nine members I could barely recognize (blame poor video quality kek), although I was already in love with Taeyeon back then, my first ever K-pop crush, and she still is (although that's kinda weird now cos she's my dad and shit), I warmed up to SNSD soon thereafter because how can I not with their amazing discography and great variety performances. They slowed down in terms of musical quantity to me starting around 2013, but by then, they've already etched themselves to my heart as one of my all-time favorites."
-**Sat (5.77):** "cute snsd is cringe. Should have added the japanese songs lol "
-
-----------------------
-
-__**8) Damaged Lady - Kara**__
-<https://www.youtube.com/watch?v=_vHw17-zFa4>
-**Average:** 9.5
-**Total Points:** 57
-**Controversy:** 0.55
-
-__Scores__
-10 - Annie, Cooper, Loewe
-9 - Claudia, Kaymarie, Sat
-
-__Comments__
-**Loewe (10):** "MORE GUITARS MEANS MORE BANGS"
-**Annie (10):** "The most outwardly metal Sweetune got with KARA, it isn't as great as their best material but it does go very hard."
-
-----------------------
-
-__**7) Mamma Mia! - Kara**__
-<https://www.youtube.com/watch?v=AEAdE9wSqwg>
-**Average:** 9.67
-**Total Points:** 58
-**Controversy:** 1.03
-
-__Scores__
-11 - Claudia
-10 - Cooper, Kaymarie, Loewe
-9 - Sat
-8 - Annie
-
-__Comments__
-**Claudia (11):** "biggest YEEEEEEEEEEEEEEAAAAAAAAAAH BOIIIIIIIIIIII"
-**Loewe (10):** "BANGS"
-**Sat (9):** "party party party mamma mia "
-**Annie (8):** "Not KARA's best but still rocks."
-
-----------------------
-
-__**6) Crazy - 4Minute**__
-<https://www.youtube.com/watch?v=1nCLBTmjJBY>
-**Average:** 9.67
-**Total Points:** 58
-**Controversy:** 0.82
-
-__Scores__
-10 - Annie, Cooper, Kaymarie, Loewe, Sat
-8 - Claudia
-
-__Comments__
-**Sat (10):** "by far their best song "
-**Loewe (10):** "C R A Z Y"
-**Annie (10):** "Because 2NE1 weren't doing shit, 4Minute muscled in on their old territory with this phyrgian scale yoloswag banger that is actually better than most of 2NE1's later material because the songwriters didn't forget to add an actual ball-smacking beat."
-
-----------------------
-
-__**4Minute**__
-**Overall Average:** 5.922
-**Total Points:** 604
-**Biggest Fans:** Loewe (6.94), Cooper (6.06), Claudia (5.82)
-**Biggest Antis:** Annie (5.41), Sat (5.59), Kaymarie (5.71)
-
-__Rankings__
-6) Crazy
-11) Volume Up
-29) Hate You
-89) Over and Over
-93) Hot Issue
-94) Mirror MIrror
-107) HuH
-108) Heart to Heart
-111) I My Me Mine
-117) Watcha Doin' Today
-125) Cold Rain
-132) Muzik
-139) What's Your Name?
-142) Thank You
-145) What A Girl Wants
-146) Is It Poppin'?
-150) Jingle Jingle
-
-__Scores__
-8 - Annie
-7 - Loewe
-6 - Claudia
-5 - Cooper, Kaymarie, Sat
-
-__Comments__
-**Loewe (6.94):** "Okay they have lots of songs that BANG, but they also have lots that don't BANG and that's kinda sad."
-**Cooper (6.06):** "most uneven group in this rating tbh, they never really found their sound"
-**Sat (5.59):** "they arent that great. Just got a few hits lol"
-**Annie (5.41):** "Love these ladies. A group more closely associated to 2NE1 than SNSD, most people forget that 4Minute weren't all YOLO and had a very varied discography full of smooth, easy-listening gems like "Heart To Heart". Although of course their bad bitch image isn't unwarranted and they have great bomb-ass songs too. Also, I can't stress this enough, but 4Minute was weaponised by the South Korean government against North Korea, if that doesn't scream "Queen Shit Only", I don't know what would."
-
-----------------------
-
-__**5) I'm So Sick - APink**__
-<https://www.youtube.com/watch?v=F4oHuML9U2A>
-**Average:** 9.67
-**Total Points:** 58
-**Controversy:** 0.82
-
-__Scores__
-10 - Annie, Claudia, Cooper, Loewe, Sat
-8 - Kaymarie
-
-__Comments__
-**Loewe (10):** "Woah what the fuck is this Apink? I love Apink."
-**Annie (10):** "Very Apink, and very good. Lots of people say it was the "conceptual" change that Apink finally got, but while that may have been true from a visuals perspective, the music is as Apink as Apink can get. And that's good."
-
-----------------------
-
-__**APink**__
-**Overall Average:** 7.231
-**Total Points:** 781
-**Biggest Fans:** Loewe (8.89), Cooper (8.33), Claudia (7.61)
-**Biggest Antis:** Kaymarie (4.61), Sat (6.78), Annie (7.17)
-
-__Rankings__
-5) I'm So Sick
-13) %% (Eung Eung)
-15) NoNoNo
-23) Dumhdurum
-31) Luv
-32) Mr. Chu
-45) Remember
-69) Five
-83) The Wave
-86) Only One
-92) Cause You're My Star
-98) Hush
-100) Good Morning Baby
-115) My My
-119) I Don't Know
-131) Always
-133) Promise U
-136) Miracle
-
-__Scores__
-10 - Cooper
-9 - Loewe
-8 - Annie, Claudia
-7 - Sat
-5 - Kaymarie
-
-__Comments__
-**Loewe (8.89):** "I love Apink."
-**Cooper (8.33):** "what an iconic run theyve had and they are still releasing hits a decade later, defying the industry expectations. Queens"
-**Annie (7.17):** "I love Apink, I think they're one of the better SNSD copies (obviously GFriend is the best ehem), but like GFriend, they certainly put their own brand to that early SNSD sound, and I really love their brand of music. That being said, their transformation circa 2018 is one of K-pop's best ever concept changes and so far it has brought us three outstanding title tracks, their "trilogy" are all all-time faves, and I'm genuinely excited for their second prime."
-**Sat (6.78):** "thankful fo the change up cause they had some rough pathches "
-
-----------------------
-
-__**4) Pandora - Kara**__
-<https://www.youtube.com/watch?v=g0XpNvLWimo>
-**Average:** 9.83
-**Total Points:** 59
-**Controversy:** 0.41
-
-__Scores__
-10 - Annie, Claudia, Cooper, Kaymarie, Loewe
-9 - Sat
-
-__Comments__
-**Loewe (10):** "BANGS, I TOLD YOU KARA CAN DO NO WRONG ANYMORE"
-**Annie (10):** "Probably my 2nd favorite KARA track. Metal riffs, strings, soaring melodies, brisk tempos, this song has it all."
-
-----------------------
-
-__**3) Why So Lonely - Wonder Girls**__
-<https://www.youtube.com/watch?v=PYGODWJgR-c>
-**Average:** 9.83
-**Total Points:** 59
-**Controversy:** 0.41
-
-__Scores__
-10 - Claudia, Cooper, Kaymarie, Loewe, Sat
-9 - Annie
-
-__Comments__
-**Loewe (10):** "WONDER GIRLS CAN DO NO WRONG EXCEPT LIKE MONEY"
-**Annie (9):** "Wonder Girls can pull off any retro concept."
-
-----------------------
-
-__**Wonder Girls**__
-**Overall Average:** 7.061
-**Total Points:** 466
-**Biggest Fans:** Claudia (8.45), Loewe (8.09), Kaymarie (7.27)
-**Biggest Antis:** Cooper (5.55), Sat (5.91), Annie (7.09)
-
-__Rankings__
-3) Why So Lonely
-14) I Feel You
-24) Nobody
-33) So Hot
-49) Tell Me
-70) Like This
-104) Be My Baby
-120) Irony
-126) 2 Different Tears
-134) The DJ Is Mine
-147) Like Money
-
-__Scores__
-10 - Annie
-8 - Kaymarie, Loewe
-7 - Claudia
-6 - Sat
-5 - Cooper
-
-__Comments__
-**Loewe (8.09):** "Wonder Girls just BANG. Best retro concept girl group, they did every retro concept they did oh so right."
-**Annie (7.09):** "My first ever girl group, and sure "Irony" didn't stand out that much, and I thought "Into The New World" was better, and even though SNSD was the first to introduce me to the concept of "pop girl groups that don't suck" with said iconic debut, Wonder Girls is still the very first girl group I ever stanned. Part of it is because I was turned off by the sheer amount of members SNSD had, but a bigger part of it is because I enjoyed Wonder Girls' subsequent releases and I fell in love with their retro concept and quirkiness on TV. They're one of the most retro-sounding girl groups ever, and one of the best. Their music is honestly still top-tier to me and they really did not have any shit song. Shame they didn't become as popular as they should've been, but thankfully they're still rightfully remembered as one of the biggest players in the hallyu wave."
-**Sat (5.91):** "the american push really was not good for them "
-**Cooper (5.55):** "I like the idea of wonder girls more than I actually like wonder girls"
-
-----------------------
-
-__**2) Step - Kara**__
-<https://www.youtube.com/watch?v=zYoYoBtLqOY>
-**Average:** 10.0
-**Total Points:** 60
+__**141) My Sea - Rockit Girl**__
+<https://www.youtube.com/watch?v=pkSmtr_mXGA&ab_channel=GENIEMUSIC>
+**Average:** 0.0
+**Total Points:** 0
 **Controversy:** 0.0
 
 __Scores__
-10 - Annie, Claudia, Cooper, Kaymarie, Loewe, Sat
+0 - Jong, Jong2
 
 __Comments__
-**Sat (10):** "their best song "
-**Loewe (10):** "BANGS, AT THIS POINT KARA CAN DO NO WRONG"
-**Annie (10):** "One of KARA's best songs, a very metal song with an anthemic chorus driven by orgasmic Queen-style harmonies."
+**Jong2 (0):** "Begone thot!"
+**Jong (0):** "Begone thot!"
 
 ----------------------
 
-__**Kara**__
-**Overall Average:** 7.643
-**Total Points:** 642
-**Biggest Fans:** Loewe (9.0), Claudia (8.5), Annie (7.64)
-**Biggest Antis:** Kaymarie (6.64), Sat (6.64), Cooper (7.43)
+__**140) We Are Korea - Rockit Girl**__
+<https://www.youtube.com/watch?v=oAToMHYUeEg&ab_channel=GENIEMUSIC>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
+
+__Scores__
+1 - Jong, Jong2
+
+__Comments__
+**Jong2 (1):** "They suck."
+**Jong (1):** "They suck."
+
+----------------------
+
+__**139) Little Cat - Rockit Girl**__
+<https://www.youtube.com/watch?v=SMJ3ouUsKlU&ab_channel=GENIEMUSIC>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
+
+__Scores__
+1 - Jong, Jong2
+
+__Comments__
+**Jong2 (1):** "Garbage."
+**Jong (1):** "Garbage."
+
+----------------------
+
+__**138) Dream Come True - Rockit Girl**__
+<https://www.youtube.com/watch?v=FHS7dETx5Vs&ab_channel=GENIEMUSIC>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
+
+__Scores__
+1 - Jong, Jong2
+
+__Comments__
+**Jong2 (1):** "Disband already."
+**Jong (1):** "Disband already."
+
+----------------------
+
+__**Rockit Girl**__
+**Overall Average:** 0.75
+**Total Points:** 6
+**Biggest Fans:** Jong2 (0.75), Jong (0.75)
+**Biggest Antis:** Jong (0.75), Jong2 (0.75)
 
 __Rankings__
-2) Step
-4) Pandora
-7) Mamma Mia!
-8) Damaged Lady
-16) Lupin
-17) Mister
-41) Cupid
-48) Jumping
-87) Break it
-91) Wanna
-121) Honey
-123) Pretty Girl
-141) If U Wanna
-144) Rock U
+138) Dream Come True
+139) Little Cat
+140) We Are Korea
+141) My Sea
 
 __Scores__
-10 - Annie
-9 - Claudia, Cooper, Loewe
-7 - Sat
-5 - Kaymarie
+1 - Jong, Jong2
 
 __Comments__
-**Loewe (9.0):** "KARA just BANG man, like they don't really have a bad song for me, and from IF YOU WANNA PRETTY to C U P I D they literally could not do any wrong."
-**Annie (7.64):** "Still one of my favorite girl groups ever, KARA was the original metal group in K-pop, and the metalhead in me was conveniently able to enjoy metal songs packaged into pop songs sung by attractive women. The group themselves are very inspiring, in more ways than one, and I sorely miss them even to this day. Now I'm crying because I just remembered Hara and how her name rhymes with KARA and how she released "Midnight Queen" which sounds just like a KARA song from their peak and it just makes me really sad really."
-**Cooper (7.43):** "their early stuff is so so bad but once we get to mister its pure bliss"
-**Sat (6.64):** "early kara not my thing "
+**Jong2 (0.75):** "Worst group I've rated. If they haven't already I hope they disband and never sing again."
+**Jong (0.75):** "Worst group I've rated. If they haven't already I hope they disband and never sing again."
 
 ----------------------
 
-__**1) I Like That - Sistar**__
-<https://www.youtube.com/watch?v=LJVUjmNMF8c>
-**Average:** 10.17
-**Total Points:** 61
-**Controversy:** 0.41
+__**137) Love Is... - The East Light**__
+<https://www.youtube.com/watch?v=QglLFncNbGs&ab_channel=TheEastLight.>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
 
 __Scores__
-11 - Kaymarie
-10 - Annie, Claudia, Cooper, Loewe, Sat
+1 - Jong, Jong2
 
 __Comments__
-**Kaymarie (11):** "best kpop girl group song that exists"
-**Loewe (10):** "This shit is great, makes me kinda sad we didn't get more of this type of song."
-**Annie (10):** "My favorite Sistar song. A very different song from the usual summer affair, the song is moody and dark, but very punchy and kickass at the same time. With brisk rhythms, sexy textures, and awesome sampled vocals topped off with easily the best chorus in Sistar's discography. Also, Sistar looks great, I mean they always do, but especially moreso in this era."
+**Jong2 (1):** "Fucking awful. Should be disappointed in themselves."
+**Jong (1):** "Fucking awful. Should be disappointed in themselves."
 
 ----------------------
 
-__**Sistar**__
-**Overall Average:** 7.514
-**Total Points:** 541
-**Biggest Fans:** Sat (8.08), Loewe (8.0), Cooper (8.0)
-**Biggest Antis:** Annie (5.75), Claudia (7.42), Kaymarie (7.83)
+__**136) Dash - LED Apple**__
+<https://www.youtube.com/watch?v=WPB2B1R7lCM&ab_channel=Superstarz389FOSHO>
+**Average:** 1.0
+**Total Points:** 2
+**Controversy:** 0.0
+
+__Scores__
+1 - Jong, Jong2
+
+__Comments__
+**Jong2 (1):** "Oh god this sounds awful. What happened to the production?"
+**Jong (1):** "Oh god this sounds awful. What happened to the production?"
+
+----------------------
+
+__**135) You're My Love (Tropical Mix) - The East Light**__
+<https://www.youtube.com/watch?v=CiGrgfoUlqM&ab_channel=TheEastLight.>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
+
+__Scores__
+2 - Jong, Jong2
+
+__Comments__
+**Jong2 (2):** "That instrumental is terrible. The vocals are also abysmal. Just shit really."
+**Jong (2):** "That instrumental is terrible. The vocals are also abysmal. Just shit really."
+
+----------------------
+
+__**134) Quiero Besarte - Lunafly**__
+<https://www.youtube.com/watch?v=j5MnooLl4CY&ab_channel=officialLUNAFLY>
+**Average:** 2.0
+**Total Points:** 4
+**Controversy:** 0.0
+
+__Scores__
+2 - Jong, Jong2
+
+__Comments__
+**Jong2 (2):** "Bad spanish with bad instrumentals."
+**Jong (2):** "Bad spanish with bad instrumentals."
+
+----------------------
+
+__**133) Holla - The East Light**__
+<https://www.youtube.com/watch?v=x3L6xB9i7JU&ab_channel=TheEastLight.>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "Those wigs were certainly a choice. Sadly they can't sing very well so this song is mostly cringe. Got to give them props for their instrumental work though"
+**Jong (3):** "Those wigs were certainly a choice. Sadly they can't sing very well so this song is mostly cringe. Got to give them props for their instrumental work though"
+
+----------------------
+
+__**132) I Got You - The East Light**__
+<https://www.youtube.com/watch?v=1oxOnWws0UQ&ab_channel=TheEastLight.>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "Oh dear, they sound awful here."
+**Jong (3):** "Oh dear, they sound awful here."
+
+----------------------
+
+__**131) Real Man - The East Light**__
+<https://www.youtube.com/watch?v=SiQeBQLBu3U&ab_channel=TheEastLight.>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "I don't know who listened to a screamer firework and thought "This. This is the soundbite I want." But fuck them. Vocals also lame."
+**Jong (3):** "I don't know who listened to a screamer firework and thought "This. This is the soundbite I want." But fuck them. Vocals also lame."
+
+----------------------
+
+__**130) Love Flutters - The East Light**__
+<https://www.youtube.com/watch?v=Ol6fnqL0kMk&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "They can't sing, and the instrumentals here are pretty bad too."
+**Jong (3):** "They can't sing, and the instrumentals here are pretty bad too."
+
+----------------------
+
+__**129) Fly To Love - Lunafly**__
+<https://www.youtube.com/watch?v=bSD0A6aJyYw&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "This was really bad. Has just enough cheese to save it from a 1"
+**Jong (3):** "This was really bad. Has just enough cheese to save it from a 1"
+
+----------------------
+
+__**128) Yeowooya - Lunafly**__
+<https://www.youtube.com/watch?v=9dN_fJIKO8g&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "Another super cringe song from them, and they don't sound good."
+**Jong (3):** "Another super cringe song from them, and they don't sound good."
+
+----------------------
+
+__**127) Stardust - Lunafly**__
+<https://www.youtube.com/watch?v=QaQ2gDG0GPs&ab_channel=LalalaLOVEmusicENT4>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "Cringe."
+**Jong (3):** "Cringe."
+
+----------------------
+
+__**126) Paradox - Trax**__
+<https://www.youtube.com/watch?v=IqnscuWhDic&ab_channel=SMTOWN>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "Drummer's hair is fun."
+**Jong (3):** "Drummer's hair is fun."
+
+----------------------
+
+__**125) Notorious - Trax**__
+<https://www.youtube.com/watch?v=gh_b4JX6aGw&ab_channel=SMTOWN>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "Generic EDM drop build up trash. Feat. only decent part of the song."
+**Jong (3):** "Generic EDM drop build up trash. Feat. only decent part of the song."
+
+----------------------
+
+__**124) Escape - Trax**__
+<https://www.youtube.com/watch?v=yns5LTJEpvw&ab_channel=SMTOWN>
+**Average:** 3.0
+**Total Points:** 6
+**Controversy:** 0.0
+
+__Scores__
+3 - Jong, Jong2
+
+__Comments__
+**Jong2 (3):** "That EDM build drop chorus is hilariously dumb. There are some nice SM vocal parts beyond that, so it isn't complete garbage"
+**Jong (3):** "That EDM build drop chorus is hilariously dumb. There are some nice SM vocal parts beyond that, so it isn't complete garbage"
+
+----------------------
+
+__**123) The Day - IZ**__
+<https://www.youtube.com/watch?v=FOEKkU3zEm8&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Jong, Jong2
+
+__Comments__
+**Jong2 (4):** "Chorus vocals sound really strained and don't work. Soft IZ not for me."
+**Jong (4):** "Chorus vocals sound really strained and don't work. Soft IZ not for me."
+
+----------------------
+
+__**122) Special Guy - Lunafly**__
+<https://www.youtube.com/watch?v=RWMx26y8tzw&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Jong, Jong2
+
+__Comments__
+**Jong2 (4):** "Yikes. This wasn't good, and it wasn't improved by the feature either."
+**Jong (4):** "Yikes. This wasn't good, and it wasn't improved by the feature either."
+
+----------------------
+
+__**121) Scorpio - Trax**__
+<https://www.youtube.com/watch?v=c0fYzOr89TM&ab_channel=SMTOWN>
+**Average:** 4.0
+**Total Points:** 8
+**Controversy:** 0.0
+
+__Scores__
+4 - Jong, Jong2
+
+__Comments__
+**Jong2 (4):** "Wasn't expecting this. Not a big fan of this kind of scream rock"
+**Jong (4):** "Wasn't expecting this. Not a big fan of this kind of scream rock"
+
+----------------------
+
+__**120) Regulus - ONEWE**__
+<https://www.youtube.com/watch?v=kwH_IbaICHI&ab_channel=StoneMusicEntertainment>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "The autotune ruins this. No need for it in this kind of song. Apart from that, vocals are nice on the chorus, and it does the soft ballad style well."
+**Jong (5):** "The autotune ruins this. No need for it in this kind of song. Apart from that, vocals are nice on the chorus, and it does the soft ballad style well."
+
+----------------------
+
+__**119) Q - ONEWE**__
+<https://www.youtube.com/watch?v=Ww0O3RhZbXw&ab_channel=StoneMusicEntertainment>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "Hwasa can't save this, this just isn't my style of song from a band"
+**Jong (5):** "Hwasa can't save this, this just isn't my style of song from a band"
+
+----------------------
+
+__**118) Like You - Honeyst**__
+<https://www.youtube.com/watch?v=FzH4JFJx4SU&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "The first song we listened to in the watch alongs. Massive whiplash from SMTM rate."
+**Jong (5):** "The first song we listened to in the watch alongs. Massive whiplash from SMTM rate."
+
+----------------------
+
+__**117) Are You Okay - The East Light**__
+<https://www.youtube.com/watch?v=aPmEuMjDdb0&ab_channel=TheEastLight.TheEastLight.Verified>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** ":hwasa_oof: . Some nice parts here, but overall pretty weak. Also really unfortunate title."
+**Jong (5):** ":hwasa_oof: . Some nice parts here, but overall pretty weak. Also really unfortunate title."
+
+----------------------
+
+__**116) Sadness - LED Apple**__
+<https://www.youtube.com/watch?v=EQxXT96slDo&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "2nd gen boy group given instruments. This is just a meh boy group song."
+**Jong (5):** "2nd gen boy group given instruments. This is just a meh boy group song."
+
+----------------------
+
+__**115) Super Hero - Lunafly**__
+<https://www.youtube.com/watch?v=SIoe30fatYI&ab_channel=officialLUNAFLY>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "English lyrics makes this cringier (same song as How Nice Would It Be)"
+**Jong (5):** "English lyrics makes this cringier (same song as How Nice Would It Be)"
+
+----------------------
+
+__**114) Clear Day, Cloudy Day - Lunafly**__
+<https://www.youtube.com/watch?v=Y7tjuadr3Lk&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "Just a boring ballad with ok vocals. Meh."
+**Jong (5):** "Just a boring ballad with ok vocals. Meh."
+
+----------------------
+
+__**113) Cold Rain - Trax**__
+<https://www.youtube.com/watch?v=t82dOSf6SYM&ab_channel=lefty>
+**Average:** 5.0
+**Total Points:** 10
+**Controversy:** 0.0
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5):** "Pretty boring, I couldn't tell you how it goes and I just listened to it."
+**Jong (5):** "Pretty boring, I couldn't tell you how it goes and I just listened to it."
+
+----------------------
+
+__**112) Lonely - N.Flying**__
+<https://www.youtube.com/watch?v=VFioNvNNs5Y&ab_channel=StoneMusicEntertainment>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Ok ballad band song, but I'm not a fan of the rapping here."
+**Jong (6):** "Ok ballad band song, but I'm not a fan of the rapping here."
+
+----------------------
+
+__**111) How R U Today - N.Flying**__
+<https://www.youtube.com/watch?v=n5t0wpWJzkw&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Vocals are nice, but I'm not a fan of the rap. Rest of the song is pretty average"
+**Jong (6):** "Vocals are nice, but I'm not a fan of the rap. Rest of the song is pretty average"
+
+----------------------
+
+__**110) Good Bam - N.Flying**__
+<https://www.youtube.com/watch?v=_2XBCywb8ng&ab_channel=FNCEnt>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Hweseung carries the vocals, but the raps really take me out of this song."
+**Jong (6):** "Hweseung carries the vocals, but the raps really take me out of this song."
+
+----------------------
+
+__**109) Starlight - ONEWE**__
+<https://www.youtube.com/watch?v=W7OYscgc2CU&ab_channel=StoneMusicEntertainment>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "This is a sleeper, but at least a pleasant sleeper."
+**Jong (6):** "This is a sleeper, but at least a pleasant sleeper."
+
+----------------------
+
+__**108) Ring On My Ears - ONEWE**__
+<https://www.youtube.com/watch?v=ACbPazgTfBs&ab_channel=StoneMusicEntertainment>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Not as big on these kind of rap heavy band songs, but they sound ok."
+**Jong (6):** "Not as big on these kind of rap heavy band songs, but they sound ok."
+
+----------------------
+
+__**107) Someone to Love - Honeyst**__
+<https://www.youtube.com/watch?v=atm1nif3-s0&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "KANG MINA. Song is ok."
+**Jong (6):** "KANG MINA. Song is ok."
+
+----------------------
+
+__**106) All You Want - IZ**__
+<https://www.youtube.com/watch?v=RThtQnQ6BOk&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Cutesy boy group sound, much prefer it when they go harder on the rock elements"
+**Jong (6):** "Cutesy boy group sound, much prefer it when they go harder on the rock elements"
+
+----------------------
+
+__**105) Angel - IZ**__
+<https://www.youtube.com/watch?v=vPPs8HJ5764&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Nah, not for me."
+**Jong (6):** "Nah, not for me."
+
+----------------------
+
+__**104) I Am What I Am - The East Light**__
+<https://www.youtube.com/watch?v=stccn8J7tqY&ab_channel=TheEastLight.>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Not bad, not hugely sold on the vocals, but the instrumentals are good (especially considering they are pretty young apparently?)"
+**Jong (6):** "Not bad, not hugely sold on the vocals, but the instrumentals are good (especially considering they are pretty young apparently?)"
+
+----------------------
+
+__**The East Light**__
+**Overall Average:** 3.25
+**Total Points:** 52
+**Biggest Fans:** Jong2 (3.25), Jong (3.25)
+**Biggest Antis:** Jong (3.25), Jong2 (3.25)
 
 __Rankings__
-1) I Like That
-10) Alone
-19) Touch My Body
-21) Loving U
-42) Give It To Me
-60) Shake It
-67) I Swear
-103) Lonely
-110) So Cool
-113) How Dare You
-129) Shady Girl
-135) Push Push
+104) I Am What I Am
+117) Are You Okay
+130) Love Flutters
+131) Real Man
+132) I Got You
+133) Holla
+135) You're My Love (Tropical Mix)
+137) Love Is...
 
 __Scores__
-10 - Kaymarie
-9 - Claudia
-8 - Annie, Cooper, Loewe, Sat
+3 - Jong, Jong2
 
 __Comments__
-**Sat (8.08):** "can they get back together please "
-**Loewe (8.0):** "SUMMER QUEENS, but like their best songs aren't their summer songs LOL that's kinda sad and what's sadder is they're more known for their summer songs, which are all good not gonna lie, but their best songs aren't those summer songs, but oh well they still BANG."
-**Cooper (8.0):** "summer legends"
-**Annie (5.75):** "One of K-pop's most iconic groups - their music may not always be my cup of tea, and their image as "Summer Queens" may not sit right with me (if only because I didn't like many songs associated with this image), but Sistar still has a pretty solid discography in retrospect. They have all-time faves like "I Like That" and "Loving U" as well as a bunch of other amazing songs. The Sistar members are also all very fucking attractive women and I just really love them, man."
+**Jong2 (3.25):** "What happened to this group is disgusting, I haven't read into the whole situation but I really hope the people involved have faced consequences for their actions. Regarding their music, they weren't great."
+**Jong (3.25):** "What happened to this group is disgusting, I haven't read into the whole situation but I really hope the people involved have faced consequences for their actions. Regarding their music, they weren't great."
+
+----------------------
+
+__**103) Time Is Up - LED Apple**__
+<https://www.youtube.com/watch?v=7MfvdFY253Q&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "2nd gen boy group given instruments. Not that bad though, just not something that really pulls me in. I also don't like rapping in bands."
+**Jong (6):** "2nd gen boy group given instruments. Not that bad though, just not something that really pulls me in. I also don't like rapping in bands."
+
+----------------------
+
+__**102) Let the Wind Blow - LED Apple**__
+<https://www.youtube.com/watch?v=fbkixXucdIw&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "2nd gen boy group given instruments. Pretty forgettable song."
+**Jong (6):** "2nd gen boy group given instruments. Pretty forgettable song."
+
+----------------------
+
+__**101) How Nice Would It Be - Lunafly**__
+<https://www.youtube.com/watch?v=9uqmAHuU9Y4&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "OK."
+**Jong (6):** "OK."
+
+----------------------
+
+__**100) This Isn't You - Lunafly**__
+<https://www.youtube.com/watch?v=0aeJ35Gtb68&ab_channel=GENIEMUSIC>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Vocals are nice, but I'm not engaged with the song at all."
+**Jong (6):** "Vocals are nice, but I'm not engaged with the song at all."
+
+----------------------
+
+__**Lunafly**__
+**Overall Average:** 4.111
+**Total Points:** 74
+**Biggest Fans:** Jong2 (4.11), Jong (4.11)
+**Biggest Antis:** Jong (4.11), Jong2 (4.11)
+
+__Rankings__
+100) This Isn't You
+101) How Nice Would It Be
+114) Clear Day, Cloudy Day
+115) Super Hero
+122) Special Guy
+127) Stardust
+128) Yeowooya
+129) Fly To Love
+134) Quiero Besarte
+
+__Scores__
+4 - Jong, Jong2
+
+__Comments__
+**Jong2 (4.11):** "Crimson Chin and friends somehow manage to have many comebacks while sucking in every single one."
+**Jong (4.11):** "Crimson Chin and friends somehow manage to have many comebacks while sucking in every single one."
+
+----------------------
+
+__**99) Lovesick - FT. Island**__
+<https://www.youtube.com/watch?v=gnLwCb8Cz7I&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Poor Hongki's hair. Decent debut, but they have much better songs later. Also lol at having two songs with the same name."
+**Jong (6):** "Poor Hongki's hair. Decent debut, but they have much better songs later. Also lol at having two songs with the same name."
+
+----------------------
+
+__**98) Thunder - FT. Island**__
+<https://www.youtube.com/watch?v=_DIympjN8dA&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Early FT Island."
+**Jong (6):** "Early FT Island."
+
+----------------------
+
+__**97) Until You Come Back - FT. Island**__
+<https://www.youtube.com/watch?v=MGMw_dICtck&ab_channel=priela>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Hongki singing sad ballad rock song again."
+**Jong (6):** "Hongki singing sad ballad rock song again."
+
+----------------------
+
+__**96) Bad Woman - FT. Island**__
+<https://www.youtube.com/watch?v=2ihrwdXQae8&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "This would have done better if it wasn't just the same line 1000 times."
+**Jong (6):** "This would have done better if it wasn't just the same line 1000 times."
+
+----------------------
+
+__**95) I Hope - FT. Island**__
+<https://www.youtube.com/watch?v=JnC5O2s1cvM&ab_channel=KoreanLover54>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "A lot of these songs blend into eachother. Hongki vocals still good, but otherwise not much to differentiate the songs."
+**Jong (6):** "A lot of these songs blend into eachother. Hongki vocals still good, but otherwise not much to differentiate the songs."
+
+----------------------
+
+__**94) Love Letter - FT. Island**__
+<https://www.youtube.com/watch?v=rpo31tIYACM&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Another repetitive, forgetful FT island song."
+**Jong (6):** "Another repetitive, forgetful FT island song."
+
+----------------------
+
+__**93) Love Love Love - FT. Island**__
+<https://www.youtube.com/watch?v=kWIpynw5cHI&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Another repetitive, forgetful FT island song"
+**Jong (6):** "Another repetitive, forgetful FT island song"
+
+----------------------
+
+__**92) Like Birds - FT. Island**__
+<https://www.youtube.com/watch?v=IVonGIARJtY&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 6.0
+**Total Points:** 12
+**Controversy:** 0.0
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6):** "Rap parts drag this, and Hongki doesn't sound that good here. Pretty meh."
+**Jong (6):** "Rap parts drag this, and Hongki doesn't sound that good here. Pretty meh."
+
+----------------------
+
+__**91) Intuition - CNBLUE**__
+<https://www.youtube.com/watch?v=VfDyOYP3IwM&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "This is decent, has that minor sound that I like, but nothing really stuck with me as something I really liked."
+**Jong (7):** "This is decent, has that minor sound that I like, but nothing really stuck with me as something I really liked."
+
+----------------------
+
+__**90) Sill in Love - CNBLUE**__
+<https://www.youtube.com/watch?v=IlrNytpPv34&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Ok, but kinda forgettable"
+**Jong (7):** "Ok, but kinda forgettable"
+
+----------------------
+
+__**89) Can't Stop - CNBLUE**__
+<https://www.youtube.com/watch?v=75KBwVtd_W0&ab_channel=CNBLUE%28%EC%94%A8%EC%97%94%EB%B8%94%EB%A3%A8%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Not bad, wouldn't seek it out, but catchy enough."
+**Jong (7):** "Not bad, wouldn't seek it out, but catchy enough."
+
+----------------------
+
+__**88) Cinderella - CNBLUE**__
+<https://www.youtube.com/watch?v=CkY8I7s_TOA&ab_channel=StoneMusicEntertainment>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Pretty catchy, but the chorus gets old fast. Some nice instrumental and harmonies in the verses."
+**Jong (7):** "Pretty catchy, but the chorus gets old fast. Some nice instrumental and harmonies in the verses."
+
+----------------------
+
+__**87) Between Us - CNBLUE**__
+<https://www.youtube.com/watch?v=oHaSMGJRSAQ&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "This was ok, but felt more of a generic synthy boy group dance track rather than a song for a band."
+**Jong (7):** "This was ok, but felt more of a generic synthy boy group dance track rather than a song for a band."
+
+----------------------
+
+__**86) Awesome - N.Flying**__
+<https://www.youtube.com/watch?v=I4yiOSuk930&ab_channel=N.Flying%28%EC%97%94%ED%94%8C%EB%9D%BC%EC%9E%89%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "I like the piano a lot here, but I'm not a fan of these rap focused band songs."
+**Jong (7):** "I like the piano a lot here, but I'm not a fan of these rap focused band songs."
+
+----------------------
+
+__**85) Make Some Noise - ONEWE**__
+<https://www.youtube.com/watch?v=ZpNpoSFCtEo&ab_channel=studioweus>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Not a big fan of this instrumental break, and while they sound good I'm not completely sold on the rest. Still pretty decent though."
+**Jong (7):** "Not a big fan of this instrumental break, and while they sound good I'm not completely sold on the rest. Still pretty decent though."
+
+----------------------
+
+__**84) Parting - ONEWE**__
+<https://www.youtube.com/watch?v=JnnNqYknix8&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Snooze. Guitar solo saved this by making it more interesting towards the end."
+**Jong (7):** "Snooze. Guitar solo saved this by making it more interesting towards the end."
+
+----------------------
+
+__**83) Wake Me Up - Marmello**__
+<https://www.youtube.com/watch?v=Zy9wzvcofqM&ab_channel=GENIEMUSIC>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Intro was promising, but vocally didn't quite deliver for me. She's good in most of the song, but the chorus falls flat."
+**Jong (7):** "Intro was promising, but vocally didn't quite deliver for me. She's good in most of the song, but the chorus falls flat."
+
+----------------------
+
+__**82) Like We Used To - The Rose**__
+<https://www.youtube.com/watch?v=K1FQeUXn_sc&ab_channel=StoneMusicEntertainment>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Nothing that really sticks for me. Won't go back to it in a hurry"
+**Jong (7):** "Nothing that really sticks for me. Won't go back to it in a hurry"
+
+----------------------
+
+__**81) How Dare You - LED Apple**__
+<https://www.youtube.com/watch?v=liVfzHufJmE&ab_channel=EVILMINIC00KIES>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "2nd gen boy group given instruments. OK song, but not really a band vibe?"
+**Jong (7):** "2nd gen boy group given instruments. OK song, but not really a band vibe?"
+
+----------------------
+
+__**80) Run to You - LED Apple**__
+<https://www.youtube.com/watch?v=eNiLSb2_kL0&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "2nd gen boy group given instruments. I like the vibe in this song. The back and forth on the vocals work nicely. Rap brings it down though."
+**Jong (7):** "2nd gen boy group given instruments. I like the vibe in this song. The back and forth on the vocals work nicely. Rap brings it down though."
+
+----------------------
+
+__**79) After Love - FT. Island**__
+<https://www.youtube.com/watch?v=vRqXAhYfK3I&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Angry sad ballad."
+**Jong (7):** "Angry sad ballad."
+
+----------------------
+
+__**78) Heaven - FT. Island**__
+<https://www.youtube.com/watch?v=uniJ2KUljfQ&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "String section is very nice, but apart from that it doesn't do much for me"
+**Jong (7):** "String section is very nice, but apart from that it doesn't do much for me"
+
+----------------------
+
+__**77) To The Light - FT. Island**__
+<https://www.youtube.com/watch?v=hOxAz9NaEEQ&ab_channel=WarnerMusicJapan>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Japanese MV linked instead. Ok song, nothing too memorable"
+**Jong (7):** "Japanese MV linked instead. Ok song, nothing too memorable"
+
+----------------------
+
+__**76) Let You Go - Trax**__
+<https://www.youtube.com/watch?v=Gyi4Z_9VOe4&ab_channel=SMTOWN>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "My ballad bias doesn't do enough to give this a higher score than this, but it's still somewhat enjoyable for me. Bridge guitar + vocals pretty good."
+**Jong (7):** "My ballad bias doesn't do enough to give this a higher score than this, but it's still somewhat enjoyable for me. Bridge guitar + vocals pretty good."
+
+----------------------
+
+__**75) Oh! My Goddess - Trax**__
+<https://www.youtube.com/watch?v=RXk9Th9gsjM&ab_channel=SMTOWN>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "Seohyun looks like she is being held against her will. Them constantly switching styles doesn't help lol"
+**Jong (7):** "Seohyun looks like she is being held against her will. Them constantly switching styles doesn't help lol"
+
+----------------------
+
+__**74) Blind - Trax**__
+<https://www.youtube.com/watch?v=nVkoHTRGoco&ab_channel=SMTOWN>
+**Average:** 7.0
+**Total Points:** 14
+**Controversy:** 0.0
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7):** "SM Family appearances. Otherwise band ballad."
+**Jong (7):** "SM Family appearances. Otherwise band ballad."
+
+----------------------
+
+__**73) Love - CNBLUE**__
+<https://www.youtube.com/watch?v=sl1U81q_vkY&ab_channel=CNBLUE%28%EC%94%A8%EC%97%94%EB%B8%94%EB%A3%A8%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "The mix of acoustic and electric guitar here is nice, along with a very catchy chorus."
+**Jong (8):** "The mix of acoustic and electric guitar here is nice, along with a very catchy chorus."
+
+----------------------
+
+__**72) Love Girl (new ver) - CNBLUE**__
+<https://www.youtube.com/watch?v=YmyCA91xJ5Y&ab_channel=CNBLUE%28%EC%94%A8%EC%97%94%EB%B8%94%EB%A3%A8%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Another jam from them. Bass sounds nice here. They have some bops amongst the ok songs for sure."
+**Jong (8):** "Another jam from them. Bass sounds nice here. They have some bops amongst the ok songs for sure."
+
+----------------------
+
+__**71) Hey You - CNBLUE**__
+<https://www.youtube.com/watch?v=hZYuZ5DIvn4&ab_channel=CNBLUE%28%EC%94%A8%EC%97%94%EB%B8%94%EB%A3%A8%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Pretty good, chorus is very fun. I like the little dododo adlibs too"
+**Jong (8):** "Pretty good, chorus is very fun. I like the little dododo adlibs too"
+
+----------------------
+
+__**70) Then, Now, and Forever - CNBLUE**__
+<https://www.youtube.com/watch?v=236ddk-0sOI&ab_channel=FNCEnt>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Decent band ballad. I like the guitar riff, but it does sound very familiar."
+**Jong (8):** "Decent band ballad. I like the guitar riff, but it does sound very familiar."
+
+----------------------
+
+__**69) Seoul Hillbilly - Royal Pirates**__
+<https://www.youtube.com/watch?v=PRjX9gbeEIA&ab_channel=RoyalPirates-Topic>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "I like the keyboard synths and poppy guitar in this."
+**Jong (8):** "I like the keyboard synths and poppy guitar in this."
+
+----------------------
+
+__**68) Run Away - Royal Pirates**__
+<https://www.youtube.com/watch?v=-ldI-oGzQQk&ab_channel=RoyalPiratesOfficialChannel>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "I really like the bridge breakdown here. The rest of the song is a bit more simple though, so it doesn't get as high a score."
+**Jong (8):** "I really like the bridge breakdown here. The rest of the song is a bit more simple though, so it doesn't get as high a score."
+
+----------------------
+
+__**67) Like a Flower - N.Flying**__
+<https://www.youtube.com/watch?v=B6fTdRyaRO0&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Nice vocals in this, but the rest of the song isn't very interesting"
+**Jong (8):** "Nice vocals in this, but the rest of the song isn't very interesting"
+
+----------------------
+
+__**66) Oh really. - N.Flying**__
+<https://www.youtube.com/watch?v=kT3Swso1is0&ab_channel=FNCEnt>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "I like the chorus melody and Hweseung can carry most songs with his voice. Great summer song."
+**Jong (8):** "I like the chorus melody and Hweseung can carry most songs with his voice. Great summer song."
+
+----------------------
+
+__**65) Feeling Good - ONEWE**__
+<https://www.youtube.com/watch?v=04Xds754tOc&ab_channel=StoneMusicEntertainment>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "The breakdown on the bridge was great. Catchy hook and really groovy instrumentals throughout."
+**Jong (8):** "The breakdown on the bridge was great. Catchy hook and really groovy instrumentals throughout."
+
+----------------------
+
+__**64) Perfume - Honeyst**__
+<https://www.youtube.com/watch?v=U_VAMSz25gc&ab_channel=FNCNEOZSCHOOL%28FNC%EB%84%A4%EC%98%A4%EC%A6%88%EC%8A%A4%EC%BF%A8%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "This is a bop. Nice energy to the song and a catchy chorus melody."
+**Jong (8):** "This is a bop. Nice energy to the song and a catchy chorus melody."
+
+----------------------
+
+__**Honeyst**__
+**Overall Average:** 6.333
+**Total Points:** 38
+**Biggest Fans:** Jong2 (6.33), Jong (6.33)
+**Biggest Antis:** Jong (6.33), Jong2 (6.33)
+
+__Rankings__
+64) Perfume
+107) Someone to Love
+118) Like You
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6.33):** "Ok overall, can't say I'll be going back to them often, but they weren't terrible either."
+**Jong (6.33):** "Ok overall, can't say I'll be going back to them often, but they weren't terrible either."
+
+----------------------
+
+__**63) Final Kiss - IZ**__
+<https://www.youtube.com/watch?v=m8p-jCqW3XY&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "This is nice, guitar has some nice flair to it."
+**Jong (8):** "This is nice, guitar has some nice flair to it."
+
+----------------------
+
+__**62) Puppet - Marmello**__
+<https://www.youtube.com/watch?v=cJjIQP56CxU&ab_channel=GENIEMUSIC>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Not sold on the "Puppet Puppet Pow" hook, but the rest is nice. Instrumentals are a stand out in this one, really like the guitar solo."
+**Jong (8):** "Not sold on the "Puppet Puppet Pow" hook, but the rest is nice. Instrumentals are a stand out in this one, really like the guitar solo."
+
+----------------------
+
+__**61) Baby - The Rose**__
+<https://www.youtube.com/watch?v=OmetCO_ZFnI&ab_channel=StoneMusicEntertainment>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "I like the guitar riff build from the bridge to the end, and Woosung's vocals are always a stand out"
+**Jong (8):** "I like the guitar riff build from the bridge to the end, and Woosung's vocals are always a stand out"
+
+----------------------
+
+__**60) Birthday Killer - LED Apple**__
+<https://www.youtube.com/watch?v=bBiiULw1UrM&ab_channel=yumaiysub>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "1st song I've heard from them when they sound like an actual band and not just a boy group with an instrument gimmick. I like this."
+**Jong (8):** "1st song I've heard from them when they sound like an actual band and not just a boy group with an instrument gimmick. I like this."
+
+----------------------
+
+__**59) Bad Boys - LED Apple**__
+<https://www.youtube.com/watch?v=kGStVZfz2-s&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "2nd gen boy group given instruments. This is actually a bop. Latin pop rock. Really nice after hearing 20 versions of the same song already."
+**Jong (8):** "2nd gen boy group given instruments. This is actually a bop. Latin pop rock. Really nice after hearing 20 versions of the same song already."
+
+----------------------
+
+__**58) Severely - FT. Island**__
+<https://www.youtube.com/watch?v=mZJnZD1UbA8&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Nice band ballad."
+**Jong (8):** "Nice band ballad."
+
+----------------------
+
+__**57) I Wish - FT. Island**__
+<https://www.youtube.com/watch?v=3x1gpjO-JYs&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "This is a bop, latin influences kinda work here? Chorus is very 00s boy band style."
+**Jong (8):** "This is a bop, latin influences kinda work here? Chorus is very 00s boy band style."
+
+----------------------
+
+__**56) Memory - FT. Island**__
+<https://www.youtube.com/watch?v=LZrShwp2KVQ&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Hongki is great, carries these songs with his vocals."
+**Jong (8):** "Hongki is great, carries these songs with his vocals."
+
+----------------------
+
+__**55) Madly - FT. Island**__
+<https://www.youtube.com/watch?v=IkVjIkWHqLI&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Hongki ballad, pretty simple but still pretty effective as he has a great voice."
+**Jong (8):** "Hongki ballad, pretty simple but still pretty effective as he has a great voice."
+
+----------------------
+
+__**54) Pray - FT. Island**__
+<https://www.youtube.com/watch?v=_1ZUFyS3-e8&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "This is much harder than a lot of their other stuff."
+**Jong (8):** "This is much harder than a lot of their other stuff."
+
+----------------------
+
+__**53) Midsummer Night's Dream - FT. Island**__
+<https://www.youtube.com/watch?v=Gzr-bPNQfL0&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "Nice bop, has all the Ft island tropes, but does them well."
+**Jong (8):** "Nice bop, has all the Ft island tropes, but does them well."
+
+----------------------
+
+__**52) Quit - FT. Island**__
+<https://www.youtube.com/watch?v=DZ0w6iP4I8I&ab_channel=FNCEnt>
+**Average:** 8.0
+**Total Points:** 16
+**Controversy:** 0.0
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8):** "If this is their last song, what a fitting name lmao. Though, song is decent, nice build to the chorus and has a nice power ballad feel to the chorus (like 99% of all their songs, but still)"
+**Jong (8):** "If this is their last song, what a fitting name lmao. Though, song is decent, nice build to the chorus and has a nice power ballad feel to the chorus (like 99% of all their songs, but still)"
+
+----------------------
+
+__**51) I'm a Loner - CNBLUE**__
+<https://www.youtube.com/watch?v=7arOrCfvumQ&ab_channel=CNBLUE%28%EC%94%A8%EC%97%94%EB%B8%94%EB%A3%A8%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "da di do dee da da dooooo"
+**Jong (9):** "da di do dee da da dooooo"
+
+----------------------
+
+__**50) I'm Sorry - CNBLUE**__
+<https://www.youtube.com/watch?v=4p3cKsDCA0Y&ab_channel=CNBLUE%28%EC%94%A8%EC%97%94%EB%B8%94%EB%A3%A8%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "This is a jam."
+**Jong (9):** "This is a jam."
+
+----------------------
+
+__**49) You're So Fine - CNBLUE**__
+<https://www.youtube.com/watch?v=wAZJ_9D6lM4&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Love this jazz band funk instrumental. Bass guitar pops off the entire song."
+**Jong (9):** "Love this jazz band funk instrumental. Bass guitar pops off the entire song."
+
+----------------------
+
+__**CNBLUE**__
+**Overall Average:** 7.833
+**Total Points:** 188
+**Biggest Fans:** Jong2 (7.83), Jong (7.83)
+**Biggest Antis:** Jong (7.83), Jong2 (7.83)
+
+__Rankings__
+49) You're So Fine
+50) I'm Sorry
+51) I'm a Loner
+70) Then, Now, and Forever
+71) Hey You
+72) Love Girl (new ver)
+73) Love
+87) Between Us
+88) Cinderella
+89) Can't Stop
+90) Sill in Love
+91) Intuition
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (7.83):** "Shame that dude is trash. Apart from him this group is mostly ok to great. Not bad (band bias coming in here)."
+**Jong (7.83):** "Shame that dude is trash. Apart from him this group is mostly ok to great. Not bad (band bias coming in here)."
+
+----------------------
+
+__**48) Shout Out (Synth Rock Version) - Royal Pirates**__
+<https://www.youtube.com/watch?v=DkUUTxcoBo0&ab_channel=RoyalPiratesOfficialChannel>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "This is just my kind of 00s band style. Suddenly went EDM on the bridge?"
+**Jong (9):** "This is just my kind of 00s band style. Suddenly went EDM on the bridge?"
+
+----------------------
+
+__**47) Betting Everything - Royal Pirates**__
+<https://www.youtube.com/watch?v=BeEdHpB_D9k&ab_channel=RoyalPirates-Topic>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Pretty good band ballad with a bit of a jazzy groove to it. Nice vocals too."
+**Jong (9):** "Pretty good band ballad with a bit of a jazzy groove to it. Nice vocals too."
+
+----------------------
+
+__**46) I Like You - Day6**__
+<https://www.youtube.com/watch?v=daoMYJv8i0c&ab_channel=JYPEntertainment>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Great band ballad, does get a little repetitive, but the vocals carry it through. Brian and Bob kill it on the chorus."
+**Jong (9):** "Great band ballad, does get a little repetitive, but the vocals carry it through. Brian and Bob kill it on the chorus."
+
+----------------------
+
+__**45) Starlight - N.Flying**__
+<https://www.youtube.com/watch?v=k2bjShbdb4U&ab_channel=FNCEnt>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Sad MV, would probs work well as an OST if they weren't all about ballads."
+**Jong (9):** "Sad MV, would probs work well as an OST if they weren't all about ballads."
+
+----------------------
+
+__**44) Reminisce About All - ONEWE**__
+<https://www.youtube.com/watch?v=oCAETENi07I&ab_channel=StoneMusicEntertainment>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Love the piano start with just vocals and then all the instruments fill in as it builds towards the end. Really nice pay off with the vocals at the end."
+**Jong (9):** "Love the piano start with just vocals and then all the instruments fill in as it builds towards the end. Really nice pay off with the vocals at the end."
+
+----------------------
+
+__**43) Memento - IZ**__
+<https://www.youtube.com/watch?v=Kox6JkTzJrM&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "I'll take this kind of IZ over cute IZ. Guitar riff is really nice."
+**Jong (9):** "I'll take this kind of IZ over cute IZ. Guitar riff is really nice."
+
+----------------------
+
+__**42) Can't Stop - Marmello**__
+<https://www.youtube.com/watch?v=a-iPoUI47xs&ab_channel=GENIEMUSIC>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Guitar does a great job here. Sounds very Jrock inspired."
+**Jong (9):** "Guitar does a great job here. Sounds very Jrock inspired."
+
+----------------------
+
+__**41) Moonlight - Marmello**__
+<https://www.youtube.com/watch?v=l4uuJV2DnjI&ab_channel=GENIEMUSIC>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "This is just the same song as Moment of Glory but with slightly different mixing."
+**Jong (9):** "This is just the same song as Moment of Glory but with slightly different mixing."
+
+----------------------
+
+__**40) The Moment of Glory - Marmello**__
+<https://www.youtube.com/watch?v=-LQtb_56j90&ab_channel=GENIEMUSIC>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Wait I love this? What a good sport song. Very repetitive chorus, but this is fun and has a lot of energy. Guitar solo on the bridge is very nice too."
+**Jong (9):** "Wait I love this? What a good sport song. Very repetitive chorus, but this is fun and has a lot of energy. Guitar solo on the bridge is very nice too."
+
+----------------------
+
+__**Marmello**__
+**Overall Average:** 8.4
+**Total Points:** 84
+**Biggest Fans:** Jong2 (8.4), Jong (8.4)
+**Biggest Antis:** Jong (8.4), Jong2 (8.4)
+
+__Rankings__
+40) The Moment of Glory
+41) Moonlight
+42) Can't Stop
+62) Puppet
+83) Wake Me Up
+
+__Scores__
+8 - Jong, Jong2
+
+__Comments__
+**Jong2 (8.4):** "Pretty solid in the end. I wasn't sold immediately, but they are quite good. I'm assuming they have disbanded now, which is a shame. But hopefully we get more girl bands in the future (like Rolling Quartz)."
+**Jong (8.4):** "Pretty solid in the end. I wasn't sold immediately, but they are quite good. I'm assuming they have disbanded now, which is a shame. But hopefully we get more girl bands in the future (like Rolling Quartz)."
+
+----------------------
+
+__**39) Sorry - The Rose**__
+<https://www.youtube.com/watch?v=uXcpLWB2eBA&ab_channel=StoneMusicEntertainment>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Solid debut. His vocals are the unique stand outs for this group."
+**Jong (9):** "Solid debut. His vocals are the unique stand outs for this group."
+
+----------------------
+
+__**38) Someone Met By Chance - LED Apple**__
+<https://www.youtube.com/watch?v=fmvbfT9HHbc&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "2nd gen boy group given instruments. This is actually a banger."
+**Jong (9):** "2nd gen boy group given instruments. This is actually a banger."
+
+----------------------
+
+__**37) With the Wind - LED Apple**__
+<https://www.youtube.com/watch?v=cEKlysjlI3M&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "2nd gen boy group given instruments. Nice band ballad. I like the melody on the chorus, and his vocals work well here."
+**Jong (9):** "2nd gen boy group given instruments. Nice band ballad. I like the melody on the chorus, and his vocals work well here."
+
+----------------------
+
+__**LED Apple**__
+**Overall Average:** 6.6
+**Total Points:** 132
+**Biggest Fans:** Jong2 (6.6), Jong (6.6)
+**Biggest Antis:** Jong (6.6), Jong2 (6.6)
+
+__Rankings__
+37) With the Wind
+38) Someone Met By Chance
+59) Bad Boys
+60) Birthday Killer
+80) Run to You
+81) How Dare You
+102) Let the Wind Blow
+103) Time Is Up
+116) Sadness
+136) Dash
+
+__Scores__
+6 - Jong, Jong2
+
+__Comments__
+**Jong2 (6.6):** "I have no idea what happened with their debut, but at least every song since then was a step up. Also hilarious that this is just a 2nd gen boy group that clearly couldn't dance so they just gave a few of them instruments lmao."
+**Jong (6.6):** "I have no idea what happened with their debut, but at least every song since then was a step up. Also hilarious that this is just a 2nd gen boy group that clearly couldn't dance so they just gave a few of them instruments lmao."
+
+----------------------
+
+__**36) Hello Hello - FT. Island**__
+<https://www.youtube.com/watch?v=itGNQbJwRSk&ab_channel=FTISLAND%28FT%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Super catchy chorus, almost nostalgic sounding song."
+**Jong (9):** "Super catchy chorus, almost nostalgic sounding song."
+
+----------------------
+
+__**35) Take Me Now - FT. Island**__
+<https://www.youtube.com/watch?v=WsC0jG1M5jA&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "Harder rock song from them, this is a banger."
+**Jong (9):** "Harder rock song from them, this is a banger."
+
+----------------------
+
+__**34) Lovesick 2 - FT. Island**__
+<https://www.youtube.com/watch?v=aSyXgv_v3no&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "She's great. Both of them are vocal powerhouses that work really well on this song."
+**Jong (9):** "She's great. Both of them are vocal powerhouses that work really well on this song."
+
+----------------------
+
+__**33) Road - Trax**__
+<https://www.youtube.com/watch?v=IK-rZCbcUdA&ab_channel=SMTOWN>
+**Average:** 9.0
+**Total Points:** 18
+**Controversy:** 0.0
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9):** "I really like the progression into the chorus. Chorus would be a great anime ending."
+**Jong (9):** "I really like the progression into the chorus. Chorus would be a great anime ending."
+
+----------------------
+
+__**Trax**__
+**Overall Average:** 5.333
+**Total Points:** 96
+**Biggest Fans:** Jong2 (5.33), Jong (5.33)
+**Biggest Antis:** Jong (5.33), Jong2 (5.33)
+
+__Rankings__
+33) Road
+74) Blind
+75) Oh! My Goddess
+76) Let You Go
+113) Cold Rain
+121) Scorpio
+124) Escape
+125) Notorious
+126) Paradox
+
+__Scores__
+5 - Jong, Jong2
+
+__Comments__
+**Jong2 (5.33):** "What a trip listening to this group was. So many concept changes, so many cameos from Heechul and VIctoria. Road is really nice, will definitely be listening to it more."
+**Jong (5.33):** "What a trip listening to this group was. So many concept changes, so many cameos from Heechul and VIctoria. Road is really nice, will definitely be listening to it more."
+
+----------------------
+
+__**32) Drawing The Line - Royal Pirates**__
+<https://www.youtube.com/watch?v=w5c9H302jzk&ab_channel=RoyalPiratesOfficialChannel>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Great funky band bop. Also, Somi's dad???"
+**Jong (10):** "Great funky band bop. Also, Somi's dad???"
+
+----------------------
+
+__**31) Love Toxic - Royal Pirates**__
+<https://www.youtube.com/watch?v=t4wkDFuqVxo&ab_channel=RoyalPiratesOfficialChannel>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Really like their style of music, bop."
+**Jong (10):** "Really like their style of music, bop."
+
+----------------------
+
+__**Royal Pirates**__
+**Overall Average:** 9.0
+**Total Points:** 108
+**Biggest Fans:** Jong2 (9.0), Jong (9.0)
+**Biggest Antis:** Jong (9.0), Jong2 (9.0)
+
+__Rankings__
+31) Love Toxic
+32) Drawing The Line
+47) Betting Everything
+48) Shout Out (Synth Rock Version)
+68) Run Away
+69) Seoul Hillbilly
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (9.0):** "I surprisingly enjoyed this group a lot (surprising because a lot of others seemed to shit on them). Looking forward to checking out more from them later."
+**Jong (9.0):** "I surprisingly enjoyed this group a lot (surprising because a lot of others seemed to shit on them). Looking forward to checking out more from them later."
+
+----------------------
+
+__**30) Congratulations - Day6**__
+<https://www.youtube.com/watch?v=x3sFsHrUyLQ&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "One of the best debuts I've heard. Yes I am very biased. This is the perfect intro to Day6 as a group, song is a banger and the lyrics tell a sad story."
+**Jong (10):** "One of the best debuts I've heard. Yes I am very biased. This is the perfect intro to Day6 as a group, song is a banger and the lyrics tell a sad story."
+
+----------------------
+
+__**29) Letting Go - Day6**__
+<https://www.youtube.com/watch?v=1-1TGNmQqZA&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "I love the melody in this song, and the vocals are fantastic. Sungjin kills the prechorus."
+**Jong (10):** "I love the melody in this song, and the vocals are fantastic. Sungjin kills the prechorus."
+
+----------------------
+
+__**28) I Wait - Day6**__
+<https://www.youtube.com/watch?v=O3nFopIjmjI&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "One of Day6's most iconic songs, great verses, great chorus, banger."
+**Jong (10):** "One of Day6's most iconic songs, great verses, great chorus, banger."
+
+----------------------
+
+__**27) You Were Beautiful - Day6**__
+<https://www.youtube.com/watch?v=BS7tz2rAOSA&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Wonpil owns this song, emotional chorus suits his voice so well.  I also love the ELO style harmonic ad libs thrown in there. One of their most popular songs for a reason."
+**Jong (10):** "Wonpil owns this song, emotional chorus suits his voice so well.  I also love the ELO style harmonic ad libs thrown in there. One of their most popular songs for a reason."
+
+----------------------
+
+__**26) How Can I Say - Day6**__
+<https://www.youtube.com/watch?v=dwywhL1PenQ&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Classic hype song that is perfect for concerts. I love the verses in this, really great way to slow it down inbetween the hype choruses."
+**Jong (10):** "Classic hype song that is perfect for concerts. I love the verses in this, really great way to slow it down inbetween the hype choruses."
+
+----------------------
+
+__**25) I'm Serious - Day6**__
+<https://www.youtube.com/watch?v=ZmHQbzbM8pI&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "I love how happy and cheerful this is compared to most other Day6 songs. Summer bop."
+**Jong (10):** "I love how happy and cheerful this is compared to most other Day6 songs. Summer bop."
+
+----------------------
+
+__**24) Dance Dance - Day6**__
+<https://www.youtube.com/watch?v=NAW0idSQ6Zs&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Uwu Dowoon at the start. Now this is a song to get people moving. Can't help but bop to this song. DANCE DANCE"
+**Jong (10):** "Uwu Dowoon at the start. Now this is a song to get people moving. Can't help but bop to this song. DANCE DANCE"
+
+----------------------
+
+__**23) Hi Hello - Day6**__
+<https://www.youtube.com/watch?v=D7c7rBv-FUU&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Such a soft vocal based song. Really nice melodies on the chorus."
+**Jong (10):** "Such a soft vocal based song. Really nice melodies on the chorus."
+
+----------------------
+
+__**22) What Can I Do - Day6**__
+<https://www.youtube.com/watch?v=4RJWqIEo_Tc&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Love love love the dirty guitar in this. Almost has an anti-drop chorus, you expect something harder and it gives you a slow vibey chorus with great harmonies."
+**Jong (10):** "Love love love the dirty guitar in this. Almost has an anti-drop chorus, you expect something harder and it gives you a slow vibey chorus with great harmonies."
+
+----------------------
+
+__**21) I Loved You - Day6**__
+<https://www.youtube.com/watch?v=EwLMA5XYnKI&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "One of their better ballads, part of their mini MV series they did. Sungjin is so good on the chorus."
+**Jong (10):** "One of their better ballads, part of their mini MV series they did. Sungjin is so good on the chorus."
+
+----------------------
+
+__**20) When You Love Someone - Day6**__
+<https://www.youtube.com/watch?v=qWQ1xOfUNYQ&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "I love the harmonies and adlibs in this song, chorus has a groove to it that is unexpected with this kind of slow ballad-like song."
+**Jong (10):** "I love the harmonies and adlibs in this song, chorus has a groove to it that is unexpected with this kind of slow ballad-like song."
+
+----------------------
+
+__**19) All Alone - Day6**__
+<https://www.youtube.com/watch?v=Fd-elEnkInw&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "This song is a vocal flex. Lovely acoustic instrumentals, and great vocals"
+**Jong (10):** "This song is a vocal flex. Lovely acoustic instrumentals, and great vocals"
+
+----------------------
+
+__**18) Shoot Me - Day6**__
+<https://www.youtube.com/watch?v=g2X2LdJAIpU&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Big banger. Wonpil kills it in this song, great keyboard work + that bridge. Message of the song is also nice."
+**Jong (10):** "Big banger. Wonpil kills it in this song, great keyboard work + that bridge. Message of the song is also nice."
+
+----------------------
+
+__**17) Beautiful Feeling - Day6**__
+<https://www.youtube.com/watch?v=ltBiIr_QXac&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Soft ballad with great vocal showcases, great song for the fans. Bridge gives me chills."
+**Jong (10):** "Soft ballad with great vocal showcases, great song for the fans. Bridge gives me chills."
+
+----------------------
+
+__**16) Days Gone By - Day6**__
+<https://www.youtube.com/watch?v=1nk5O__ALI8&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "The first Day6 song I heard. I heard it in a KVille new song playlist back in late 2018 when I was getting into Kpop. One of the more interesting songs I heard at the time, with strong 80s theme in the song and the MV. It was my best decision to dive into more of their music!"
+**Jong (10):** "The first Day6 song I heard. I heard it in a KVille new song playlist back in late 2018 when I was getting into Kpop. One of the more interesting songs I heard at the time, with strong 80s theme in the song and the MV. It was my best decision to dive into more of their music!"
+
+----------------------
+
+__**15) Time of Our Life - Day6**__
+<https://www.youtube.com/watch?v=vnS_jn2uibs&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "This is the perfect concert song. Full of energy and great to single along to. Happy Day6 is so much fun."
+**Jong (10):** "This is the perfect concert song. Full of energy and great to single along to. Happy Day6 is so much fun."
+
+----------------------
+
+__**14) Sweet Chaos - Day6**__
+<https://www.youtube.com/watch?v=CWUGikRxGQs&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "This was a great follow up to Time of Our Life and another great concert song. I love the jazzy trill piano in the chorus. I also love the colour fade in effects in the MV."
+**Jong (10):** "This was a great follow up to Time of Our Life and another great concert song. I love the jazzy trill piano in the chorus. I also love the colour fade in effects in the MV."
+
+----------------------
+
+__**13) Zombie - Day6**__
+<https://www.youtube.com/watch?v=k8gx-C7GCGU&ab_channel=JYPEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "The Lockdown song. Sad that this was their last song before a year long hiatus. But it is so good."
+**Jong (10):** "The Lockdown song. Sad that this was their last song before a year long hiatus. But it is so good."
+
+----------------------
+
+__**12) The Real - N.Flying**__
+<https://www.youtube.com/watch?v=WUYzVohEAyE&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "I love this. The quirky MV also really goes with the song. Chorus goes hard."
+**Jong (10):** "I love this. The quirky MV also really goes with the song. Chorus goes hard."
+
+----------------------
+
+__**11) Hot Potato - N.Flying**__
+<https://www.youtube.com/watch?v=y1iRckD1ys4&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "This is a banger, the rap parts work here. Hweseung kills it on the chorus"
+**Jong (10):** "This is a banger, the rap parts work here. Hweseung kills it on the chorus"
+
+----------------------
+
+__**10) Rooftop - N.Flying**__
+<https://www.youtube.com/watch?v=VpaUh_BGqE0&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "I'm glad this is the one that blew up for them, it's a bop and has a great chorus."
+**Jong (10):** "I'm glad this is the one that blew up for them, it's a bop and has a great chorus."
+
+----------------------
+
+__**9) Spring Memories - N.Flying**__
+<https://www.youtube.com/watch?v=MK0mQUIktWU&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "One of my favourite N flying songs. The build up to the chorus resolves well and the song is elevated with Hweseung's vocals. The bridge is sooo good."
+**Jong (10):** "One of my favourite N flying songs. The build up to the chorus resolves well and the song is elevated with Hweseung's vocals. The bridge is sooo good."
+
+----------------------
+
+__**N.Flying**__
+**Overall Average:** 8.182
+**Total Points:** 180
+**Biggest Fans:** Jong2 (8.18), Jong (8.18)
+**Biggest Antis:** Jong (8.18), Jong2 (8.18)
+
+__Rankings__
+9) Spring Memories
+10) Rooftop
+11) Hot Potato
+12) The Real
+45) Starlight
+66) Oh really.
+67) Like a Flower
+86) Awesome
+110) Good Bam
+111) How R U Today
+112) Lonely
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (8.18):** "NGL Hweseung hard carries this group. I love his voice and he adds so much to their sound."
+**Jong (8.18):** "NGL Hweseung hard carries this group. I love his voice and he adds so much to their sound."
+
+----------------------
+
+__**8) Butterfly, Find a Flower - ONEWE**__
+<https://www.youtube.com/watch?v=s2GEyzXGBaI&ab_channel=MAKEASUB>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Oh boy that sax and smooth vocals to start had me sold in the first 30 seconds. They debuted with their best song."
+**Jong (10):** "Oh boy that sax and smooth vocals to start had me sold in the first 30 seconds. They debuted with their best song."
+
+----------------------
+
+__**7) End of Spring - ONEWE**__
+<https://www.youtube.com/watch?v=fEX1uzPK6kw&ab_channel=StoneMusicEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "It's like they did the instrumental for the SF9 song (I know it's standard western sound but still). I really like this sound from them."
+**Jong (10):** "It's like they did the instrumental for the SF9 song (I know it's standard western sound but still). I really like this sound from them."
+
+----------------------
+
+__**6) A Book In Memory - ONEWE**__
+<https://www.youtube.com/watch?v=TdaNbo8lm58&ab_channel=ONEWE>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Great band ballad, showing off nice vocals here, especially on the chorus."
+**Jong (10):** "Great band ballad, showing off nice vocals here, especially on the chorus."
+
+----------------------
+
+__**ONEWE**__
+**Overall Average:** 7.545
+**Total Points:** 166
+**Biggest Fans:** Jong2 (7.55), Jong (7.55)
+**Biggest Antis:** Jong (7.55), Jong2 (7.55)
+
+__Rankings__
+6) A Book In Memory
+7) End of Spring
+8) Butterfly, Find a Flower
+44) Reminisce About All
+65) Feeling Good
+84) Parting
+85) Make Some Noise
+108) Ring On My Ears
+109) Starlight
+119) Q
+120) Regulus
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7.55):** "A bit hit or miss for me, but when they do hit, they hit really well. Might need to check out more of their stuff to find the other hits. (Also caveat that some of these scores have been lowered due to some band fatigue on the watch2gethers)"
+**Jong (7.55):** "A bit hit or miss for me, but when they do hit, they hit really well. Might need to check out more of their stuff to find the other hits. (Also caveat that some of these scores have been lowered due to some band fatigue on the watch2gethers)"
+
+----------------------
+
+__**5) EDEN - IZ**__
+<https://www.youtube.com/watch?v=KoxnD0RWMPw&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "This song goes so hard. Guitar riff *chefs kiss*"
+**Jong (10):** "This song goes so hard. Guitar riff *chefs kiss*"
+
+----------------------
+
+__**IZ**__
+**Overall Average:** 7.167
+**Total Points:** 86
+**Biggest Fans:** Jong2 (7.17), Jong (7.17)
+**Biggest Antis:** Jong (7.17), Jong2 (7.17)
+
+__Rankings__
+5) EDEN
+43) Memento
+63) Final Kiss
+105) Angel
+106) All You Want
+123) The Day
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7.17):** "It's a shame this group is so polarizing with their releasing, sometimes I love it, other times I really don't like it. I'll happily grab the songs I love though."
+**Jong (7.17):** "It's a shame this group is so polarizing with their releasing, sometimes I love it, other times I really don't like it. I'll happily grab the songs I love though."
+
+----------------------
+
+__**4) She's in the Rain - The Rose**__
+<https://www.youtube.com/watch?v=KjbftHj6XYU&ab_channel=LoveKpopSubs18>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Their best song by a long shot, very emotional - perfect for their voices."
+**Jong (10):** "Their best song by a long shot, very emotional - perfect for their voices."
+
+----------------------
+
+__**3) Red - The Rose**__
+<https://www.youtube.com/watch?v=6pF3HCuFHvY&ab_channel=StoneMusicEntertainment>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Great summer song, love how he delivers the prechorus. Really like the guitar focused chorus here. Sad this was their last song."
+**Jong (10):** "Great summer song, love how he delivers the prechorus. Really like the guitar focused chorus here. Sad this was their last song."
+
+----------------------
+
+__**The Rose**__
+**Overall Average:** 8.8
+**Total Points:** 88
+**Biggest Fans:** Jong2 (8.8), Jong (8.8)
+**Biggest Antis:** Jong (8.8), Jong2 (8.8)
+
+__Rankings__
+3) Red
+4) She's in the Rain
+39) Sorry
+61) Baby
+82) Like We Used To
+
+__Scores__
+9 - Jong, Jong2
+
+__Comments__
+**Jong2 (8.8):** "I love the vocals in this group, very unique and really satisfying to listen to. Sad to see them go."
+**Jong (8.8):** "I love the vocals in this group, very unique and really satisfying to listen to. Sad to see them go."
+
+----------------------
+
+__**2) Wind - FT. Island**__
+<https://www.youtube.com/watch?v=QhPOwcvhGSA&ab_channel=1theK%28%EC%9B%90%EB%8D%94%EC%BC%80%EC%9D%B4%29>
+**Average:** 10.0
+**Total Points:** 20
+**Controversy:** 0.0
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10):** "Easily their best song. The first FT island song I heard, and still my favourite. Hongki pops off here."
+**Jong (10):** "Easily their best song. The first FT island song I heard, and still my favourite. Hongki pops off here."
+
+----------------------
+
+__**FT. Island**__
+**Overall Average:** 7.364
+**Total Points:** 324
+**Biggest Fans:** Jong2 (7.36), Jong (7.36)
+**Biggest Antis:** Jong (7.36), Jong2 (7.36)
+
+__Rankings__
+2) Wind
+34) Lovesick 2
+35) Take Me Now
+36) Hello Hello
+52) Quit
+53) Midsummer Night's Dream
+54) Pray
+55) Madly
+56) Memory
+57) I Wish
+58) Severely
+77) To The Light
+78) Heaven
+79) After Love
+92) Like Birds
+93) Love Love Love
+94) Love Letter
+95) I Hope
+96) Bad Woman
+97) Until You Come Back
+98) Thunder
+99) Lovesick
+
+__Scores__
+7 - Jong, Jong2
+
+__Comments__
+**Jong2 (7.36):** "Wow I can start to understand the hate some people have for this group. They've released the same song over a dozen times. Sometimes they hit well though, plus Hongki is great."
+**Jong (7.36):** "Wow I can start to understand the hate some people have for this group. They've released the same song over a dozen times. Sometimes they hit well though, plus Hongki is great."
+
+----------------------
+
+__**1) I Smile - Day6**__
+<https://www.youtube.com/watch?v=g4V36AfI4Ng&ab_channel=JYPEntertainment>
+**Average:** 11.0
+**Total Points:** 22
+**Controversy:** 0.0
+
+__Scores__
+11 - Jong, Jong2
+
+__Comments__
+**Jong2 (11):** "One of my favourite Kpop songs. Got me through plenty of tough days in the past. Sungjin owns this song."
+**Jong (11):** "One of my favourite Kpop songs. Got me through plenty of tough days in the past. Sungjin owns this song."
+
+----------------------
+
+__**Day6**__
+**Overall Average:** 10.0
+**Total Points:** 400
+**Biggest Fans:** Jong2 (10.0), Jong (10.0)
+**Biggest Antis:** Jong (10.0), Jong2 (10.0)
+
+__Rankings__
+1) I Smile
+13) Zombie
+14) Sweet Chaos
+15) Time of Our Life
+16) Days Gone By
+17) Beautiful Feeling
+18) Shoot Me
+19) All Alone
+20) When You Love Someone
+21) I Loved You
+22) What Can I Do
+23) Hi Hello
+24) Dance Dance
+25) I'm Serious
+26) How Can I Say
+27) You Were Beautiful
+28) I Wait
+29) Letting Go
+30) Congratulations
+46) I Like You
+
+__Scores__
+10 - Jong, Jong2
+
+__Comments__
+**Jong2 (10.0):** "This should be surprising no one. Day6 are my favourite group when it comes to music alone. I genuinely have dozens of plays for every one of these songs, some of them over 100. They are close to being my most listened to group. It's sad that it looks like things are stopping for the group, with enlistments coming up, and one of my biggest regrest will be not making it to see them in Jan 2020 as it looks like I'll never be able to see them live now. RIP. However, we still have a 5 member comeback in April coming up that I am really looking forward to, so hoping to go out with a bang!"
+**Jong (10.0):** "This should be surprising no one. Day6 are my favourite group when it comes to music alone. I genuinely have dozens of plays for every one of these songs, some of them over 100. They are close to being my most listened to group. It's sad that it looks like things are stopping for the group, with enlistments coming up, and one of my biggest regrest will be not making it to see them in Jan 2020 as it looks like I'll never be able to see them live now. RIP. However, we still have a 5 member comeback in April coming up that I am really looking forward to, so hoping to go out with a bang!"
 
 ----------------------
 
